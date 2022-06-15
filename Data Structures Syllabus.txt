@@ -1,0 +1,694 @@
+
+    DATA STRUCTURES SYLLABUS :
+_________________________________________________________________
+
+ Data Structures :
+---------------------
+
+     \*/ Data Structures
+     \*/ Introduction to Data Structures
+     \*/ What is Data Structure: Types, Classifications and Applications
+     \*/ Overview of Data Structures
+     \*/ Different Types of Data Structures
+     \*/ Data Structure Alignment : How Data is Arranged and Accessed in 
+         Computer Memory
+
+\*/ Introduction to Data Structures :
+                             * What Is Data ?
+                             * What Is Data Structure ?
+                             * Abstract Data Type (ADT)
+                             * Types of Data Structure :
+                                    1. Linear Data Structure
+                                    2. Non-Linear Data Structure
+     1. Linear Data Structure :
+                 *
+                 *
+ 
+     2. Non-Linear Data Structure :
+                 *
+                 *
+
+                  * Data Structures are used in Various Fields such as:
+                        - Operating system
+                        - Graphics
+                        - Computer Design
+                        - Blockchain
+                        - Genetics
+                        - Image Processing
+                        - Simulation etc.
+        
+                  * Below is an Overview of Some Popular Data Structures:
+                         1. Array:
+                         2. Linked Lists:
+                         3. Stack:
+
+                  * Basic Operations are Performed in the Stack:
+                         + Initialize
+                         + Push
+                         + Pop
+                         + Peek or Top
+                         + isEmpty
+  
+                         4. Queue:
+
+                  * Four Basic Operations are Performed on Queue:
+                         + Enqueue
+                         + Dequeue
+                         + Front
+                         + Rear
+
+                         5. Binary Tree:
+                            A Binary Tree Node contains the Following Parts :
+                               1. Data
+                               2. Pointer to left child
+                               3. Pointer to the right child
+                        
+                         6. Binary Search Tree:
+                            Binary Search Tree is a Binary Tree Following
+                            Additional Properties :
+                              *
+                              *
+                              *
+
+                         7. Heap: 
+                            Heaps can be of Two Types:
+                              + Max-Heap:
+                              + Min-Heap:
+
+                         8. Hashing Data Structure:
+         
+                         9. Matrix:
+
+                         10. Trie:
+
+SUMMARY OF Popular Data Structures :
+                         1. Array:
+                         2. Linked Lists:
+                         3. Stack:
+                         4. Queue:
+                         5. Binary Tree:
+                         6. Binary Search Tree:
+                         7. Heap:
+                         8. Hashing Data Structure:
+                         9. Matrix:
+                         10. Trie:
+
+  *********************************************************************************
+  \*/ What is Data Structure: Types, Classifications and Applications :
+        *  Data structures -
+        *  What is Data Structure: -
+        *  How Data Structure varies from Data type:
+           Few Differences Between Data Type and Data Structure - 
+               Data Type :
+                   +
+                   +
+                   +
+                   +
+                   +
+                   +
+               
+               Data Structure :
+                   +
+                   +
+                   +
+                   +
+                   +
+                   +
+
+       * Classification of Data Structure: -
+         Different Data Structure used in Different Situations :  
+               + Linear data structure -
+                 Examples of linear data structures are -
+                                                - Array
+                                                - Stack
+                                                - Queue    
+                                                - Linked List, etc
+               + Static data structure:
+               + Dynamic data structure:
+               + Non-linear data structure:
+
+       * Arrays:
+         Different Operations possible in Array:
+                                               - Searching
+                                               - Sorting
+                                               - Inserting
+                                               - Traversing
+                                               - Reserving
+                                               - Deleting
+ 
+            + Characteristics of an Array:
+                       *
+                       *
+                       *
+                       *
+                       *
+                       *
+
+            + Applications of Array: 
+                      *
+                      *
+                      *
+                      *
+                      *
+                      *
+                      *
+
+            + Real-Life Applications of Array:
+                      *
+                      *
+                      *
+                      *
+                      *
+                  
+      * Stack:    
+        Operations possible in Stack like Reversing a Stack Using:
+                                            - Recursion
+                                            - Sorting
+                                            - Deleting middle element of the stack
+      
+      + Characteristics of an Stack:
+                     *
+                     *
+                     *
+                     *
+                     *
+    
+      + Applications of Stack:
+                    *
+                    *
+                    *
+                    *
+                    *
+
+      + Real Life Applications of Stack:
+                   *
+                   *
+                   *
+
+       * Queue:
+         Basic Operations performed in Queue are:
+                                               - Enqueue
+                                               - Dequeue
+                                               - Front
+                                               - Rear etc. 
+     
+     + Characteristics of a Queue:
+                  *
+                  *
+                  * 
+
+     + Applications of Queue:
+                *
+                *
+                *
+                *
+                * 
+
+     + Real-Life Applications of Queue: 
+                *
+                *
+                *
+                * 
+ 
+      * Tree:
+        Tree has various Terminologies:
+                                       - Node
+                                       - Root
+                                       - Edge
+                                       - Height of the Tree
+                                       - Degree of the Tree, etc
+
+     + There are Different Types of Tree:
+                                - Binary Tree,
+                                - Binary Search Tree,
+                                - AVL Tree,
+                                - B-Tree, etc.
+
+     
+      + Characteristics of an Tree:
+               *
+               *
+               * 
+
+      + Applications of Tree:
+              *
+              *
+              *
+              *
+              * 
+
+     + Real Life Applications of Tree:
+                 *
+                 *
+                 *
+                 * 
+                 *
+                 *
+
+     * Graph:
+       Graph has different Terminologies which Are :
+                                                  - Path
+                                                  - Degree
+                                                  - Adjacent Vertices
+                                                  - Connected Components, etc.
+
+    + Characteristics of Graph:
+             *
+             *
+             * 
+      
+    + Applications of Graph:
+           *
+           *
+           *
+           * 
+
+    + Real-Life Applications of Graph:
+             *
+             *
+             *
+             
+  \*/ Conclusion :
+
+  *****************************************************************************
+   \*/ Overview of Data Structures :
+
+       Overview of Data Structures | Set 1
+       (Linear Data Structures)
+ 
+       Overview of some Popular "Linear Data Structures":
+       1. Array 
+       2. Linked List 
+       3. Stack  
+       4. Queue 
+ 
+      1. Array - 
+      Size of an Array must be Provided before Storing Data:
+ ----------------------------------------------------------------------
+|     Let size of array be n.                                          |
+|     Accessing Time: O(1) [This is possible because elements          |
+|                           are stored at contiguous locations]        |
+|                                                                      |   
+|     Search Time:   O(n) for Sequential Search:                       |
+|                    O(log n) for Binary Search [If Array is sorted]   |
+|                                                                      |
+|     Insertion Time: O(n) [The worst case occurs when insertion       |
+|                           happens at the Beginning of an array and   |
+|                           requires shifting all of the elements]     |
+|                                                                      |
+|     Deletion Time: O(n) [The worst case occurs when deletion         |
+|                          happens at the Beginning of an array and    |
+|                          requires shifting all of the elements]      |
+|                                                                      |
+|______________________________________________________________________|
+
+   Example: *
+            *
+  
+    2. Linked List :
+       Types of Linked List :-
+                             1. Singly Linked List:
+                             2. Doubly Linked List:
+                             3. Circular Linked List:
+                             4. Circular Doubly Linked List:
+ _____________________________________________________________________
+|    Accessing time of an element : O(n)                              |
+|                                                                     |
+|    Search time of an element : O(n)                                 |
+|                                                                     |
+|    Insertion of an Element : O(1) [If we are at the position        |
+|                                    where we have to insert          |
+|                                    an element]                      |
+|                                                                     |
+|    Deletion of an Element : O(1) [If we know address of node        |
+|                                   previous the node to be           |
+|                                   deleted]                          |
+|_____________________________________________________________________|
+
+    Example: 
+            *
+            * 
+
+   3. Stack :
+    _____________________________________________________  
+   |   Insertion : O(1)                                  |
+   |                                                     |
+   |   Deletion :  O(1)                                  |
+   |                                                     |
+   |   Access Time : O(n) [Worst Case]                   |
+   |                                                     |
+   |   Insertion and Deletion are allowed on one end.    |
+   |_____________________________________________________|
+
+      Example:
+              *
+              * 
+
+     Primary Stack Operations:
+            * void push(int data) :-
+            * int pop():
+      
+     Auxiliary Stack Operations:
+            * int top()
+            * int size():
+            * int isEmpty():
+            * int isFull():
+
+     Types of Stacks:
+            * Register Stack:
+            * Memory Stack:
+    
+  4. Queue : 
+     
+  ________________________________________
+ |     Insertion : O(1)                   |
+ |                                        |
+ |     Deletion  : O(1)                   |    
+ |                                        |
+ |     Access Time : O(n) [Worst Case]    |  
+ |________________________________________|
+   
+     Example:
+             *
+             *
+
+   Basic Operations on Queue:
+         * void enqueue(int data):
+         * int dequeue():
+  
+   Auxiliary Operations on Queue:
+         * int front():
+         * int rear():
+         * int isEmpty():
+         * int size():
+
+  Types of Queues:
+       * Simple Queue:
+       * Circular Queue:
+       * Priority Queue:
+       * Dequeue:
+
+   ******************************************************************
+       Overview of Data Structures | Set 2
+       (Binary Tree, BST, Heap and Hash)
+      
+      Following Data Structures are discussed :
+            \*/ Binary Tree
+            \*/ Binary Search Tree
+            \*/ Binary Heap
+            \*/ Hashing
+ 
+     \*/ Binary Tree :
+      
+       * Binary Tree Representation:
+         A "Binary Tree node" contains the following parts :
+            1. Data 
+            2. Pointer to left child 
+            3. Pointer to the right child 
+
+         A "Binary Tree can be traversed" in Two Ways:
+                           -
+                           - 
+
+       * Binary Tree Properties:
+  ___________________________________________________________________
+ |     The maximum number of nodes at level ‘l’ = 2l.               | 
+ |                                                                  |
+ |     Maximum number of nodes = 2h + 1 – 1.                        |
+ |     Here h is height of a tree. Height is considered             |
+ |     as the maximum number of edges on a path from root to leaf.  |
+ |                                                                  | 
+ |     Minimum possible height =  ceil(Log2(n+1)) - 1               |
+ |                                                                  |
+ |     In Binary tree, number of leaf nodes is always one           |
+ |     more than nodes with two children.                           |
+ |                                                                  |
+ |     Time Complexity of Tree Traversal: O(n)                      |
+ |__________________________________________________________________|
+
+        * Basic Operation On Binary Tree:
+                * Inserting an element.
+                * Removing an element
+                * Searching for an element
+                * Traversing an element
+         
+        * Auxiliary Operation On Binary Tree:
+                * Finding the height of the tree.
+                * Find the level of the tree.
+                * Finding the size of the entire tree.
+         
+        * Applications of Binary Tree: 
+                  *
+                  *
+                  * 
+        
+        * Binary Tree Traversals:
+               * Preorder Traversal:
+               * Inorder Traversal:
+               * Postorder Traversal: 
+      
+       Examples:
+           *
+           * 
+
+        \*/ Binary Search Tree : 
+
+            Binary Search Tree is a Binary Tree with following Additional                         Properties :
+                        1.
+                        2.
+                        3. 
+
+           * Binary Search Tree Declaration:
+             _________________________________________                                            |   struct BinarySearchTree{              | 
+            |                                         |
+            |   int data;                             |
+            |                                         | 
+            |   struct BinarySearchTree* left;        |
+            |                                         |
+            |   struct BinarySearchTree* right;       |
+            |   };                                    |
+            |_________________________________________|
+          
+          * Primary BST Operations:
+                    *
+                    *
+                    *
+
+          * Auxiliary BST Operations:
+                  *
+                  *
+                 
+               Time Complexities: 
+             ______________________________________________________
+            |    Search :  O(h)                                    |
+            |    Insertion : O(h)                                  |
+            |    Deletion : O(h)                                   |
+            |    Extra Space : O(n) for pointers                   | 
+            |                                                      |
+            |    h: Height of BST                                  |
+            |    n: Number of nodes in BST                         |
+            |                                                      |
+            |    If Binary Search Tree is Height Balanced,         | 
+            |    then h = O(Log n)                                 |
+            |                                                      |
+            |   Self-Balancing BSTs such as AVL Tree, Red-Black    |
+            |   Tree and Splay Tree make sure that height of BST   |
+            |   remains O(Log n)                                   |
+            |______________________________________________________|
+
+              Examples: 
+                  *
+                  *
+
+  \*/ Binary Heap :
+      A Binary Heap is a Binary Tree with Following Properties :
+                       *
+                       *
+          _____________________________________________________________________
+         |  Get Minimum in Min Heap: O(1) [Or Get Max in Max Heap]             |  
+         |                                                                     |
+         |  Extract Minimum Min Heap: O(Log n) [Or Extract Max in Max Heap]    |
+         |                                                                     | 
+         |  Decrease Key in Min Heap: O(Log n)  [Or Decrease Key in Max Heap]  |
+         |  Insert: O(Log n)                                                   |
+         |  Delete: O(Log n)                                                   |
+         |_____________________________________________________________________|
+
+            Example :-
+                      *
+                      *  
+
+            Hashing :-
+                      *
+                      *
+            
+            Why to use Hashing? : 
+                               *
+                               *  
+            
+            Hash Function: 
+                          *
+                          *
+
+           A Good Hash Function should have following Properties:
+                       1)
+                       2)
+                       3)
+                       4)
+
+           Hash Table: 
+                     *
+                     * 
+
+          Collision Handling:
+                             *
+                             *
+
+          Chaining:
+                   *
+                   * 
+      _____________________________________________________
+     |     Space : O(n)                                    |
+     |                                                     |
+     |     Search    : O(1) [Average]    O(n) [Worst case] |
+     |                                                     | 
+     |     Insertion : O(1) [Average]    O(n) [Worst Case] |
+     |                                                     | 
+     |     Deletion  : O(1) [Average]    O(n) [Worst Case] |
+     |_____________________________________________________|
+
+         Example:
+                 *
+                 *
+
+   **********************************************************************
+     Overview of Data Structures | Set 3 
+     (Graph, Trie, Segment Tree and Suffix Tree)
+     
+  \*/ Graph:
+      Graph is a Data Structure consists of the Following Two Components:
+      1.
+      2.
+
+      Graph can be Classified on Basis of many things,
+      Below are the Most Common Classifications :
+                   1. Direction:
+                   2. Weight:
+
+       Time Complexities in case of Adjacency Matrix :
+       Traversal :(By BFS or DFS) O(V^2)
+       Space : O(V^2)
+
+       Time Complexities in case of Adjacency List :
+       Traversal :(By BFS or DFS) O(V + E)
+       Space : O(V+E)
+
+       Examples :
+                 *
+                 *
+
+  \*/ Trie :
+      Tries also known as "Radix Trees" or "Prefix Trees" 
+      
+      The Trie structure can be defined as follows :
+ _________________________________________________________________
+|                                                                 |
+|      struct trie_node                                           |
+|      {                                                          |
+|      int value; /* Used to mark leaf nodes */                   |
+|      trie_node_t *children[ALPHABET_SIZE];                      |
+|      };                                                         |
+|                                                                 |
+|                      root                                       |
+|                   /   \    \                                    | 
+|                   t   a     b                                   |
+|                   |   |     |                                   |
+|                   h   n     y                                   |
+|                   |   |  \  |                                   |
+|                   e   s  y  e                                   | 
+|                /  |   |                                         |
+|                i  r   w                                         |
+|                |  |   |                                         |
+|                r  e   e                                         | 
+|                       |                                         |
+|                       r                                         |
+|                                                                 | 
+|    The leaf nodes are in blue.                                  | 
+|                                                                 |
+|    Insert time : O(M) where M is the length of the string.      |
+|    Search time : O(M) where M is the length of the string.      |
+|    Space : O(ALPHABET_SIZE * M * N) where N is number of        |
+|            keys in trie, ALPHABET_SIZE is 26 if we are          |
+|            only considering upper case Latin characters.        |  
+|    Deletion time: O(M)                                          |
+|_________________________________________________________________|
+
+     Example :
+              *
+              *       
+              
+              \*/  Segment Tree :
+                   Segment Trees are implemented using an array.
+                  __________________________________________
+                 |  Construction of segment tree : O(N)     | 
+                 |                                          |
+                 |  Query : O(log N)                        |
+                 |                                          |
+                 |  Update : O(log N)                       |
+                 |                                          |
+                 |  Space : O(N) [Exact space = 2*N-1]      |
+                 |__________________________________________|
+
+                   Example:
+                           *
+                           * 
+               
+             \*/ Suffix Tree :
+
+                 Abstract Steps to Build a Suffix Tree from given Text :
+                   1.)
+                   2.)
+
+                   Example :
+                            *
+                            *
+
+      ***************************************************************************
+         DATA STRUCTURES SUMMARY :
+                           - Array
+                           - Matrix
+                           - Strings
+                           - Hashing
+                           - Linked List
+                           - Stack
+                           - Queue
+                           - Binary Tree
+                           - Binary Search Tree
+                           - Heap
+                           - Graph
+                           - Searching
+                           - Sorting
+                           - Divide & Conquer
+                           - Mathematical
+                           - Geometric
+                           - Bitwise
+                           - Greedy
+                           - Backtracking
+                           - Branch and Bound
+                           - Dynamic Programming
+                           - Pattern Searching
+                           - Randomized
+     *****************************************************************************
+         Different Types of Data Structures :
+                               * Array Data Structure
+                               * String Data Structure
+                               * Linked List Data Structure
+                               * Stack Data Structure
+                               * Queue Data Structure
+                               * Binary Tree Data Structure
+                               * Binary Search Tree
+                               * Heap Data Structure
+                               * Hashing Data Structure
+                               * Graph Data Structure and Algorithms
+                               * Matrix Data Structure
+                               * Advanced Data Structures
