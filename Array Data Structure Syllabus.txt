@@ -1,0 +1,225 @@
+
+ (A) \*/ Array Data Structure :
+--------------------------------
+   1.  * Array Data Structure
+   2.  * Introduction to Arrays
+   3.  * Searching
+   4.  * Sorting
+   5.  * Rotation
+   6.  * Arrangement and Rearrangement
+   7.  * Order Statistics
+   8.  * Range Queries
+   9.  * Optimization 
+-------------------------------------------------------------------------------
+
+ 1.  (A) \*/ Array Data Structure :
+    ------------------------------
+         *
+         *
+
+ 2. * Introduction to Arrays :
+_______________________________
+Remember: “Location of next index depends on the data type we use”
+         *
+         *
+         * 
+
+* Array’s size :
+___________________
+
+* Types of indexing in an array:
+__________________________________
+           + 0 (zero-based indexing):
+           + 1 (one-based indexing):
+           + n (n-based indexing):
+
+
+* Advantages of using arrays :
+_______________________________
+     *
+     *
+     * 
+
+* Disadvantages of using arrays :
+__________________________________
+   *
+   * 
+   * 
+
+* Applications on Array :
+_______________________________
+   *
+   * 
+   *
+   *
+   *
+   *
+   *
+   *
+
+3. * Searching :
+___________________
+
+   + Search, insert and delete in an unsorted array -:
+    
+   + Search, insert and delete in an sorted array -:
+   
+   + Find the element that appears once in an array where
+     every other element appears twice -:
+   
+   + Find the only repetitive element between 1 to n-1
+   
+   + Give an array A[] and a number x, check for pair in A[]
+     with sum as x (aka Two Sum)
+    
+   + Find a triplet that sum to a given value
+   
+   + Majority Element
+   
+   + Two Pointers Technique
+   
+   + Equilibrium index of an array 
+    
+   + Ceiling in a sorted array
+    
+   + Find a peak element
+   
+   + Find subarray with given sum | Set 1
+     (Nonnegative Numbers)
+
+4. * Sorting : 
+__________________
+    
+  + Alternative Sorting
+
+  + Sort an array in wave form
+
+  + Sort an array according to absolute difference with given value
+
+  + Sort a nearly sorted (or K sorted) array
+
+  + Sort 1 to N by swapping adjacent elements
+
+  + Sort elements by frequency | Set 1
+
+  + Count Inversions in an array | Set 1 (Using Merge Sort)
+
+  + Minimum number of swaps required to sort an array
+
+  + Sort an array of 0s, 1s and 2s
+
+  + Merge two sorted arrays with O(1) extra space
+
+5.  * Rotation :
+____________________
+
+  + Program for array rotation
+
+  + Reversal algorithm for array rotation
+
+  + Block swap algorithm for array rotation
+
+  + Program to cyclically rotate an array by one
+
+  + Maximum sum of i*arr[i] among all rotations of a given array
+
+  + Find the Rotation Count in Rotated Sorted array
+
+  + Find the minimum element in a sorted and rotated array
+
+  + Print left rotation of array in O(n) time and O(1) space
+
+  + Find element at given index after a number of rotations
+
+  + Split the array and add the first part to the end
+
+  + Queries on Left and Right Circular shift on array
+
+6.  * Arrangement and Rearrangement :
+______________________________________
+   
+  + Rearrange an array such that arr[i] = i
+
+  + Rearrange array such that arr[i] >= arr[j] if i is even and arr[i]<=arr[j] if i is odd and j < i
+
+  + Rearrange array in alternating positive & negative items with O(1) extra space | Set 1
+
+  + Move all zeroes to end of array
+
+  + Minimum swaps required to bring all elements less than or equal to k together
+
+  + Rearrange array such that even positioned are greater than odd
+
+  + Rearrange an array in order – smallest, largest, 2nd smallest, 2nd largest, ..
+
+  + Reorder an array according to given indexes
+
+  + Rearrange positive and negative numbers with constant extra space
+
+  + Rearrange an array in maximum minimum form | Set 1
+
+  + Move all negative elements to end in order with extra space allowed 
+
+7.  * Order Statistics :
+___________________________
+  
+  + K’th Smallest/Largest Element in Unsorted Array | Set 1
+
+  + K’th Smallest/Largest Element using STL
+
+  + Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1
+
+  + K-th Largest Sum Contiguous Subarray
+
+  + Program for Mean and median of an unsorted array
+
+  + K maximum sums of overlapping contiguous sub-arrays
+
+  + k smallest elements in same order using O(1) extra space
+
+  + k-th smallest absolute difference of two elements in an array
+
+  + Find k numbers with most occurrences in the given array
+
+  + Maximum sum such that no two elements are adjacent
+
+8.  * Range Queries :
+________________________
+   
+  + Sparse Table
+
+  + MO’s Algorithm (Query Square Root Decomposition) | Set 1 (Introduction)
+
+  + Sqrt (or Square Root) Decomposition Technique | Set 1 (Introduction)
+
+  + Range sum query using Sparse Table
+
+  + Range Minimum Query (Square Root Decomposition and Sparse Table)
+
+  + Range Queries for Frequencies of array elements
+
+  + Constant time range add operation on an array
+ 
+  + Array range queries for searching an element
+
+9.  * Optimization :
+_________________________
+   
+  + Smallest subarray with sum greater than a given value
+
+  + Find maximum average subarray of k length
+
+  + Count minimum steps to get the given desired array
+
+  + Number of subsets with product less than k
+
+  + Find minimum number of merge operations to make an array palindrome
+
+  + Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
+
+  + Size of The Subarray With Maximum Sum
+
+  + Find minimum difference between any two elements
+
+  + Space optimization using bit manipulations
+   

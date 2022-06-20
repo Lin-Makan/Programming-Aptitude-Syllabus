@@ -1,0 +1,220 @@
+
+ (F) \*/ Binary Tree Data Structure :
+---------------------------------------
+   1. * Binary Tree Data Structure :
+   ___________________________________
+
+          + A Binary Tree Node contains the Following Parts :
+            1. Data
+            2. Pointer to left child
+            3. Pointer to right child
+
+   2. * Tutorial on Binary Tree :
+   _______________________________
+
+          * Creation of Binary Tree:
+            Output:
+            Time Complexity: O(N)
+            Auxiliary Space: O(1)
+           
+          * Pre-order Traversal:
+            Output:
+            
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * In-order Traversal:
+            Output:
+            
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * Post-order Traversal:
+            Output:
+            
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * Level-order Traversal:
+            Output:
+
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * The maximum element of the Binary Tree:
+            Output:
+           
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * Search for an Element:
+            Output:
+           
+            Time Complexity: O(log N)
+            Auxiliary Space: O(N)
+
+          * Reverse Level Order Traversal:
+            Output:
+          
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * Height of the tree:
+            Output:
+           
+            Time Complexity: O(N)
+            Auxiliary Space: O(1)
+
+          * The Deepest Node of the Tree: 
+            Output:
+          
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * Left View of the Tree:
+            Output:
+          
+            Time Complexity: O(N)
+            Auxiliary Space: O(1)
+
+          * Right View of the Tree:
+            Output:
+          
+            Time Complexity: O(N)
+            Auxiliary Space: O(1)
+
+          * Top View of the Tree:
+            Output:
+           
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * Bottom View of the Tree:
+            Output:
+           
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+          * The Mirror Image of the Tree:
+            Output:
+          
+            Time Complexity: O(N)
+            Auxiliary Space: O(1)
+
+          * Serialize a Tree:
+            Output: 
+          
+            Time Complexity: O(N)
+            Auxiliary Space: O(N)
+
+           Complexity Analysis:
+
+          1. Time Complexity: O(n).
+          2. Auxiliary Space: O(1).
+
+   3. * Basics of Binary Tree :
+   ______________________________
+
+        * Introduction to Tree Data Structure :
+        * Binary Tree | Set 1 (Introduction) :
+        * Binary Tree | Set 2 (Properties) :
+        * Binary Tree | Set 3 (Types of Binary Tree) :
+        * Handshaking Lemma and Interesting Tree Properties :
+        * Diameter of a Binary Tree :
+        * Enumeration of Binary Trees :
+        * Insertion in a Binary Tree in level order :
+        * Deletion in a Binary Tree :
+        * Binary Tree (Array implementation) :
+        * Foldable Binary Trees :
+
+   4. * Types of Binary Trees :
+   _____________________________
+
+      * Check whether a binary tree is a full binary tree or not :
+      * Complete Binary Tree :
+      * Check whether a given binary tree is perfect or not :
+      * How to determine if a binary tree is height-balanced? :
+      * Introduction to Height Balanced Binary Tree :
+
+   5. * Tree Traversals :
+   _______________________
+
+       * Tree Traversals (Inorder, Preorder and Postorder) :
+       * Inorder Tree Traversal without Recursion :
+       * Inorder Tree Traversal without recursion and without stack! :
+       * Level Order Binary Tree Traversal :
+       * Iterative Preorder Traversal :
+       * Morris traversal for Preorder :
+       * Iterative Postorder Traversal | Set 1 (Using Two Stacks) :
+       * BFS vs DFS for Binary Tree :
+       * Inorder Successor of a node in Binary Tree :
+       * Diagonal Traversal of Binary Tree :
+
+   6. * Construction and conversion :
+   ___________________________________
+
+      * Construct Tree from given Inorder and Preorder traversals :
+      * Construct a tree from Inorder and Level order traversals | Set 1 :
+      * Construct Complete Binary Tree from its Linked List Representation :
+      * Construct a complete binary tree from given array in level order fashion :
+      * Construct Full Binary Tree from given preorder and postorder traversals :
+      * Convert a given Binary Tree to Doubly Linked List | Set 1 :
+      * Convert a given tree to its Sum Tree :
+      * Minimum swap required to convert binary tree to binary search tree :
+      * Convert Ternary Expression to a Binary Tree :
+      * Construct Binary Tree from given Parent Array representation :
+
+   7. * Binary tree checking and printing :
+   _________________________________________
+
+      * Check if two nodes are cousins in a Binary Tree :
+      * Check if all leaves are at same level :
+      * Check if a given Binary Tree is SumTree :
+      * Check whether a binary tree is a full binary tree or not :
+      * Check whether a given binary tree is perfect or not :
+      * Check whether a given Binary Tree is Complete or not | Set 1 (Iterative Solution) :
+      * Check if a binary tree is subtree of another binary tree | Set 1 :
+      * Check for Symmetric Binary Tree (Iterative Approach) :
+      * Check if two trees are Mirror :
+      * Print the longest leaf to leaf path in a Binary tree :
+      * Write Code to Determine if Two Trees are Identical :
+
+   8. * Summation :
+   __________________
+
+      * Sum of all nodes in a binary tree :
+      * Sum of all the parent nodes having child node x :
+      * Find sum of all left leaves in a given Binary Tree :
+      * Find if there is a pair in root to a leaf path with sum equals to root’s data :
+      * Find the maximum path sum between two leaves of a binary tree :
+      * Maximum sum of nodes in Binary tree such that no two are adjacent :
+      * Find largest subtree sum in a tree :
+      * Count subtrees that sum up to a given value x only using single recursive function :
+      * Print all k-sum paths in a binary tree :
+      * Replace each node in binary tree with the sum of its inorder predecessor and successor :
+
+   9. * Lowest Common ancestor :
+   ______________________________
+
+      * Lowest Common Ancestor in a Binary Tree | Set 1 :
+      * Lowest Common Ancestor in a Binary Tree | Set 2 (Using Parent Pointer) :
+      * Lowest Common Ancestor in a Binary Tree | Set 3 (Using RMQ) :
+      * Find distance between two nodes of a Binary Tree :
+      * Find LCA in Binary Tree using RMQ :
+      * Print common nodes on path from root (or common ancestors) :
+      * Kth ancestor of a node in binary tree | Set 2 :
+      * Print path from root to a given node in a binary tree :
+      * Query for ancestor-descendant relationship in a tree :
+
+  10. * Some Other Interesting Problems :
+  ________________________________________
+
+     * Write a program to Calculate Size of a tree | Recursion
+     * Write a Program to Find the Maximum Depth or Height of a Tree
+     * How to determine if a binary tree is height-balanced?
+     * Bottom View of a Binary Tree
+     * Print Nodes in Top View of Binary Tree
+     * Print Left View of a Binary Tree
+     * Closest leaf to a given node in Binary Tree
+     * Connect nodes at same level 
+----------------------------------------------------------------------------

@@ -1,0 +1,192 @@
+  (E) \*/ Queue Data Structure :
+----------------------------------
+
+   1. * Queue Data Structure :
+        ______________________
+              *-
+
+   2. * Queue | Set 1 (Introduction and Array Implementation) :
+      _________________________________________________________
+
+                      * Basic Operations on Queue:
+                      `````````````````````````````
+                         + void enqueue(int data):
+                         + int dequeue():
+                     
+                      * Auxiliary Operations on Queue:
+                      ````````````````````````````````
+                           + int front(): 
+                           + int rear():
+                           + int isEmpty():
+                           + int size():
+                       
+                      * Types of Queues:
+                      ``````````````````` 
+                            + Simple Queue:
+                            + Circular Queue:
+                            + Priority Queue:
+                            + Dequeue:
+                     
+                      * Applications of Queue:
+                      ````````````````````````` 
+                         1)
+                         2)
+                         3)
+                      
+                      * Array implementation Of Queue :
+                      ``````````````````````````````````
+                            + Steps for ENQUEUE
+                                1.
+                                2.
+                                3.
+
+                            + Steps for DEQUEUE
+                                1.
+                                2.
+                                3.
+                     
+                      * Complexity Analysis:
+                                - Time Complexity:
+                                - Auxiliary Space: O(N).
+                      
+                        + Pros of Array Implementation: 
+                               1. Easy to implement.
+                        
+                        + Cons of Array Implementation:
+                              1.
+                              2. 
+                      
+   3. * Array implementation of queue (Simple) :
+   ______________________________________________
+           
+               + Some of the Implementation of Queue Operations are as Follows:
+                            * Enqueue:
+                            * Desqueue:
+                            * Front:
+                            * Display:
+
+                 * Implementation of a Queue using an Array:
+                        * Output :
+
+               + Time Complexity of Enqueue : O(1) 
+               + Time Complexity of Dequeue : O(n)
+               + Optimizations :
+ 
+  4.  * Queue – Linked List Implementation :
+  ___________________________________________
+                 
+                 enQueue() :
+                 deQueue() :
+                       
+                  * Output: 
+                 + Time Complexity:
+                 + Auxiliary Space:
+
+   5. * Applications, Advantages and Disadvantages of Queue :
+   ___________________________________________________________
+
+                 + Primary Queue Operations:
+                    ~ void enqueue(float value): 
+                    ~ int dequeue():
+                 
+                 + Auxiliary Queue Operations:
+                    ~ int front():
+                    ~ int rear():
+                    ~ int isEmpty():
+                    ~ int size():
+                
+                 + Types of Queues:
+                    ~ Simple Queue:
+                    ~ Circular Queue:
+                    ~ Priority Queue:
+                    ~ Dequeue:
+                 
+                 + Implementation of Queue:
+                    ~ Sequential allocation:
+                    ~ Linked list allocation:
+                  
+                 + Applications of Queue:
+                    ~ Multi programming:
+                    ~ Network:
+                    ~ Job Scheduling:
+                    ~ Shared Resources:
+                 
+                 + Real-time application of Queue:
+                    ~ 
+                    ~
+                    ~
+                    ~
+                    ~
+                  
+                 + Advantages of Queue:
+                    ~
+                    ~
+                    ~
+                    ~
+                    ~
+                  
+                 + Disadvantages of Queue:
+                    ~
+                    ~
+                    ~
+                    ~
+                    ~
+
+   6. * Implementations of Queue :
+   ________________________________
+
+       * Design a Queue data structure to get minimum or maximum in O(1) time :
+       * Design Front Middle Back Queue using STL :
+       * How to efficiently implement k Queues in a single array? :
+       * Design a data structure that supports insert, delete, search and getRandom in constant time :
+
+   7. * Operations on Queue :
+   ___________________________
+
+      * Reversing a Queue :
+      * Reversing a queue using recursion :
+      * Reversing the first K elements of a Queue :
+      * Interleave the first half of the queue with second half :
+      * Sorting a Queue without extra space :
+      * Find common elements of Stack and Queue :
+
+   8. * Standard problems on Queue :
+   __________________________________
+
+       * Reverse a path in BST using queue :
+       * Program for Page Replacement Algorithms | Set 2 (FIFO) :
+       * Number of siblings of a given Node in n-ary Tree :
+       * FIFO (First-In-First-Out) approach in Programming :
+       * FIFO vs LIFO approach in Programming :
+       * LIFO (Last-In-First-Out) approach in Programming :
+       * Applications, Advantages and Disadvantages of Queue :
+
+   9. * Circular Queue :
+   ________________________
+
+       * Applications, Advantages and Disadvantages of Circular Queue :
+       * Difference Between Linear Queue and Circular Queue :
+       * Applications, Advantages and Disadvantages of Queue :
+       * Deque | Set 1 (Introduction and Applications) :
+
+   10. * Deque :
+   _______________
+
+    * Applications, Advantages and Disadvantages of Deque :
+    * Implement Stack and Queue using Deque :
+    * Length of all prefixes that are also the suffixes of given string :
+    * Maximum sum subsequence made up of at most K distant elements including the first and last array elements :
+    * Level order traversal in spiral form | Using Deque :
+    * String after processing backspace characters :
+    * Applications, Advantages and Disadvantages of Queue :
+    * Level order traversal in spiral form :
+    * Sliding Window Maximum (Maximum of all subarrays of size k) :
+
+  11. * Other interesting questions on Queue :
+ ______________________________________________
+
+   * Minimum time required to rot all oranges :
+   * Find maximum level sum in Binary Tree :
+   * Distance of nearest cell having 1 in a binary matrix :
+   * Check mirror in n-ary tree :
+----------------------------------------------------------------------------

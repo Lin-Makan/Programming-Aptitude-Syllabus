@@ -1,0 +1,1473 @@
+
+ (B) \*/ String Data Structure :
+---------------------------------
+  1.  * String Data Structure
+  2.  * Applications, Advantages and Disadvantages of String
+  3.  * Traversal on Strings :
+ 
+            * Program to check if input is an integer or a string
+            * Quick way to check if all the characters of a string are same
+            * Change string to a new character set
+            * Round the given number to nearest multiple of 10
+
+  4.  * Sorting and Searching on Strings :
+            
+          * Sort string of characters :
+          * Program to sort string in descending order :
+          * Sort an array of strings according to string lengths :
+          * Sorting array of strings (or words) using Trie :
+          * Minimum cost to sort strings using reversal operations of different costs :
+          * Search in an array of strings where non-empty strings are sorted :
+          * Sparse Search :
+
+  5.  * Reverse and Rotation on String :
+  
+            * Generate all rotations of a given string :
+            * Minimum rotations required to get the same string :
+            * A Program to check if strings are rotations of each other or not :
+            * Perfect reversible string :
+            * Reversing an Equation :
+            * Reverse words in a given string :
+            * Reverse individual words :
+            * Reverse a string preserving space positions :
+            * Find if an array of strings can be chained to form a circle | Set 1 :
+            * Program to check if input is an integer or a string :
+
+  6.  * Character Counting on String :
+            
+         * String with k distinct characters and no same characters adjacent :
+         * Count words present in a string :
+         * Find k’th character of decrypted string | Set 1 :
+         * Count characters at same position as in English alphabet :
+         * Check if both halves of the string have same set of characters :
+         * Print number of words, vowels and frequency of each character :
+         * Count of character pairs at same distance as in English alphabets :
+         * Count of words whose i-th letter is either (i-1)-th, i-th, or (i+1)-th letter of given word :
+         * Program to check if input is an integer or a string :
+         * Program to print all substrings of a given string :
+
+  7.  * Substrings and Subsequences :
+
+         * Number of subsequences of the form a^i b^j c^k :
+         * Count distinct occurrences as a subsequence :
+         * Longest common subsequence with permutations allowed :
+         * Printing Longest Common Subsequence :
+         * Shortest Uncommon Subsequence :
+         * Longest Repeating Subsequence :
+         * Repeated subsequence of length 2 or more :
+         * Count substrings with same first and last characters :
+         * Count of distinct substrings of a string using Suffix Array :
+         * Count of substrings of a binary string containing K ones :
+         * Length of Longest sub-string that can be removed :
+         * Program to check if input is an integer or a string :
+         * Sum of two large numbers :
+         * Check if a given string is sum-string :
+
+  8.  * Arithmetic Operations on Strings :
+
+        * Check if a large number is divisible by 11 or not :
+        * Difference of two large numbers :
+        * Maximum segment value after putting k breakpoints in a number :
+        * Calculate maximum value using ‘+’ or ‘*’ sign between two numbers in a string :
+        * Multiply Large Numbers represented as Strings :
+        * Program to check if input is an integer or a string :
+        * Check if all bits can be made same by single flip :
+        * 1’s and 2’s complement of a Binary Number :
+        * Efficient method for 2’s complement of a binary string :
+
+  9.  * Binary String :
+
+           * Add two bit strings :
+           * Count number of binary strings without consecutive 1’s :
+           * Check if a string follows a^nb^n pattern or not :
+           * Binary representation of next greater number with same number of 1’s and 0’s :
+           * Min flips of continuous characters to make all characters same in a string :
+           * Generate n-bit Gray Codes :
+           * Program to check if input is an integer or a string :
+           * Lexicographic rank of a string :
+           * Lexicographic rank of a string using STL :
+           * How to find Lexicographically previous permutation? :
+           * Lexicographically next string :
+
+  10.  * Lexicographic Pattern of String :
+
+         * Lexicographical Maximum substring of string :
+         * Power Set in Lexicographic order :
+         * Program to check if input is an integer or a string :
+         * C Program to Check if a Given String is Palindrome :
+         * Check if a given string is a rotation of a palindrome :
+         * Check if characters of a given string can be rearranged to form a palindrome :
+         * Minimum insertions to form a palindrome | DP-28 :
+         * Longest Palindromic Substring | Set 1 :
+
+  11.  * Palindromic String :
+
+           * Make largest palindrome by changing at most K-digits :
+           * Count of Palindromic substrings in an Index range :
+           * Nth Even length Palindrome :
+           * Program to check if input is an integer or a string :
+           * Finite Automata algorithm for Pattern Searching :
+           * Boyer Moore Algorithm for Pattern Searching :
+           * Manacher’s Algorithm – Linear Time Longest Palindromic Substring – Part 4 :
+           * Z algorithm (Linear time pattern searching Algorithm) :
+           * KMP Algorithm for Pattern Searching :
+           * Wildcard Pattern Matching :
+
+  12.  * Pattern Searching in String :
+
+           * Printing string in plus ‘+’ pattern in the matrix :
+           * Check if string follows order of characters defined by a pattern or not | Set 1 :
+           * Program to check if input is an integer or a string :
+           * Given a string, find its first non-repeating character :
+           * Find the first non-repeating character from a stream of characters :
+           * Print all permutations with repetition of characters :
+           * K’th Non-repeating Character :
+           * Maximum consecutive repeating character in string :
+           * Most frequent word in an array of strings :
+           * Print characters and their frequencies in order of occurrence :
+
+  13.  * Occurence based problems on Strings :
+
+           * Program to check if input is an integer or a string :
+           * Remove spaces from a given string :
+           * Move spaces to front of string in single traversal :
+           * Remove extra spaces from a string :
+           * URLify a given string (Replace spaces with %20) :
+           * Print all possible strings that can be made by placing spaces :
+           * Put spaces between words starting with capital letters :
+           * Program to check if input is an integer or a string :
+           * Check whether two strings are anagram of each other :
+
+  14.  * Spacing based Problem on String :
+
+             * Remove minimum number of characters so that two strings become anagram :
+             * Check if two strings are k-anagrams or not :
+             * Check if binary representations of two numbers are anagram :
+             * Count of total anagram substrings :
+             * Program to check if input is an integer or a string :
+             * Prefix to Infix Conversion :
+
+  15.  * String Anagrams :
+
+           * Postfix to Infix :
+           * Convert all substrings of length ‘k’ from base ‘b’ to decimal :
+           * Convert a sentence into its equivalent mobile numeric keypad sequence :
+           * Converting one string to other using append and delete last operations :
+           * Converting Roman Numerals to Decimal lying between 1 to 3999 :
+           * An in-place algorithm for String Transformation :
+           * Program to check if input is an integer or a string :
+
+  16.  * Conversion of String :
+
+          * Length of Longest Balanced Subsequence :
+          * Minimum Swaps for Bracket Balancing :
+          * Check if two expressions with brackets are same :
+          * Evaluate an array expression with numbers, + and – :
+          * Find index of closing bracket for a given opening bracket in an expression :
+          * Find maximum depth of nested parenthesis in a string :
+          * Program to check if input is an integer or a string :
+          * Check if given string can be split into four distinct strings :
+          * Split numeric, alphabetic and special symbols from a String :
+
+  17.  * Balanced Parenthesis and Bracket evaluation : 
+
+          * Divide a string in N equal parts :
+          * Word Break Problem | (Trie solution) :
+          * Program to check if input is an integer or a string :
+          * Word Wrap problem ( Space optimized solution ) :
+          * Form minimum number from given sequence :
+          * Maximum number of characters between any two same character in a string :
+          * Check whether second string can be formed from characters of first string :
+          * Possibility of moving out of maze :
+   
+  18. * Splitting String :
+
+          * Maximize a number considering permutations with values smaller than limit :
+  
+  19. * Other interseting problem on String :
+
+-------------------------------------------------------------------------------
+
+1.  (B) \*/ String Data Structure :
+_____________________________________
+
+          * Practice Problems on String
+
+          * 
+
+2.  * Applications, Advantages and Disadvantages of String :
+_____________________________________________________________
+      
+      *  Applications of String:
+         -----------------------
+               * Plagiarism Checker:
+               * Encoding/Decoding(Cipher Text Generation):
+               * Information Retrieval:
+               * Improved Filters For The Approximate Suffix-Prefix Overlap Problem:
+     
+     * Real-Time Application of String:
+       --------------------------------
+                 * Spam Detection:
+                 * Bioinformatics:
+                 * Intrusion Detection System:
+                 * Search Engines:
+      
+    *  Operations on String: 
+       ----------------------
+           * size():
+           * substr():
+           * +:
+           * s1.compare(s2):
+           * reverse():     
+           * sort():
+    
+    * Advantages of String:
+      ----------------------
+             * 
+             *
+             *
+             *
+             *
+             *
+   
+    * Disadvantages of String:
+      ------------------------
+         *
+         *
+         *
+         *
+
+3.  * Traversal on Strings :
+_________________________________________________
+
+      * Program to check if input is an integer or a string :
+      __________________________________________________________
+            +
+            +
+            +
+            +
+
+      * Quick way to check if all the characters of a string are same :
+      _________________________________________________________________
+              +
+              +
+              +
+              +
+
+      * Change string to a new character set :
+      __________________________________________
+                  +
+                  +
+                  +
+                  +
+
+      * Round the given number to nearest multiple of 10 :
+      _____________________________________________________
+          +
+          +
+          +
+          +
+  
+4.  * Sorting and Searching on Strings :
+_________________________________________
+         
+       * Sort string of characters :
+       ______________________________
+             +
+             +
+             +
+             +
+             +
+
+       * Program to sort string in descending order :
+       _______________________________________________
+                +
+                +
+                +
+                +
+                +
+
+       * Sort an array of strings according to string lengths :
+       _________________________________________________________
+                 +
+                 +
+                 +
+                 +
+                 +
+
+       * Sorting array of strings (or words) using Trie :
+       ____________________________________________________
+             +
+             +
+             +
+             +
+             +
+
+       * Minimum cost to sort strings using reversal operations of different costs :
+       _____________________________________________________________________________
+                 +
+                 +
+                 +
+                 +
+                 +
+  
+       * Search in an array of strings where non-empty strings are sorted :
+       _____________________________________________________________________
+            +
+            +
+            +
+            +
+            +
+
+       * Sparse Search :
+       __________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+5.  * Reverse and Rotation on String :
+_________________________________________
+
+            * Generate all rotations of a given string :
+            _____________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+            * Minimum rotations required to get the same string :
+            ______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+            * A Program to check if strings are rotations of each other or not :
+            _____________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+            * Perfect reversible string :
+            ________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+            * Reversing an Equation :
+            ___________________________ 
+              +
+              +
+              +
+              +
+              +
+              +
+
+            * Reverse words in a given string :
+            ____________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+            * Reverse individual words :
+            ________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+            * Reverse a string preserving space positions :
+            ________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+            * Find if an array of strings can be chained to form a circle | Set 1 :
+            ________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+            * Program to check if input is an integer or a string :
+            ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+6.  * Character Counting on String :
+_______________________________________
+            
+         * String with k distinct characters and no same characters adjacent :
+         _____________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+ 
+         * Count words present in a string :
+         ____________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Find k’th character of decrypted string | Set 1 :
+         ____________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Count characters at same position as in English alphabet :
+         _____________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Check if both halves of the string have same set of characters :
+         ___________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Print number of words, vowels and frequency of each character :
+         __________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Count of character pairs at same distance as in English alphabets :
+         ______________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Count of words whose i-th letter is either (i-1)-th, i-th, or (i+1)-th letter of given word :
+         _______________________________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Program to check if input is an integer or a string :
+         ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Program to print all substrings of a given string :
+         ______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+7.  * Substrings and Subsequences :
+_______________________________________
+
+         * Number of subsequences of the form a^i b^j c^k :
+         ___________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Count distinct occurrences as a subsequence :
+         __________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Longest common subsequence with permutations allowed :
+         _________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Printing Longest Common Subsequence :
+         ________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Shortest Uncommon Subsequence :
+         __________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Longest Repeating Subsequence :
+         __________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Repeated subsequence of length 2 or more :
+         _____________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Count substrings with same first and last characters :
+         _________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+         * Count of distinct substrings of a string using Suffix Array :
+         ________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Count of substrings of a binary string containing K ones :
+         _____________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Length of Longest sub-string that can be removed :
+         _____________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Program to check if input is an integer or a string :
+         _______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Sum of two large numbers :
+         ______________________________ 
+              +
+              +
+              +
+              +
+              +
+              + 
+
+         * Check if a given string is sum-string :
+         _________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+8.  * Arithmetic Operations on Strings :
+__________________________________________
+
+        * Check if a large number is divisible by 11 or not :
+        ______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+        * Difference of two large numbers :
+        ____________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+        * Maximum segment value after putting k breakpoints in a number :
+        __________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+        * Calculate maximum value using ‘+’ or ‘*’ sign between two numbers in a string :
+        __________________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+        * Multiply Large Numbers represented as Strings :
+        __________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+        * Program to check if input is an integer or a string :
+        ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+        * Check if all bits can be made same by single flip :
+        _____________________________________________________ 
+              +
+              +
+              +
+              +
+              +
+              +
+
+        * 1’s and 2’s complement of a Binary Number :
+        _______________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+        * Efficient method for 2’s complement of a binary string :
+        ___________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+9.  * Binary String :
+________________________________
+
+           * Add two bit strings :
+           ________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Count number of binary strings without consecutive 1’s :
+           __________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Check if a string follows a^nb^n pattern or not :
+           ___________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Binary representation of next greater number with same number of 1’s and 0’s :
+           _________________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Min flips of continuous characters to make all characters same in a string :
+           _______________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              + 
+
+           * Generate n-bit Gray Codes :
+           _______________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Program to check if input is an integer or a string :
+           _______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Lexicographic rank of a string :
+           ___________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Lexicographic rank of a string using STL :
+           _____________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * How to find Lexicographically previous permutation? :
+           _______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Lexicographically next string :
+           __________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+10.  * Lexicographic Pattern of String :
+____________________________________________
+
+         * Lexicographical Maximum substring of string :
+         _______________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Power Set in Lexicographic order :
+         _____________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Program to check if input is an integer or a string :
+         _______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * C Program to Check if a Given String is Palindrome :
+         ______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Check if a given string is a rotation of a palindrome :
+         _________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Check if characters of a given string can be rearranged to form a palindrome :
+         ________________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Minimum insertions to form a palindrome | DP-28 :
+         ___________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+         * Longest Palindromic Substring | Set 1 :
+         __________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+11.  * Palindromic String :
+____________________________________
+
+           * Make largest palindrome by changing at most K-digits :
+           ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Count of Palindromic substrings in an Index range :
+           ______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Nth Even length Palindrome :
+           _______________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Program to check if input is an integer or a string :
+           _______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Finite Automata algorithm for Pattern Searching :
+           ___________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Boyer Moore Algorithm for Pattern Searching :
+           ________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Manacher’s Algorithm – Linear Time Longest Palindromic Substring – Part 4 :
+           _____________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Z algorithm (Linear time pattern searching Algorithm) :
+           __________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * KMP Algorithm for Pattern Searching :
+           _______________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Wildcard Pattern Matching :
+           ______________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+12.  * Pattern Searching in String :
+___________________________________________
+
+           * Printing string in plus ‘+’ pattern in the matrix :
+           ______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Check if string follows order of characters defined by a pattern or not | Set 1 :
+           ___________________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Program to check if input is an integer or a string :
+           ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Given a string, find its first non-repeating character :
+           ____________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Find the first non-repeating character from a stream of characters :
+           ______________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Print all permutations with repetition of characters :
+           _________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * K’th Non-repeating Character : 
+           _________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Maximum consecutive repeating character in string :
+           _____________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Most frequent word in an array of strings :
+           ______________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Print characters and their frequencies in order of occurrence :
+           _________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              + 
+
+13.  * Occurence based problems on Strings :
+______________________________________________
+
+           * Program to check if input is an integer or a string :
+           _______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Remove spaces from a given string :
+           ______________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Move spaces to front of string in single traversal :
+           ______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Remove extra spaces from a string :
+           ______________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * URLify a given string (Replace spaces with %20) :
+           ____________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Print all possible strings that can be made by placing spaces :
+           __________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Put spaces between words starting with capital letters :
+           ___________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Program to check if input is an integer or a string :
+           _______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Check whether two strings are anagram of each other :
+           ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+14.  * Spacing based Problem on String :
+_____________________________________________
+
+             * Remove minimum number of characters so that two strings become anagram :
+             __________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+             * Check if two strings are k-anagrams or not :
+             _______________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+             * Check if binary representations of two numbers are anagram :
+             ______________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+             * Count of total anagram substrings :
+             ______________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+             * Program to check if input is an integer or a string :
+             ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+             * Prefix to Infix Conversion :
+             ______________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+15.  * String Anagrams :
+_________________________________
+
+           * Postfix to Infix :
+           ____________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Convert all substrings of length ‘k’ from base ‘b’ to decimal :
+           _________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Convert a sentence into its equivalent mobile numeric keypad sequence :
+           _________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Converting one string to other using append and delete last operations :
+           __________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Converting Roman Numerals to Decimal lying between 1 to 3999 :
+           ________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * An in-place algorithm for String Transformation :
+           ____________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+           * Program to check if input is an integer or a string :
+           ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+16.  * Conversion of String :
+___________________________________
+
+          * Length of Longest Balanced Subsequence :
+          __________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Minimum Swaps for Bracket Balancing :
+          ________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Check if two expressions with brackets are same :
+          ___________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Evaluate an array expression with numbers, + and – :
+          ______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Find index of closing bracket for a given opening bracket in an expression :
+          _______________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Find maximum depth of nested parenthesis in a string :
+          ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Program to check if input is an integer or a string :
+          ________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Check if given string can be split into four distinct strings :
+          _________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Split numeric, alphabetic and special symbols from a String :
+          _________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+17.  * Balanced Parenthesis and Bracket evaluation :
+_________________________________________________________ 
+
+          * Divide a string in N equal parts :
+          _____________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Word Break Problem | (Trie solution) :
+          ________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Program to check if input is an integer or a string :
+          _______________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Word Wrap problem ( Space optimized solution ) :
+          ___________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Form minimum number from given sequence :
+          ____________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Maximum number of characters between any two same character in a string :
+          ___________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Check whether second string can be formed from characters of first string :
+          _____________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+
+          * Possibility of moving out of maze :
+          _____________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+   
+18. * Splitting String :
+_____________________________
+
+          * Maximize a number considering permutations with values smaller than limit :
+          _____________________________________________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
+  
+19. * Other interseting problem on String :
+_____________________________________________
+              +
+              +
+              +
+              +
+              +
+              +
