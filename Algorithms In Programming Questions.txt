@@ -1,0 +1,628 @@
+
+  * What Are Algorithms in Computer Programming ?  
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  * DIFFERENT TYPES OF ALGORITHMS :
+   ---------------------------------------
+      (A) Analysis of Algorithms :
+      (B) Searching and Sorting :
+      (C) Greedy Algorithms :
+      (D) Dynamic Programming :
+      (E) Pattern Searching :
+      (F) Backtracking :
+      (G) Divide and Conquer :
+      (H) Geometric Algorithms :
+      (I) Mathematical Algorithms :
+      (J) Bit Algorithms :
+      (K) Graph Algorithms :
+      (L) Randomized Algorithms :
+      (M) Branch and Bound :
+_______________________________________________________________________________
+
+  <<<<<<<<<< Algorithms in Computer Programming >>>>>>>>>>
+________________________________________________
+ Algorithms in Computer Programming             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Algorithms in Computer Programming 
+                                                                                        
+2) Definition of Algorithms in Computer Programming ?
+-----------------------------------------------------
+*
+ 
+3) What is Algorithms in Computer Programming About ?
+-----------------------------------------------------
+*
+*
+
+4) What does Algorithms in Computer Programming Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Algorithms in Computer Programming :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Algorithms in Computer Programming :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Algorithms in Computer Programming :
+---------------------------------------------------
+*
+*
+___________________________________________________________________________________
+      * DIFFERENT TYPES OF ALGORITHMS :
+    -------------------------------------
+
+(A) <<<<<<<<<< Analysis of Algorithms >>>>>>>>>>
+________________________________________________
+ Analysis of Algorithms                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Analysis of Algorithms 
+                                                                                        
+2) Definition of Analysis of Algorithms ?
+-----------------------------------------
+*
+ 
+3) What is Analysis of Algorithms About ?
+-----------------------------------------
+*
+*
+
+4) What does Analysis of Algorithms Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Analysis of Algorithms :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Analysis of Algorithms :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Analysis of Algorithms :
+---------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(B) <<<<<<<<< Searching and Sorting >>>>>>>>>>
+_____________________________________________________
+ Searching and Sorting                               |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Searching and Sorting
+                                                                                        
+2) Definition of Searching and Sorting ?
+----------------------------------------
+*
+ 
+3) What is Searching and Sorting About ?
+----------------------------------------
+*
+*
+
+4) What does Searching and Sorting Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of String Data Structure :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Searching and Sorting :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Searching and Sorting :
+--------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(C) <<<<<<<<<< Greedy Algorithms >>>>>>>>>>>>
+__________________________________________________
+ Greedy Algorithms                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Greedy Algorithms 
+                                                                                        
+2) Definition of Greedy Algorithms ?
+------------------------------------
+*
+ 
+3) What is Greedy Algorithms About ?
+------------------------------------
+*
+*
+
+4) What does Greedy Algorithms Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Greedy Algorithms :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Greedy Algorithms :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Greedy Algorithms :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+(D) <<<<<<<<<< Dynamic Programming >>>>>>>>>>>>
+__________________________________________________
+ Dynamic Programming                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Dynamic Programming 
+                                                                                        
+2) Definition of Dynamic Programming ?
+--------------------------------------
+*
+ 
+3) What is Dynamic Programming About ?
+--------------------------------------
+*
+*
+
+4) What do Dynamic Programming Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Dynamic Programming :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Dynamic Programming :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Dynamic Programming :
+------------------------------------
+*
+*
+____________________________________________________________________________________
+
+(E) <<<<<<<<< Pattern Searching >>>>>>>>>
+__________________________________________________
+ Pattern Searching                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pattern Searching
+                                                                                        
+2) Definition of Pattern Searching ?
+------------------------------------
+*
+ 
+3) What is Pattern Searching About ?
+------------------------------------
+*
+*
+
+4) What does Pattern Searching Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Pattern Searching :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pattern Searching :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pattern Searching :
+----------------------------------
+*
+*
+___________________________________________________________________________________
+
+(F) <<<<<<<< Backtracking >>>>>>>>
+________________________________________________
+  Backtracking                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Backtracking
+                                                                                        
+2) Definition of Backtracking ?
+-------------------------------
+*
+ 
+3) What is Backtracking About ?
+-------------------------------
+*
+*
+
+4) What does Backtracking Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Backtracking :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Backtracking :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Backtracking :
+-----------------------------
+*
+*
+___________________________________________________________________________________
+
+(G) <<<<<<<< Divide and Conquer >>>>>>>>
+________________________________________________
+ Divide and Conquer                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Divide and Conquer
+                                                                                        
+2) Definition of Divide and Conquer ?
+-------------------------------------
+*
+ 
+3) What is Divide and Conquer About ?
+-------------------------------------
+*
+*
+
+4) What does Divide and Conquer Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Divide and Conquer :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Divide and Conquer :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Divide and Conquer :
+-----------------------------------
+*
+*
+___________________________________________________________________________________
+
+(H) <<<<<<<< Geometric Algorithms >>>>>>>>
+________________________________________________
+ Geometric Algorithms                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Geometric Algorithms
+                                                                                        
+2) Definition of Geometric Algorithms ?
+---------------------------------------
+*
+ 
+3) What is Geometric Algorithms About ?
+---------------------------------------
+*
+*
+
+4) What does Geometric Algorithms Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Geometric Algorithms :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Geometric Algorithms :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Geometric Algorithms :
+-------------------------------------
+*
+*
+*
+________________________________________________________________________
+
+(I) <<<<<<<<<< Mathematical Algorithms >>>>>>>>>>
+________________________________________________
+ Mathematical Algorithms                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Mathematical Algorithms 
+                                                                                        
+2) Definition of Mathematical Algorithms ?
+------------------------------------------
+*
+ 
+3) What is Mathematical Algorithms About ?
+------------------------------------------
+*
+*
+
+4) What does Mathematical Algorithms Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Mathematical Algorithms :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mathematical Algorithms :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Mathematical Algorithms :
+----------------------------------------
+*
+*
+*
+___________________________________________________________________________________
+
+(J) <<<<<<<<< Bit Algorithms >>>>>>>>>>
+_____________________________________________________
+ Bit Algorithms                                      |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Bit Algorithms
+                                                                                        
+2) Definition of Bit Algorithms ?
+---------------------------------
+*
+*
+ 
+3) What is Bit Algorithms About ?
+---------------------------------
+*
+*
+
+4) What does Bit Algorithms Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Bit Algorithms :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bit Algorithms :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Bit Algorithms :
+-------------------------------
+*
+*
+___________________________________________________________________________________
+
+(K) <<<<<<<<<< Graph Algorithms >>>>>>>>>>>>
+__________________________________________________
+ Graph Algorithms                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Graph Algorithms 
+                                                                                        
+2) Definition of Graph Algorithms ?
+-----------------------------------
+*
+ 
+3) What is Graph Algorithms About ?
+-----------------------------------
+*
+*
+
+4) What does Graph Algorithms Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Graph Algorithms :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Graph Algorithms :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Graph Algorithms :
+---------------------------------
+*
+*
+*
+__________________________________________________________________________________
+
+(L) <<<<<<<<<< Randomized Algorithms >>>>>>>>>>>>
+__________________________________________________
+ Randomized Algorithms                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Randomized Algorithms 
+                                                                                        
+2) Definition of Randomized Algorithms ?
+----------------------------------------
+*
+ 
+3) What is Randomized Algorithms About ?
+----------------------------------------
+*
+*
+
+4) What do Randomized Algorithms Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Randomized Algorithms :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Randomized Algorithms :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Randomized Algorithms :
+--------------------------------------
+*
+*
+______________________________________________________________________________
+
+(M) <<<<<<<<<< Branch and Bound >>>>>>>>>>>>
+__________________________________________________
+ Branch and Bound                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Branch and Bound 
+                                                                                        
+2) Definition of Branch and Bound ?
+-----------------------------------
+*
+ 
+3) What is Branch and Bound About ?
+-----------------------------------
+*
+*
+
+4) What do Branch and Bound Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Branch and Bound :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Branch and Bound :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Branch and Bound :
+---------------------------------
+*
+*
+______________________________________________________________________________

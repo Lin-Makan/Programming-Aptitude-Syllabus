@@ -1,0 +1,176 @@
+
+  What Should I Learn First: Data Structures or Algorithms? :
+  ``````````````````````````````````````````````````````````````
+                        Table Of Contents :
+                       =====================
+                + Well, What is Data Structure, Anyway ?
+                + Data Types and Their Relationship With Data Structures
+                + What Are the Classifications of Data Structure ?
+                + The Different Data Structure Types
+                + Why Are Data Structures Useful ?
+
+         * Every Application, piece of Software, or Programs Foundation consists of
+           two Components: Algorithms and Data.
+ 
+         * Data is Information, and Algorithms are Rules and Instructions that turn 
+           the Data into something useful to Programming.
+       
+      * Data Types and Their Relationship With Data Structures :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+          *
+          *
+          *
+             Three Basic Data Types to Understand : 
+             ```````````````````````````````````````
+               + Abstract :
+                           ~
+                           ~
+                           ~
+
+              + Composite (or Compound) : 
+                                         ~ 
+                                         ~
+                                         ~
+              
+              + Primitive :
+                           ~
+                           ~
+                           ~
+
+      * What is Data Structure ?
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        *
+        *
+        *
+     
+      * Types of Data Structure :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       + Arrays:  
+        
+       + Linked Lists:
+ 
+       + Stacks:
+        
+       + Queues:
+        
+       + Hash Tables:
+        
+       + Trees:
+        
+       + Heaps:
+        
+       + Graphs:
+       
+       + Trie :
+
+    
+         * What Are the Classifications of Data Structure ?
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  
+               * Three Main Data Structure Classifications :
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   + Linear and Nonlinear :
+
+                   + Static and Dynamic :
+
+                   + Homogenous and Non-Homogenous :
+
+       
+        * Why Are Data Structures Useful ?
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            *
+            *
+            *
+            *
+       
+     * What is Data Structure and Its Applications ?
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 * Applications of Data Structures :
+                 ````````````````````````````````````
+                   + Data Storage :
+                   + Data Exchange :
+                   + Resource and Service Management :
+                   + Scalability :
+      
+    * Why should you learn Data Structure ?
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *
+           *
+
+            * How Data Structures are Used :
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+              + Storing Data :
+              + Managing Resources and Services :
+              + Data Exchange :
+              + Ordering and Sorting :
+              + Indexing :
+              + Searching :
+              + Scalability :
+      
+     * What is Algorithm ? :
+     ~~~~~~~~~~~~~~~~~~~~~~~~
+       *
+       *
+       * 
+        
+     * Types of Algorithm :
+     ~~~~~~~~~~~~~~~~~~~~~~~~
+
+      + Analysis of Algorithms :
+
+      + Searching and Sorting :
+
+      + Greedy Algorithms :
+
+      + Dynamic Programming :
+
+      + Pattern Searching :
+
+      + Backtracking :
+
+      + Divide and Conquer :
+
+      + Geometric Algorithms :
+
+      + Mathematical Algorithms :
+
+      + Bit Algorithms :
+
+      + Graph Algorithms :
+
+      + Randomized Algorithms :
+
+      + Branch and Bound :
+    
+     
+   \*/ How are Data Structures and Algorithms related ?
+   ``````````````````````````````````````````````````````
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         *
+         *
+         * 
+         * 
+   \*/ Examples Of How Data Structures and Algorithms are Related ?
+   ``````````````````````````````````````````````````````````````````
+         *
+         *
+         * 
+  
+   \*/ Merits and Demerits of Learning Data Structure First :
+   ___________________________________________________________
+          Merits of Learning Data Structure first :
+          ```````````````````````````````````````````
+             1. 
+             2.
+             3. 
+             4. 
+             5. 
+
+         Demerits of learning Data Structure first :
+         ````````````````````````````````````````````
+            1. 
+            2. 
+            3.  
+          
+  * CONCLUSION :
+  _________________     

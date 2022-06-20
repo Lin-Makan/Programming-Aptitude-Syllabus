@@ -1,0 +1,535 @@
+DIFFERENT TYPES OF DATA STRUCTURES :
+---------------------------------------
+       (A)  * Array Data Structure
+       (B)  * String Data Structure
+       (C)  * Linked List Data Structure
+       (D)  * Stack Data Structure
+       (E)  * Queue Data Structure
+       (F)  * Binary Tree Data Structure
+       (G)  * Binary Search Tree
+       (H)  * Heap Data Structure
+       (I)  * Hashing Data Structure
+       (J)  * Graph Data Structure and Algorithms
+       (K)  * Matrix Data Structure
+       (L)  * Advanced Data Structures
+_______________________________________________________________
+
+(A) <<<<<<<<<< Array Data Structure >>>>>>>>>>
+________________________________________________
+ Array Data Structure                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Array Data Structure 
+                                                                                        
+2) Definition of Array Data Structure ?
+---------------------------------------
+*
+ 
+3) What is Array Data Structure About ?
+---------------------------------------
+*
+*
+
+4) What does Array Data Structure Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Array Data Structure :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Array Data Structure :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Array Data Structure :
+-------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(B) <<<<<<<<< String Data Structure >>>>>>>>>>
+_____________________________________________________
+ String Data Structure                               |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* String Data Structure
+                                                                                        
+2) Definition of String Data Structure ?
+----------------------------------------
+*
+ 
+3) What is String Data Structure About ?
+----------------------------------------
+*
+*
+
+4) What does String Data Structure Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of String Data Structure :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of String Data Structure :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of String Data Structure :
+--------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(C) <<<<<<<<<< Linked List Data Structure >>>>>>>>>>>>
+__________________________________________________
+ Linked List Data Structure                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linked List Data Structure 
+                                                                                        
+2) Definition of Linked List Data Structure ?
+----------------------------------------------
+*
+ 
+3) What is Linked List Data Structure About ?
+---------------------------------------------
+*
+*
+
+4) What does Linked List Data Structure Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linked List Data Structure :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linked List Data Structure :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linked List Data Structure :
+-------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+(D) <<<<<<<<<< Stack Data Structure >>>>>>>>>>>>
+__________________________________________________
+ Stack Data Structure                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Stack Data Structure 
+                                                                                        
+2) Definition of Stack Data Structure ?
+---------------------------------------
+*
+ 
+3) What is Stack Data Structure About ?
+---------------------------------------
+*
+*
+
+4) What do Stack Data Structure Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Stack Data Structure :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Stack Data Structure :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Stack Data Structure :
+-------------------------------------
+*
+*
+____________________________________________________________________________________
+
+(E) <<<<<<<<< Queue Data Structure >>>>>>>>>
+__________________________________________________
+ Queue Data Structure                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Queue Data Structure
+                                                                                        
+2) Definition of Queue Data Structure ?
+---------------------------------------
+*
+ 
+3) What is Queue Data Structure About ?
+---------------------------------------
+*
+*
+
+4) What does Queue Data Structure Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Queue Data Structure :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Queue Data Structure :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Queue Data Structure :
+-------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(F) <<<<<<<< Binary Tree Data Structure >>>>>>>>
+________________________________________________
+  Binary Tree Data Structure                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Binary Tree Data Structure
+                                                                                        
+2) Definition of Binary Tree Data Structure ?
+---------------------------------------------
+*
+ 
+3) What is Binary Tree Data Structure About ?
+---------------------------------------------
+*
+*
+
+4) What does Binary Tree Data Structure Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Binary Tree Data Structure :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Binary Tree Data Structure :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Binary Tree Data Structure :
+-------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(G) <<<<<<<< Binary Search Tree >>>>>>>>
+________________________________________________
+ Binary Search Tree                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Binary Search Tree
+                                                                                        
+2) Definition of Binary Search Tree ?
+-------------------------------------
+*
+ 
+3) What is Binary Search Tree About ?
+-------------------------------------
+*
+*
+
+4) What does Binary Search Tree Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Binary Search Tree :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Binary Search Tree :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Binary Search Tree :
+-----------------------------------
+*
+*
+___________________________________________________________________________________
+
+(H) <<<<<<<< Heap Data Structure >>>>>>>>
+________________________________________________
+ Heap Data Structure                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Heap Data Structure
+                                                                                        
+2) Definition of Heap Data Structure ?
+--------------------------------------
+*
+ 
+3) What is Heap Data Structure About ?
+--------------------------------------
+*
+*
+
+4) What does Heap Data Structure Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Heap Data Structure :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Heap Data Structure :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Heap Data Structure :
+------------------------------------
+*
+*
+*
+________________________________________________________________________
+
+(I) <<<<<<<<<< Hashing Data Structure >>>>>>>>>>
+________________________________________________
+ Hashing Data Structure                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Hashing Data Structure 
+                                                                                        
+2) Definition of Hashing Data Structure ?
+-----------------------------------------
+*
+ 
+3) What is Hashing Data Structure About ?
+-----------------------------------------
+*
+*
+
+4) What does Hashing Data Structure Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Hashing Data Structure :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Hashing Data Structure :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Hashing Data Structure :
+---------------------------------------
+*
+*
+*
+___________________________________________________________________________________
+
+(J) <<<<<<<<< Graph Data Structure and Algorithms >>>>>>>>>>
+_____________________________________________________
+ Graph Data Structure and Algorithms                 |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Graph Data Structure and Algorithms
+                                                                                        
+2) Definition of Graph Data Structure and Algorithms ?
+------------------------------------------------------
+*
+*
+ 
+3) What is Graph Data Structure and Algorithms About ?
+------------------------------------------------------
+*
+*
+
+4) What does Graph Data Structure and Algorithms Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Graph Data Structure and Algorithms :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Graph Data Structure and Algorithms :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Graph Data Structure and Algorithms :
+----------------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(K) <<<<<<<<<< Matrix Data Structure >>>>>>>>>>>>
+__________________________________________________
+ Matrix Data Structure                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Matrix Data Structure 
+                                                                                        
+2) Definition of Matrix Data Structure ?
+----------------------------------------
+*
+ 
+3) What is Matrix Data Structure About ?
+----------------------------------------
+*
+*
+
+4) What does Matrix Data Structure Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Matrix Data Structure :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Matrix Data Structure :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Matrix Data Structure :
+--------------------------------------
+*
+*
+*
+__________________________________________________________________________________
+
+(L) <<<<<<<<<< Advanced Data Structures >>>>>>>>>>>>
+__________________________________________________
+ Advanced Data Structures                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Advanced Data Structures 
+                                                                                        
+2) Definition of Advanced Data Structures ?
+-------------------------------------------
+*
+ 
+3) What is Advanced Data Structures About ?
+--------------------------------------------
+*
+*
+
+4) What do Advanced Data Structures Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Advanced Data Structures :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Advanced Data Structures :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Advanced Data Structures :
+-----------------------------------------
+*
+*
+______________________________________________________________________________
