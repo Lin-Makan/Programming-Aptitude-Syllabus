@@ -1,0 +1,215 @@
+ (C) \*/ Linked List Data Structure :
+--------------------------------------
+
+  1. * Linked List Data Structure
+  2. * Introduction to Linked List :
+
+                * Linked List | Set 1 (Introduction) 
+                * Linked List | Set 2 (Inserting a node)
+                * Linked List | Set 3 (Deleting a node)
+                * Applications, Advantages and Disadvantages of Linked List
+                * Types of Linked List
+                * Linked List vs Array
+
+  3. * Traversal in Linked List :
+
+           * Find Length of a Linked List (Iterative and Recursive)
+           * Detect loop in a linked list
+           * Find length of loop in linked list
+           * Write a function to get the intersection point of two Linked Lists
+           * Intersection of two Sorted Linked Lists
+
+  4. * Circular Linked List :
+
+             * Circular Linked List | Set 1 (Introduction and Applications)
+             * Circular Singly Linked List | Insertion
+             * Circular Linked List | Set 2 (Traversal)
+             * Deletion from a Circular Linked List
+             * Check if a linked list is Circular Linked List
+             * Count nodes in Circular linked list
+             * Convert singly linked list into circular linked list
+             * Josephus Circle implementation using STL list
+             * Check if two Circular Linked Lists are identical
+             * Delete all odd nodes of a Circular Linked List
+
+  5. * Doubly Linked List :
+
+        * Doubly Linked List | Set 1 (Introduction and Insertion) :
+        * Applications, Advantages and Disadvantages of Doubly Linked List
+        * Doubly Linked List Tutorial
+        * Delete a node in a Doubly Linked List
+        * Delete a node in a Doubly Linked List 
+        * Delete a Doubly Linked List node at a given position
+        * Sort the biotonic doubly linked list
+        * Reverse a Doubly Linked List | Set 4 (Swapping Data)
+        * Check if a doubly linked list of characters is palindrome or not
+
+  6. * Some other types of Linked List :
+
+            * Skip List | Set 1 (Introduction)
+            * Skip List | Set 2 (Insertion)
+            * Skip List | Set 3 (Searching and Deletion)
+            * Doubly Circular Linked List | Set 1 (Introduction and Insertion)
+            * Doubly Circular Linked List | Set 2 (Deletion)
+            * Unrolled Linked List | Set 1 (Introduction)
+            * Multilevel Linked List
+
+  7. * Searching in Linked List : 
+
+             * Write a function to get Nth node in a Linked List
+             * Program for n’th node from the end of a Linked List
+             * Find the middle of a given linked list
+             * Search an element in a Linked List (Iterative and Recursive)
+
+  8. * Reversal and Rotation in Linked List :
+
+               * Reverse a linked list
+               * Print reverse of a Linked List without actually reversing
+               * Iteratively Reverse a linked list using only 2 pointers (An Interesting Method)
+               * Reverse a Linked List in groups of given size | Set 1
+               * Reverse alternate K nodes in a Singly Linked List
+               * Rotate a Linked List
+               * Insert a node after the n-th node from the end
+
+  9. * Deletion in Linked list :
+
+             * Delete a Linked List node at a given position
+             * Write a function to delete a Linked List
+             * Remove duplicates from an unsorted linked list
+             * Delete N nodes after M nodes of a linked list
+             * Delete last occurrence of an item from linked list
+             * Remove all occurrences of duplicates from a sorted Linked List 
+             * Remove every k-th node of the linked list
+
+  10. * Rearrangement in Linked List :
+
+               * Rearrange a given linked list in-place.
+               * Rearrange a linked list such that all even and odd positioned nodes are together
+               * Rearrange a Linked List in Zig-Zag fashion
+               * Rearrange a given list such that it consists of alternating minimum maximum elements
+               * Make middle node head in a linked list
+               * Flattening a Linked List
+               * Flatten a multilevel linked list
+ 
+  11. * Some other interesting problems in Linked List :
+
+--------------------------------------------------------------------------------
+       
+  1. * Linked List Data Structure :
+  ````````````````````````````````````
+   * -
+*************************************************************************
+
+  2. * Introduction to Linked List :
+  `````````````````````````````````````
+
+   * Linked List | Set 1 (Introduction) 
+   * Linked List | Set 2 (Inserting a node)
+   * Linked List | Set 3 (Deleting a node)
+   * Applications, Advantages and Disadvantages of Linked List
+   * Types of Linked List
+   * Linked List vs Array
+
+***************************************************************************
+  
+  3. * Traversal in Linked List :
+  `````````````````````````````````
+           * Find Length of a Linked List (Iterative and Recursive)
+           * Detect loop in a linked list
+           * Find length of loop in linked list
+           * Write a function to get the intersection point of two Linked Lists
+           * Intersection of two Sorted Linked Lists
+
+*****************************************************************************
+
+  4. * Circular Linked List :
+  `````````````````````````````
+             * Circular Linked List | Set 1 (Introduction and Applications)
+             * Circular Singly Linked List | Insertion
+             * Circular Linked List | Set 2 (Traversal)
+             * Deletion from a Circular Linked List
+             * Check if a linked list is Circular Linked List
+             * Count nodes in Circular linked list
+             * Convert singly linked list into circular linked list
+             * Josephus Circle implementation using STL list
+             * Check if two Circular Linked Lists are identical
+             * Delete all odd nodes of a Circular Linked List
+
+******************************************************************************
+  
+ 5. * Doubly Linked List :
+ ``````````````````````````
+        * Doubly Linked List | Set 1 (Introduction and Insertion) :
+        * Applications, Advantages and Disadvantages of Doubly Linked List
+        * Doubly Linked List Tutorial
+        * Delete a node in a Doubly Linked List
+        * Delete a node in a Doubly Linked List 
+        * Delete a Doubly Linked List node at a given position
+        * Sort the biotonic doubly linked list
+        * Reverse a Doubly Linked List | Set 4 (Swapping Data)
+        * Check if a doubly linked list of characters is palindrome or not
+
+********************************************************************************
+
+ 6. * Some other types of Linked List :
+ ````````````````````````````````````````
+         * Skip List | Set 1 (Introduction)
+         * Skip List | Set 2 (Insertion)
+         * Skip List | Set 3 (Searching and Deletion)
+         * Doubly Circular Linked List | Set 1 (Introduction and Insertion)
+         * Doubly Circular Linked List | Set 2 (Deletion)
+         * Unrolled Linked List | Set 1 (Introduction)
+         * Multilevel Linked List 
+ 
+*********************************************************************************
+
+ 7. * Searching in Linked List :
+ `````````````````````````````````
+          * Write a function to get Nth node in a Linked List
+          * Program for n’th node from the end of a Linked List
+          * Find the middle of a given linked list
+          * Search an element in a Linked List (Iterative and Recursive)
+
+*********************************************************************************
+
+8. * Reversal and Rotation in Linked List :
+````````````````````````````````````````````               
+        
+       * Reverse a linked list
+       * Print reverse of a Linked List without actually reversing
+       * Iteratively Reverse a linked list using only 2 pointers (An Interesting Method)
+       * Reverse a Linked List in groups of given size | Set 1
+       * Reverse alternate K nodes in a Singly Linked List
+       * Rotate a Linked List
+       * Insert a node after the n-th node from the end
+
+*********************************************************************************
+
+ 9. * Deletion in Linked list :
+ ````````````````````````````````
+
+             * Delete a Linked List node at a given position
+             * Write a function to delete a Linked List
+             * Remove duplicates from an unsorted linked list
+             * Delete N nodes after M nodes of a linked list
+             * Delete last occurrence of an item from linked list
+             * Remove all occurrences of duplicates from a sorted Linked List 
+             * Remove every k-th node of the linked list
+
+***********************************************************************************
+
+  10. * Rearrangement in Linked List :
+  ``````````````````````````````````````
+
+               * Rearrange a given linked list in-place.
+               * Rearrange a linked list such that all even and odd positioned nodes are together
+               * Rearrange a Linked List in Zig-Zag fashion
+               * Rearrange a given list such that it consists of alternating minimum maximum elements
+               * Make middle node head in a linked list
+               * Flattening a Linked List
+               * Flatten a multilevel linked list
+
+***********************************************************************************
+ 
+  11. * Some other interesting problems in Linked List :
+  ```````````````````````````````````````````````````````

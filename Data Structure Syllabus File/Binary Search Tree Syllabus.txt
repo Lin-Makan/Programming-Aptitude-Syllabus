@@ -1,0 +1,333 @@
+  (G) \*/ Binary Search Tree :
+-------------------------------
+
+   1. * Binary Search Tree :
+   ___________________________
+
+            + What is Binary Search Tree ?
+            + What are the Properties of Binary Search Tree ?
+                *
+                *
+                *
+
+             Topic :
+             `````````
+              * Basic :
+              * Construction and Conversion :
+              * Check and Smallest/Largest Element :
+              * Red Black Tree and Threaded Binary Tree
+              * Balanced Binary Search Tree 
+              * Misc
+              
+             Basic :
+             `````````
+             1. Binary Search Tree | Set 1 (Search and Insertion)
+             2. Binary Search Tree | Set 2 (Delete)
+             3. Advantages of BST over Hash Table
+             
+             Construction and Conversion :
+             ``````````````````````````````
+             1. Construct BST from given preorder traversal | Set 1
+             2. Construct BST from given preorder traversal | Set 2
+             3. Binary Tree to Binary Search Tree Conversion
+             4. Sorted Linked List to Balanced BST
+             5. Sorted Array to Balanced BST
+             6. Transform a BST to greater sum tree
+             7. Construct all possible BSTs for keys 1 to N
+             8. Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
+             9. BST to a Tree with sum of all smaller keys
+             10. In-place Convert BST into a Min-Heap
+             11. Convert BST to Min Heap
+             12. Construct BST from its given level order traversal
+             13. Reverse a path in BST using queue 
+             14. Binary Tree to Binary Search Tree Conversion using STL set
+             15. Check given array of size n can represent BST of n levels or not
+             16. Convert a normal BST to Balanced BST
+             17. Merge Two Balanced Binary Search Trees
+             18. Merge two BSTs with limited extra space
+            
+             Checking and Searching :
+             ```````````````````````````
+             1. Find the node with minimum value in a Binary Search Tree
+             2. Check if the given array can represent Level Order Traversal of Binary Search Tree
+             3. Check if a given array can represent Preorder Traversal of Binary Search Tree
+             4. Lowest Common Ancestor in a Binary Search Tree
+             5. A program to check if a binary tree is BST or not
+             6. Find k-th smallest element in BST (Order Statistics in BST)
+             7. Check if each internal node of a BST has exactly one child
+             8. Check for Identical BSTs without building the trees
+             9. K’th Largest Element in BST when modification to BST is not allowed
+            10. K’th Largest element in BST using constant extra space
+            11. Second largest element in BST
+            12. K’th smallest element in BST using O(1) Extra Space
+            13. Check if given sorted sub-sequence exists in binary search tree
+            14. Simple Recursive solution to check whether BST contains dead end
+            15. Check if an array represents Inorder of Binary Search tree or not
+            16. Check if two BSTs contain same set of elements
+            17. Largest number in BST which is less than or equal to N
+            18. Maximum Unique Element in every subarray of size K
+            19. Iterative searching in Binary Search Tree
+            20. Find distance between two nodes of a Binary Search Tree
+            21. Count pairs from two BSTs whose sum is equal to a given value x
+            22. Find median of BST in O(n) time and O(1) space
+            23. Largest BST in a Binary Tree | Set 2
+            24. Remove BST keys outside the given range
+            25. Print BST keys in the given range
+            26. Print BST keys in given Range | O(1) Space
+            27. Count BST nodes that lie in a given range
+            28. Count BST subtrees that lie in given range
+            29. Remove all leaf nodes from the binary search tree
+            30. Sum of k smallest elements in BST
+            31. Inorder Successor in Binary Search Tree
+            32. Inorder predecessor and successor for a given key in BST
+            33. Inorder predecessor and successor for a given key in BST | Iterative Approach
+            34. Find if there is a triplet in a Balanced BST that adds to zero
+            35. Find a pair with given sum in a Balanced BST
+            36. Find a pair with given sum in BST
+            37. Maximum element between two nodes of BST
+            38. Find pairs with given sum such that pair elements lie in different BSTs
+            39. Find the closest element in Binary Search Tree
+            40. Find the largest BST subtree in a given Binary Tree
+            41. Replace every element with the least greater element on its right
+            42. Add all greater values to every node in a given BST
+             
+           Red Black Tree and Threaded Binary Tree : 
+           ```````````````````````````````````````````
+            1. C Program for Red Black Tree Insertion
+            2. Left Leaning Red Black Tree (Insertion)
+            3. Threaded Binary Tree
+            4. Threaded Binary Tree | Insertion
+            5. Threaded Binary Search Tree | Deletion
+            6. Convert a Binary Tree to Threaded binary tree | Set 1 (Using Queue)
+            7. Convert a Binary Tree to Threaded binary tree | Set 2 (Efficient)
+            8. Inorder Non-threaded Binary Tree Traversal without Recursion or Stack
+           
+            Balanced Binary Search Tree :
+            ``````````````````````````````
+             1. Convert a normal BST to Balanced BST
+             2. Sorted Array to Balanced BST
+             3. Sorted Linked List to Balanced BST
+             4. How to determine if a binary tree is height-balanced?
+             5. AVL Tree | Set 1 (Insertion)
+             6. AVL Tree | Set 2 (Deletion)
+             7. Find a pair with given sum in a Balanced BST
+             8. Merge Two Balanced Binary Search Trees
+             9. Minimum number of nodes in an AVL Tree with given height
+           
+           Misc :
+           ``````````
+             1. Sorted order printing of a given array that represents a BST
+             2. Two nodes of a BST are swapped, correct the BST
+             3. Floor and Ceil from a BST
+             4. Given n appointments, find all conflicting appointments
+             5. How to handle duplicates in Binary Search Tree?
+             6. Data Structure for a single resource reservations
+             7. How to implement decrease key or change key in Binary Search Tree?
+             8. Print Common Nodes in Two Binary Search Trees
+             9. Count inversions in an array | Set 2 (Using Self-Balancing BST)
+            10. Leaf nodes from Preorder of a Binary Search Tree
+            11. Leaf nodes from Preorder of a Binary Search Tree (Using Recursion)
+            12. Binary Search Tree insert with Parent Pointer
+            13. Minimum Possible value of |ai + aj – k| for given array and k.
+            14. Rank of an element in a stream
+            15. Special two digit numbers in a Binary Search Tree
+
+        Quick Links :
+        ```````````````
+   2. * Tutorial on Binary Search Tree :
+   _______________________________________
+
+         + What is Binary Search Tree ?
+         + What are the Properties of Binary Search Tree ?
+             *
+             *
+             * 
+             * 
+
+         Handling approach for Duplicate values in the Binary Search tree:
+         ``````````````````````````````````````````````````````````````````
+                 *
+                 *
+                 * 
+
+         Below are the various operations that can be performed on a BST:
+         `````````````````````````````````````````````````````````````````
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           * Insert a node into a BST:
+                 
+             Output
+                 20 30 40 50 60 70 80 
+
+             Time Complexity: O(N), where N is the number of nodes of the BST 
+             Auxiliary Space: O(1) 
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *  Inorder traversal:
+        
+            Output
+                20 30 40 50 60 70 80
+
+             Time Complexity: O(N), where N is the number of nodes of the BST 
+             Auxiliary Space: O(1) 
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *  Preorder traversal:
+             Output
+                50 30 20 40 70 60 80
+                Time Complexity: O(N), where N is the number of nodes of the BST 
+                Auxiliary Space: O(1) 
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *  Postorder traversal:
+               Output
+               20 40 30 60 80 70 50
+               Time Complexity: O(N), where N is the number of nodes of the BST 
+               Auxiliary Space: O(1) 
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *  Level order traversal:
+                Output
+                   50
+                  30  70
+                  20  40  60  80
+
+                Time Complexity: O(N), where N is the number of nodes of the BST 
+                Auxiliary Space: O(1) 
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *   Print nodes at given Level :
+                  Output
+                    30 70
+                  Time Complexity: O(N), where N is the number of nodes of the BST 
+                  Auxiliary Space: O(1) 
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *     Print all leaf nodes:
+                       Output
+                        20 40 60 80
+                   Time Complexity: O(N), where N is the number of nodes of the BST 
+                   Auxiliary Space: O(1) 
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *       Print all non leaf node:
+                   Output
+                    50 30 70
+                    Time Complexity: O(N), where N is the number of nodes of the BST 
+                    Auxiliary Space: O(1) 
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *      Right view of BST:
+                     Output
+                     50    70    80
+                     Time Complexity: O(N), where N is the number of nodes of the BST 
+                      Auxiliary Space: O(1) 
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *      Left view of BST:
+                         Output
+                         50  30  20
+                    Time Complexity: O(N), where N is the number of nodes of the BST 
+                    Auxiliary Space: O(1) 
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *       Height of BST:
+                      Output
+                       3
+                    Time Complexity: O(N), where N is the number of nodes of the BST 
+                    Auxiliary Space: O(1) 
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           *       Delete a Node of BST:
+
+              +  Different scenarios for deleting the node:
+                 
+                 1.
+                 2.
+                 3. Node to be deleted has two child :
+                               *
+                               *
+                               *
+                               *
+                               * 
+                               *
+                    Output
+                    20 30 40 50 70 80
+                Time Complexity: O(log N), where N is the number of nodes of the BST 
+                Auxiliary Space: O(1) 
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          *     Smallest Node of the BST:
+                       Output
+                        20
+                Time Complexity: O(log N), where N is the number of nodes of the BST 
+                Auxiliary Space: O(1) 
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          *     Total number of nodes in a BST:
+                Output
+                 7
+                Time Complexity: O(N), where N is the number of nodes of the BST 
+                Auxiliary Space: O(1) 
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          *    Delete a BST:
+               Time Complexity: O(N), where N is the number of nodes of the BST 
+               Auxiliary Space: O(1)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   3. * Introduction :
+   _____________________
+
+       * Binary Search Tree | Set 1 (Search and Insertion)
+       * Binary Search Tree | Set 2 (Delete)
+       * Advantages of BST over Hash Table
+
+   4. * Construction and conversion :
+   ____________________________________
+
+       * Construct BST from given preorder traversal | Set 1
+       * Binary Tree to Binary Search Tree Conversion
+       * Binary Tree to Binary Search Tree Conversion using STL set
+       * Merge two BSTs with limited extra space
+       * Transform a BST to greater sum tree
+       * Construct all possible BSTs for keys 1 to N
+
+   5. * Checking and Searching :
+   _____________________________
+     
+       * Find the node with minimum value in a Binary Search Tree
+       * Check if an array represents Inorder of Binary Search tree or not
+       * Inorder predecessor and successor for a given key in BST
+       * Inorder predecessor and successor for a given key in BST | Iterative Approach
+       * K’th Largest Element in BST when modification to BST is not allowed
+       * K’th smallest element in BST using O(1) Extra Space
+       * Find a pair with given sum in BST
+       * Lowest Common Ancestor in a Binary Search Tree.
+       * Tutorial on Binary Search Tree
+
+   6. * Balanced BST :
+   ____________________
+ 
+       * Sorted Linked List to Balanced BST
+       * How to determine if a binary tree is height-balanced?
+       * AVL Tree | Set 1 (Insertion)
+       * AVL Tree | Set 2 (Deletion)
+       * Find a pair with given sum in a Balanced BST
+       * Merge Two Balanced Binary Search Trees
+       * Tutorial on Binary Search Tree
+       * Red-Black Tree | Set 1 (Introduction)
+
+   7. * Red-black and threaded binary tree :
+   ___________________________________________
+      
+       * Threaded Binary Tree
+       * Threaded Binary Tree | Insertion
+       * Threaded Binary Search Tree | Deletion
+       * Tutorial on Binary Search Tree
+       * How to handle duplicates in Binary Search Tree?
+       * Print Common Nodes in Two Binary Search Trees
+
+   8. * Some Other Interesting Problems :
+   _______________________________________
+  
+      * Two nodes of a BST are swapped, correct the BST
+      * Count inversions in an array | Set 2 (Using Self-Balancing BST)
+
+-----------------------------------------------------------------------------

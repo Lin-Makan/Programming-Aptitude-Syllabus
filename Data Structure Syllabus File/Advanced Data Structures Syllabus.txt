@@ -1,0 +1,255 @@
+  (L) * Advanced Data Structures :
+```````````````````````````````````````````````````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     * Advance Lists :
+     * Segment Tree :
+     * Trie :
+     * Binary Indexed Tree :
+     * Suffix Array and Suffix Tree :
+     * Self balancing BST :
+     * K Dimensional Tree :
+     * Disjoint Set :
+     * N-ary Tree and LCA :
+     * Some other advanced data structures :
+
+*********************************************************************************
+
+  (L) * Advanced Data Structures :
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Topics:
+    ```````````
+    * Advanced Lists
+    * Segment Tree
+    * Trie
+    * Binary Indexed Tree
+    * Suffix Array and Tree
+    * Self-Balancing BSTs
+    * K Dimensional Tree
+    * Disjoint Set
+    * n-ary Tree
+    * Others
+    * Misc
+    * Practice Problems
+  ________________________________________________________________ 
+    * Advanced Lists :
+    ````````````````````
+      1. Generic Linked List in C
+      2. Memory efficient Doubly Linked List
+      3. XOR Linked List | Set 1
+      4. XOR Linked List | Set 2
+      5. Skip List
+      6. Self-Organizing List
+      7. Unrolled Linked List
+
+
+    * Segment Tree :
+    `````````````````
+     1. Sum of given range
+     2. Range minimum query
+     3. Lazy Propagation
+     4. Persistent Segment Tree
+     5. Efficiently design Insert, Delete and Median queries on a set
+     6. Range Minimum Query (Square Root Decomposition and Sparse Table)
+     7. Range LCM queries
+     8. Min-Max Range queries in array
+     9. Count and Toggle queries on Binary array
+    10. Querying maximum number of divisors that a number in a given range has 
+    11. LCA in a binary tree using RMQ
+    12. GCDs of given index ranges in an array
+    13. Smallest sub-array with given GCD
+    14. Largest Rectangular Area in a Histogram
+    15. Heavy Light Decomposition | Set 1 (Introduction)
+    16. Heavy Light Decomposition | Set 2 (Implementation)
+    17. Reconstructing Segment Tree
+    18. Longest Common Extension / LCE | Set 1 (Introduction and Naive Method)
+    19. Longest Common Extension / LCE | Set 2 ( Reduction to RMQ)
+    20. Longest Common Extension / LCE | Set 3 (Segment Tree Method)
+
+
+        * Trie :
+       ``````````````
+        1. Trie | (Insert and Search)
+        2. Trie | (Delete)
+        3. Longest prefix matching – A Trie based solution in Java
+        4. Pattern Searching using a Trie of all Suffixes
+        5. Find shortest unique prefix for every word in a given list
+        6. Longest Common Prefix
+        7. Print all words matching a pattern in CamelCase Notation Dictonary
+        8. Implement a Phone Directory
+        9. Construct a unique matrix n x n for an input n
+       10. Print unique rows in a given boolean matrix
+       11. Count of distinct substrings of a string using Suffix Trie
+       12. Find pair of rows in a binary matrix that has maximum bit difference
+       13. Minimum XOR Value Pair
+       14. Find the maximum subarray XOR in a given array
+       15. Weighted Prefix Search
+       16. bBoggle
+       17. Print all valid words that are possible using Characters of Array
+       18. Find the k most frequent words from a file
+       19. Palindrome pair in an array of words (or strings)
+       20. Word formation using concatenation of two dictionary words
+       21. Given a sequence of words, print all anagrams together
+       22. How to Implement Reverse DNS Look Up Cache?
+       23. How to Implement Forward DNS Look Up Cache?
+
+
+           * Binary Indexed Tree :
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           1. Binary Indexed Tree or Fenwick Tree
+           2. Two Dimensional Binary Indexed Tree or Fenwick Tree
+           3. Binary Indexed Tree : Range Updates and Point Queries
+           4. Binary Indexed Tree : Range Update and Range Queries
+           5. Count inversions in an array
+           6. Count Inversions of size three in a give array
+           7. Count inversion pairs in a matrix
+           8. Counting Triangles in a Rectangular space using BIT
+           9. Number of triangles amongst horizontal and vertical line segments
+          10. Querying the number of distinct colors in a subtree of a colored tree using BIT
+          11. Queries on substring palindrome formation
+          12. proto van Emde Boas Trees | Background and Introduction
+
+           * Suffix Array and Suffix Tree :
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            1. Suffix Array Introduction
+            2. Suffix Array nLogn Algorithm
+            3. kasai’s Algorithm for Construction of LCP array from Suffix Array
+            4. Suffix Tree Introduction
+            5. Ukkonen’s Suffix Tree Construction – Part 1
+            6. Ukkonen’s Suffix Tree Construction – Part 2
+            7. Ukkonen’s Suffix Tree Construction – Part 3
+            8. Ukkonen’s Suffix Tree Construction – Part 4
+            9. Ukkonen’s Suffix Tree Construction – Part 5
+           10. Ukkonen’s Suffix Tree Construction – Part 6
+           11. Generalized Suffix Tree
+           12. Suffix Tree Application 1 – Substring Check
+           13. Suffix Tree Application 2 – Searching All Patterns
+           14. Suffix Tree Application 3 – Longest Repeated Substring
+           15. Suffix Tree Application 4 – Build Linear Time Suffix Array
+           16. Suffix Tree Application 5 – Longest Common Substring
+           17. Suffix Tree Application 6 – Longest Palindromic Substring
+           18. Print Kth character in sorted concatenated substrings of a string
+
+
+           * Self-Balancing BSTs :
+           ~~~~~~~~~~~~~~~~~~~~~~~~
+           `````````````````````````
+             * AVL :
+             ````````````
+              1. AVL Tree | Set 1 (Insertion)
+              2. AVL Tree | Set 2 (Deletion)
+              3. AVL with duplicate keys
+
+             * Splay Tree :
+             ```````````````
+
+              1. Splay Tree | Set 1 (Search)
+              2. Splay Tree | Set 2 (Insert)
+
+             * B Tree :
+             `````````````
+              1. B-Tree | Set 1 (Introduction)
+              2. B-Tree | Set 2 (Insert)
+              3. B-Tree | Set 3 (Delete)
+              4. Quiz on B Tree
+
+             * Red Black Tree :
+             `````````````````````
+              1. Red-Black Tree | Set 1 (Introduction)
+              2. Red Black Tree Insertion
+              3. Red-Black Tree Deletion
+              4. C Program for Red Black Tree Insertion
+
+             * ScapeGoat Tree and Treap :
+             ```````````````````````````````
+              1. ScapeGoat Tree | (Introduction and Insertion)
+              2. Treap | Set 1 (A Randomized Binary Search Tree)
+              3. Treap | Set 2 (Implementation of Search, Insert and Delete)
+            
+            * Problems :
+            ```````````````
+              1. Maximum subarray sum modulo m
+              2. Find N’th item in a set formed by sum of two arrays
+              3. Count smaller elements on right side
+              4. Sort an array according to absolute difference with given value
+              5. Maximum product of an increasing subsequence of size 3
+              6. Merge Two Balanced Binary Search Trees
+              7. How to sort a big array with many repetitions?
+              8. How to determine if a binary tree is height-balanced?
+              9. Maximum Occurrence in a Given Range
+             10. How to handle duplicates in Binary Search Tree?
+             11. last unique URL from long list of URLs in single traversal
+             12. ‘Quiz’ on Balanced Binary Searched Trees
+
+               n-ary Trees and LCA :
+             `````````````````````````
+             1. Mirror of n-ary Tree
+             2. Check mirror in n-ary tree
+             3. Diameter of an N-ary tree
+             4. Depth of an N-Ary tree
+             5. Height of n-ary tree if parent array is given
+             6. Second Largest element in n-ary tree
+             7. Diameter of n-ary tree using BFS
+             8. Number of ways to traverse an N-ary tree
+             9. Number of nodes greater than a given value in n-ary tree
+            10. Number of children of given node in n-ary Tree
+            11. Number of siblings of a given Node in n-ary Tree
+            12. Next Larger element in n-ary tree
+            13. Immediate Smaller element in an N-ary Tree
+            14. Sum of all elements of N-ary Tree
+            15. Serialize and Deserialize an N-ary Tree
+            16. Subtrees formed after bursting nodes
+            17. Locking and Unlocking of Resources arranged in the form of n-ary Tree
+            18. Creating a tree with Left-Child Right-Sibling Representation
+            19. LCA for general or n-ary trees (Sparse Matrix DP approach < O(nlogn), O(logn)>)
+            20. Sqrt (or Square Root) Decomposition | Set 2 (LCA of Tree in O(sqrt(height)) time)
+            21. LCA for n-ary Tree | Constant Query O(1)
+            22. Tarjan’s off-line lowest common ancestors algorithm
+            23. Left-Child Right-Sibling Representation of Tree
+            24. DFS for a n-ary tree (acyclic graph) represented as adjacency list
+            25. Node having maximum sum of immediate children and itself in n-ary tree
+            26. Given a n-ary tree, count number of nodes which have more number of children than parents
+            27. General Tree (Each node can have arbitrary number of children) Level Order Traversal
+
+             * Some other advanced data structures :
+            ``````````````````````````````````````````
+               * Gomory-Hu Tree | Set 1 (Introduction)
+
+                * Others :
+               ``````````````
+                1. Palindromic Tree | Introduction & Implementation
+                2. Ternary Search Tree
+                3. Interval Tree
+                4. BK-Tree | Introduction & Implementation
+                5. Ropes Data Structure (Fast String Concatenation)
+                6. Summed Area Table – Submatrix Summation
+                7. Implement LRU Cache
+                8. Sort numbers stored on different machines
+                9. Substring with highest frequency length product
+               10. Find whether a subarray is in form of a mountain or not
+               11. Find all possible interpretations of an array of digits
+               12. How to design a tiny URL or URL shortener?
+               13. Design a data structure that supports insert, delete, search and getRandom in constant time
+               14. Design an efficient data structure for given operations
+               15. Tournament Tree (Winner Tree) and Binary Heap
+               16. Second minimum element using minimum comparisons
+               17. Binomial Heap
+               18. Fibonacci Heap
+               19. Leftist Heap
+               20. Decision Trees – Fake (Counterfeit) Coin Puzzle (12 Coin Puzzle)
+               21. Spaghetti Stack
+               22. Data Structure for Dictionary and Spell Checker
+               23. Cartesian Tree
+               24. Cartesian Tree Sorting
+               25. Sparse Set
+               26. Centroid Decomposition of Tree
+               27. Gomory-Hu Tree
+
+
+
+
+
+
+
+
+

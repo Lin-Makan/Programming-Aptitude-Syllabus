@@ -1,0 +1,431 @@
+(J) \*/ Graph Data Structure And Algorithms :
+----------------------------------------------
+
+    * Graph Data Structure And Algorithms :
+
+      
+
+   1.* Introduction :
+   ___________________
+
+       * Introduction to Graphs
+       * Graph and its representations
+       * Graph representations using set and hash
+       * Transpose graph
+       * Check whether a given graph is Bipartite or not
+       * Applications, Advantages and Disadvantages of Graph
+       * Applications, Advantages and Disadvantages of Unweighted Graph
+       * Applications, Advantages and Disadvantages of Weighted Graph
+       * Applications, Advantages and Disadvantages of Directed Graph
+
+   2.* BFS and DFS on Graph :
+   ___________________________
+
+        * Breadth First Search or BFS for a Graph
+        * Depth First Search or DFS for a Graph
+        * Applications of Depth First Search
+        * Applications of Breadth First Traversal
+        * Count the number of nodes at given level in a tree using BFS.
+        * Count all possible paths between two vertices
+        * BFS using STL for competitive coding 
+        * Clone an Undirected Graph
+        * Bidirectional Search
+        * Best First Search (Informed Search)
+        * BFS for Disconnected Graph
+
+   3.* Cycle in a Graph :
+   _______________________
+
+        * Detect cycle in an undirected graph
+        * Detect a negative cycle in a Graph | (Bellman Ford)
+        * Cycles of length n in an undirected and connected graph
+        * Detecting negative cycle using Floyd Warshall
+        * Detect Cycle in a directed graph using colors
+        * Clone a Directed Acyclic Graph
+        * Disjoint Set (Or Union-Find) | Set 1 (Detect Cycle in an Undirected Graph)
+        * Union-Find Algorithm | Set 2 (Union By Rank and Path Compression)
+        * Graph Data Structure And Algorithms
+
+ 4.* Shortest Paths in Graph :
+ _____________________________
+
+     * Floyd Warshall Algorithm | DP-16
+     * Johnson’s algorithm for All-pairs shortest paths
+     * Shortest Path in Directed Acyclic Graph
+     * Shortest path in an unweighted graph
+     * Comparison of Dijkstra’s and Floyd–Warshall algorithms
+     * Find minimum weight cycle in an undirected graph
+     * Find Shortest distance from a guard in a Bank 
+     * Graph Data Structure And Algorithms
+     * Topological Sorting
+
+  5.* Topological Sorting in Graph :
+  ________________________________
+
+          * Maximum edges that can be added to DAG so that it remains DAG
+          * Longest Path in a Directed Acyclic Graph
+          * Given a sorted dictionary of an alien language, find order of characters 
+          * Find the ordering of tasks from given dependencies
+          * Topological Sort of a graph using departure time of vertex
+          * Graph Data Structure And Algorithms
+          * Prim’s Minimum Spanning Tree (MST) | Greedy Algo-5
+          * Applications of Minimum Spanning Tree Problem
+
+   6.* Minimum Spanning Tree in Graph :
+   ____________________________________
+
+          * Steiner Tree Problem 
+          * Minimum cost to connect all cities
+          * Total number of Spanning Trees in a Graph
+          * Minimum Product Spanning Tree
+          * Graph Data Structure And Algorithms
+          * Check if a graph is strongly connected | Set 1 (Kosaraju using DFS)
+          * Strongly Connected Components
+          * Tarjan’s Algorithm to find Strongly Connected Components
+
+    7.* Connectivity of Graph :
+   ___________________________
+
+          * Biconnected Components
+          * Eulerian path and circuit for undirected graph
+          * Fleury’s Algorithm for printing Eulerian Path or Circuit
+          * Bridges in a graph
+          * Articulation Points (or Cut Vertices) in a Graph
+          * Transitive closure of a graph
+          * Find the number of islands | Set 1 (Using DFS)
+          * Euler Circuit in a Directed Graph
+          * Eulerian Path in undirected graph
+          * Dynamic Connectivity | Set 1 (Incremental)
+          * Graph Data Structure And Algorithms
+          * Maximum Bipartite Matching
+          * Channel Assignment Problem
+          * Ford-Fulkerson Algorithm for Maximum Flow Problem
+          * Push Relabel Algorithm | Set 1 (Introduction and Illustration)
+
+     8.* Maximum flow in a Graph :
+    _______________________________
+
+          * Dinic’s algorithm for Maximum Flow
+          * Max Flow Problem Introduction
+          * Graph Data Structure And Algorithms
+          * Graph Coloring | Set 1 (Introduction and Applications)
+          * Traveling Salesman Problem (TSP) Implementation
+          * Travelling Salesman Problem | Set 1 (Naive and Dynamic Programming)
+          * Travelling Salesman Problem | Set 2 (Approximate using MST)
+          * Vertex Cover Problem | Set 1 (Introduction and Approximate Algorithm)
+
+--------------------------------------------------------------------------
+    \*/ Introduction, DFS and BFS
+    \*/ Graph Cycle
+    \*/ Topological Sorting
+    \*/ Minimum Spanning Tree
+    \*/ BackTracking
+    \*/ Shortest Paths
+
+      Topics :
+      __________
+
+       * Connectivity
+       * Maximum Flow
+       * STL Implementation of Algorithms
+       * Hard Problems
+       * Misc
+       * Quick Links
+********************************************************************************
+
+     \*/ Introduction, DFS and BFS :
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      1. Graph and its representations
+      2. Breadth First Traversal for a Graph
+      3. Depth First Traversal for a Graph
+      4. Applications of Depth First Search
+      5. Applications of Breadth First Traversal
+      6. Graph representations using set and hash
+      7. Find Mother Vertex in a Graph
+      8. Transitive Closure of a Graph using DFS
+      9. Find K cores of an undirected Graph
+     10. Iterative Depth First Search
+     11. Count the number of nodes at given level in a tree using BFS
+     12. Count all possible paths between two vertices
+     13. Minimum initial vertices to traverse whole matrix with given conditions
+     14. Shortest path to reach one prime to other by changing single digit at a time
+     15. Water Jug problem using BFS
+     16. Count number of trees in a forest
+     17. BFS using vectors & queue as per the algorithm of CLRS
+     18. Level of Each node in a Tree from source node
+     19. Construct binary palindrome by repeated appending and trimming
+     20. Transpose graph
+     21. Path in a Rectangle with Circles
+     22. Height of a generic tree from parent array
+     23. BFS using STL for competitive coding
+     24. DFS for a n-ary tree (acyclic graph) represented as adjacency list
+     25. Maximum number of edges to be added to a tree so that it stays a Bipartite graph
+     26. A Peterson Graph Problem
+     27. Implementation of Graph in JavaScript
+     28. Print all paths from a given source to a destination using BFS
+     29. Minimum number of edges between two vertices of a Graph
+     30. Count nodes within K-distance from all nodes in a set
+     31. Bidirectional Search
+     32. Minimum edge reversals to make a root
+     33. BFS for Disconnected Graph
+     34. Move weighting scale alternate under given constraints
+     35. Best First Search (Informed Search)
+     36. Number of pair of positions in matrix which are not accessible
+     37. Maximum product of two non-intersecting paths in a tree
+     38. Delete Edge to minimize subtree sum difference
+     39. Find the minimum number of moves needed to move from one cell of matrix to another
+     40. Minimum steps to reach target by a Knight | Set 1
+     41. Minimum number of operation required to convert number x into y
+     42. Minimum steps to reach end of array under constraints
+     43. Find the smallest binary digit multiple of given number
+     44. Roots of a tree which give minimum height
+     45. Stepping Numbers
+     46. Clone an Undirected Graph
+     47. Sum of the minimum elements in all connected components of an undirected graph
+     48. Check if two nodes are on same path in a tree
+     49. A matrix probability question
+     50. Find length of the largest region in Boolean Matrix
+     51. Iterative Deepening Search(IDS) or Iterative Deepening Depth First Search(IDDFS)
+
+      \*/ Graph Cycle :
+      ~~~~~~~~~~~~~~~~
+
+      1. Detect Cycle in a Directed Graph
+      2. Detect cycle in an undirected graph
+      3. Detect cycle in a direct graph using colors
+      4. Assign directions to edges so that the directed graph remains acyclic
+      5. Detect a negative cycle in a Graph | (Bellman Ford)
+      6. Cycles of length n in an undirected and connected graph
+      7. Detecting negative cycle using Floyd Warshall
+      8. Check if there is a cycle with odd weight sum in an undirected graph
+      9. Check if a graphs has a cycle of odd length
+     10. Clone a Directed Acyclic Graph
+     11. Check loop in array according to given constraints
+     12. Disjoint Set (Or Union-Find) | Set 1
+     13. Union-Find Algorithm | Set 2
+     14. Union-Find Algorithm | (Union By Rank and Find by Optimized Path Compression)
+     15. Magical Indices in an array
+
+    \*/ Topological Sorting :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        1. Topological Sorting
+        2. All topological sorts of a Directed Acyclic Graph
+        3. Kahn’s Algorithm for Topological Sorting
+        4. Maximum edges that can be added to DAG so that is remains DAG
+        5. Longest path between any pair of vertices
+        6. Longest Path in a Directed Acyclic Graph
+        7. Longest Path in a Directed Acyclic Graph | Set 2
+        8. Topological Sort of a graph using departure time of vertex
+        9. Given a sorted dictionary of an alien language, find order of characters
+
+
+      \*/ Minimum Spanning Tree :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+       1. Prim’s Minimum Spanning Tree (MST))
+       2. Applications of Minimum Spanning Tree Problem 
+       3. Prim’s MST for Adjacency List Representation
+       4. Kruskal’s Minimum Spanning Tree Algorithm
+       5. Boruvka’s algorithm for Minimum Spanning Tree
+       6. Minimum cost to connect all cities
+       7. Steiner Tree
+       8. Reverse Delete Algorithm for Minimum Spanning Tree
+       9. Total number of Spanning Trees in a Graph
+      10. Minimum Product Spanning Tree
+
+      \*/ BackTracking :
+      ~~~~~~~~~~~~~~~~~~~
+
+         1. Find if there is a path of more than k length from a source
+         2. Tug of War
+         3. The Knight-Tour Problem
+         4. Rat in a Maze
+         5. n-Queen’s Problem
+         6. m Coloring Problem
+         7. Hamiltonian Cycle
+         8. Permutation of numbers such that sum of two consecutive numbers is a perfect square
+
+
+      \*/ Shortest Paths :
+     ~~~~~~~~~~~~~~~~~~~~~~
+
+       1. Dijkstra’s shortest path algorithm
+       2. Dijkstra’s Algorithm for Adjacency List Representation
+       3. Bellman–Ford Algorithm
+       4. Floyd Warshall Algorithm
+       5. Johnson’s algorithm for All-pairs shortest paths
+       6. Shortest Path in Directed Acyclic Graph
+       7. Shortest path with exactly k edges in a directed and weighted graph
+       8. Dial’s Algorithm
+       9. Printing paths in Dijsktra’s Algorithm
+      10. Shortest path of a weighted graph where weight is 1 or 2
+      11. Multistage Graph (Shortest Path)
+      12. Shortest path in an unweighted graph
+      13. Minimize the number of weakly connected nodes
+      14. Betweenness Centrality (Centrality Measure)
+      15. Comparison of Dijkstra’s and Floyd–Warshall algorithms
+      16. Karp’s minimum mean (or average) weight cycle algorithm
+      17. 0-1 BFS (Shortest Path in a Binary Weight Graph)
+      18. Find minimum weight cycle in an undirected graph
+      19. Minimum Cost Path with Left, Right, Bottom and Up moves allowed
+      20. Minimum edges to reverse to make path from a src to a dest
+      21. Find Shortest distance from a guard in a Bank
+
+
+      \*/ Connectivity :
+      ~~~~~~~~~~~~~~~~~~~
+
+       1. Find if there is a path between two vertices in a directed graph
+       2. Connectivity in a directed graph
+       3. Articulation Points (or Cut Vertices) in a Graph
+       4. Biconnected Components
+       5. Biconnected graph
+       6. Bridges in a graph
+       7. Eulerian path and circuit
+       8. Fleury’s Algorithm for printing Eulerian Path or Circuit
+       9. Strongly Connected Components
+      10. Transitive closure of a graph
+      11. Find the number of islands
+      12. Find the number of Islands | Set 2 (Using Disjoint Set)
+      13. Count all possible walks from a source to a destination with exactly k edges
+      14. Euler Circuit in a Directed Graph
+      15. Count the number of non-reachable nodes
+      16. Find the Degree of a Particular vertex in a Graph
+      17. Check if a given graph is tree or not
+      18. Minimum edges required to add to make Euler Circuit
+      19. Eulerian Path in undirected graph
+      20. Find if there is a path of more than k length
+      21. Length of shortest chain to reach the target word
+      22. Print all paths from a given source to destination
+      23. Find minimum cost to reach destination using train
+      24. Find if an array of strings can be chained to form a circle | Set 1
+      25. Find if an array of strings can be chained to form a circle | Set 2
+      26. Tarjan’s Algorithm to find strongly connected Components
+      27. Number of loops of size k starting from a specific node
+      28. Paths to travel each nodes using each edge (Seven Bridges of Königsberg)
+      29. Number of cyclic elements in an array where we can jump according to value 
+      30. Number of groups formed in a graph of friends
+      31. Minimum cost to connect weighted nodes represented as array
+      32. Count single node isolated sub-graphs in a disconnected graph
+      33. Calculate number of nodes between two vertices in an acyclic Graph by Disjoint Union method
+      34. Dynamic Connectivity | Set 1 (Incremental)
+      35. Check if a graph is strongly connected | Set 1 (Kosaraju using DFS)
+      36. Check if a given directed graph is strongly connected | Set 2 (Kosaraju using BFS)
+      37. Check if removing a given edge disconnects a graph
+      38. Find all reachable nodes from every node present in a given set
+      39. Connected Components in an undirected graph
+      40. k’th heaviest adjacent node in a graph where each vertex has weight
+
+
+      \*/ Maximum Flow :
+      ~~~~~~~~~~~~~~~~~~~
+
+      1. Ford-Fulkerson Algorithm for Maximum Flow Problem
+      2. Find maximum number of edge disjoint paths between two vertices
+      3. Find minimum s-t cut in a flow network
+      4. Maximum Bipartite Matching
+      5. Channel Assignment Problem
+      6. Push Relabel- Set 1-Introduction
+      7. Push Relabel- Set 2- Implementation
+      8. Karger’s Algorithm- Set 1- Introduction and Implementation
+      9. Karger’s Algorithm- Set 2 – Analysis and Applications
+     10. Dinic’s algorithm for Maximum Flow
+     12. Max Flow Problem Introduction
+
+
+    \*/ STL Implementation of Algorithms :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      1. Kruskal’s Minimum Spanning Tree using STL in C++
+      2. Prim’s Algorithm using Priority Queue STL
+      3. Dijkstra’s Shortest Path Algorithm using STL
+      4. Dijkstra’s Shortest Path Algorithm using set in STL
+      5. Graph implementation using STL for competitive programming | Set 2 (Weighted graph)
+
+
+    \*/ Hard Problems :
+    ~~~~~~~~~~~~~~~~~~~~~
+
+         1. Graph Coloring (Introduction and Applications)
+         2. Greedy Algorithm for Graph Coloring
+         3. Traveling Salesman Problem (TSP) Implementation
+         4. Travelling Salesman Problem (Naive and Dynamic Programming)
+         5. Travelling Salesman Problem (Approximate using MST)
+         6. Vertex Cover Problem | Set 1 (Introduction and Approximate Algorithm) 
+         7. K Centers Problem | Set 1 (Greedy Approximate Algorithm)
+         8. Erdos Renyl Model (for generating Random Graphs)
+         9. Clustering Coefficient in Graph Theory
+        10. Chinese Postman or Route Inspection | Set 1 (introduction)
+        11. Hierholzer’s Algorithm for directed graph
+
+    \*/ Misc :
+    ~~~~~~~~~~~
+
+       1. Number of triangles in an undirected Graph
+       2. Number of triangles in directed and undirected Graph
+       3. Check whether a given graph is Bipartite or not
+       4. Snake and Ladder Problem
+       5. Minimize Cash Flow among a given set of friends who have borrowed money from each other
+       6. Boggle (Find all possible words in a board of characters)
+       7. Hopcroft Karp Algorithm for Maximum Matching-Introduction
+       8. Hopcroft Karp Algorithm for Maximum Matching-Implementation
+       9. Minimum Time to rot all oranges
+      10. Find same contents in a list of contacts
+      11. Hypercube Graph
+      12. Check for star graph
+      13. Optimal read list for a given number of days
+      14. Print all jumping numbers smaller than or equal to a given value
+      15. Fibonacci Cube Graph
+      16. Barabasi Albert Graph (for Scale Free Models)
+      17. Construct a graph from given degrees of all vertices
+      18. Degree Centrality (Centrality Measure)
+      19. Katz Centrality (Centrality Measure)
+      20. Mathematics | Graph theory practice questions
+      21. 2-Satisfiability (2-SAT) Problem
+      22. Determine whether a universal sink exists in a directed graph
+      23. Number of sink nodes in a graph
+      24. Largest subset of Graph vertices with edges of 2 or more colors
+      25. NetworkX : Python software package for study of complex networks
+      26. Generate a graph using Dictionary in Python
+      27. Count number of edges in an undirected graph
+      28. Two Clique Problem (Check if Graph can be divided in two Cliques)
+      29. Check whether given degrees of vertices represent a Graph or Tree
+      30. Finding minimum vertex cover size of a graph using binary search
+      31. Stable Marriage Problem
+      32. Sum of dependencies in a graph
+
+      \*/ Quick Links :
+      ~~~~~~~~~~~~~~~~~~
+       * Top 10 Interview Questions on Depth First Search (DFS)
+       * Some interesting shortest path questions
+       * Quizzes on Graph Traversal
+       * Quizzes on Graph Shortest Path
+       * Quizzes on Graph Minimum Spanning Tree
+       * Quizzes on Graphs
+       * Practice Problems on Graphs
+       * Videos on Graphs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

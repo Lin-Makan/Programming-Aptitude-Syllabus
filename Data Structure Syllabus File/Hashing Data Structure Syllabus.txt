@@ -1,0 +1,187 @@
+       (I)  \*/ Hashing Data Structure :
+     -----------------------------------
+     * -
+             Topic :
+            _________
+             Basics :
+             Easy :
+             Intermediate : 
+             Hard : 
+             Misc :
+             Quick Links :
+-----------------------------------------------------------------------------
+         
+         Basics :
+        ~~~~~~~~~~
+          1. Introduction
+          2. Index Mapping (or Trivial Hashing)
+          3. Separate Chaining for Collision Handling
+          4. Open Addressing for Collision Handling
+          5. Double Hashing
+          6. Load Factor and Rehashing
+
+         Easy :
+        ~~~~~~~~~
+        1. Print a Binary Tree in Vertical Order | Set 2 (Hashmap based Method) :
+        2. Find whether an array is subset of another array :
+        3. Union and Intersection of two linked lists :
+        4. Given an array A[] and a number x, check for pair in A[] with sum as x :
+        5. Minimum delete operations to make all elements of array same :
+        6. Minimum operation to make all elements equal in array :
+        7. Maximum distance between two occurrences of same element in array :
+        8. Count maximum points on same line :
+        9. Check if a given array contains duplicate elements within k distance from each other :
+       10. Find duplicates in a given array when elements are not limited to a range :
+       11. Find top k (or most frequent) numbers in a stream :
+       12. Most frequent element in an array :
+       13. Smallest subarray with all occurrences of a most frequent element :
+       14. First element occurring k times in an array :
+       15. Given an array of pairs, find all symmetric pairs in it :
+       16. Find the only repetitive element between 1 to n-1 :
+       17. Find any one of the multiple repeating elements in read only array :
+       18. Find top three repeated in array :
+       19. Group multiple occurrence of array elements ordered by first occurrence :
+       20. How to check if two given sets are disjoint? :
+       21. Non-overlapping sum of two sets :
+       22. Find elements which are present in first array and not in second :
+       23. Check if two arrays are equal or not :
+       24. Pair with given sum and maximum shortest distance from end :
+       25. Pair with given product | Set 1 (Find if any pair exists) :
+       26. Find missing elements of a range :
+       27. k-th missing element in increasing sequence which is not present in a given sequence :
+       28. Find pair with greatest product in array :
+       29. Minimum number of subsets with distinct elements :
+       30. Remove minimum number of elements such that no common element exist in both array :
+       31. Count items common to both the lists but with different prices :
+       32. Minimum Index Sum for Common Elements of Two Lists :
+       33. Find pairs with given sum such that elements of pair are in different rows : 
+       34. Common elements in all rows of a given matrix :
+       35. Find distinct elements common to all rows of a matrix :
+       36. Find all permuted rows of a given row in a matrix :
+       37. Change the array into a permutation of numbers from 1 to n :
+       38. Count pairs with given sum :
+       39. Count pairs from two sorted arrays whose sum is equal to a given value x : 
+       40. Count pairs from two linked lists whose sum is equal to a given value :
+       41. Count quadruples from four sorted arrays whose sum is equal to a given value x :
+       42. Number of subarrays having sum exactly equal to k :
+       43. Count pairs whose products exist in array :
+       44. Given two unsorted arrays, find all pairs whose sum is x :
+       45. Frequency of each element in an unsorted array :
+       46. Sort elements by frequency :
+       47. Find pairs in array whose sums already exist in array :
+       48. Find all pairs (a, b) in an array such that a % b = k :
+       49. Convert an array to reduced form | Set 1 (Simple and Hashing) :
+       50. Return maximum occurring character in an input string :
+       51. Group words with same set of characters :
+       52. Second most repeated word in a sequence :
+       53. Smallest element repeated exactly ‘k’ times (not limited to small range) :
+       54. Numbers with prime frequencies greater than or equal to k :
+       55. Find k numbers with most occurrences in the given array :
+       56. Find the first repeating element in an array of integers :
+       57. Find sum of non-repeating (distinct) elements in an array :
+       58. Non-Repeating Element :
+       59. k-th distinct (or non-repeating) element in an array :
+       60. Print All Distinct Elements of a given integer array :
+       61. Only integer with positive value in positive negative value in array :
+       62. Pairs of Positive Negative values in an array :
+     
+         Intermediate :
+        ~~~~~~~~~~~~~~~~~
+
+        1. Find Itinerary from a given list of tickets :
+        2. Find number of Employees Under every Employee :
+        3. Count divisible pairs in an array :
+        4. Check if an array can be divided into pairs whose sum is divisible by k :
+        6. Longest subarray with sum divisible by k :
+        7. Subarray with no pair sum divisible by K :
+        8. Print array elements that are divisible by at-least one other :
+        9. Find three element from different three arrays such that that a + b + c = sum : 
+       10. Find four elements a, b, c and d in an array such that a+b = c+d :
+       11. Find the largest subarray with 0 sum :
+       12. Printing longest Increasing consecutive subsequence :
+       13. Longest Increasing consecutive subsequence :
+       14. Longest subsequence such that difference between adjacents is one | Set 2 :
+       15. Longest Consecutive Subsequence :
+       16. Largest increasing subsequence of consecutive integers :
+       17. Count subsets having distinct even numbers :
+       18. Count distinct elements in every window of size k :
+       19. Maximum possible sum of a window in an array such that elements of same window in other array are unique :
+       20. Distributing items when a person cannot take more than two items of same type :
+       21. Design a data structure that supports insert, delete, search and getRandom in constant time :
+       22. Check if array contains contiguous integers with duplicates allowed :
+       23. Length of the largest subarray with contiguous elements :
+       24. Find if there is a subarray with 0 sum :
+       25. Print all subarrays with 0 sum :
+       26. Find subarray with given sum | Set 2 (Handles Negative Numbers) :
+       27. Find four elements that sum to a given value :
+       28. Implementing our Own Hash Table with Separate Chaining in Java :
+       29. Implementing own Hash Table with Open Addressing Linear Probing in C++ :
+       30. Vertical Sum in a given Binary Tree :
+       31. Group Shifted String :
+       32. Minimum insertions to form a palindrome with permutations allowed :
+       33. Check for Palindrome after every character replacement Query :
+       34. Maximum length subsequence with difference between adjacent elements as either 0 or 1 | Set 2 :
+       35. Maximum difference between frequency of two elements such that element having greater frequency is also greater :
+       36. Difference between highest and least frequencies in an array :
+       37. Maximum difference between first and last indexes of an element in array :
+       38. Maximum possible difference of two subsets of an array :
+       39. Sorting using trivial hash function :
+       40. Smallest subarray with k distinct numbers :
+       41. Longest subarray not having more then K distinct elements :
+       42. Sum of f(a[i], a[j]) over all pairs in an array of n integers :
+       43. Find number of pairs in an array such that their XOR is :
+       44. Maximize elements using another array :
+
+         Hard :
+        ~~~~~~~~~~
+       1. Clone a Binary Tree with Random Pointers
+       2. Largest subarray with equal number of 0s and 1s
+       3. Longest subarray having count of 1s one more than count of 0s
+       4. Longest subarray having count of 1s one more than count of 0s
+       5. Count Substrings with equal number of 0s, 1s and 2s
+       6. Print all triplets in sorted array that form AP
+       7. All unique triplets that sum up to a given value
+       8. Find all triplets with zero sum
+       9. Count number of triplets with product equal to given number
+      10. Count of index pairs with equal elements in an array
+      11. Palindrome Substring Queries
+      12. Find smallest range containing elements from k lists
+      13. Range Queries for Frequencies of array elements
+      14. Elements to be added so that all elements of a range are present in array
+      15. Cuckoo Hashing – Worst case O(1) Lookup!
+      16. Subarrays with distinct elements
+      17. Count subarrays having total distinct elements same as original array
+      18. Count subarrays with same even and odd elements
+      19. Minimum number of distinct elements after removing m items
+      20. Distributing items when a person cannot take more than two items of same type
+      21. Maximum consecutive numbers present in an array
+      22. Maximum array from two given arrays keeping order same
+      23. Maximum number of chocolates to be distributed equally among k students
+      24. Find largest d in array such that a + b + c = d
+      25. Find Sum of all unique sub-array sum for a given array.
+          
+      Misc :
+     ~~~~~~~~~
+      1. Advantages of BST over Hash Table :
+      2. Internal Working of HashMap in Java :
+      3. Hash Table vs STL Map :
+      4. Recaman’s sequence :
+      5. C++ program for hashing with chaining :
+      6. Largest subset whose all elements are Fibonacci numbers :
+      7. Pairs of Amicable Numbers :
+      8. Find All Duplicate Subtrees :
+      9. Hash Table vs STL Map
+     10. Find if there is a rectangle in binary matrix with corners as 1
+     11. Maximum area rectangle by picking four sides from array
+     12. Root to leaf path with maximum distinct nodes
+     13. Game of replacing array elements
+     14. Length of longest strict bitonic subsequence
+     15. Last seen array element (last appearance is earliest)
+      
+    Quick Links :
+   ~~~~~~~~~~~~~~~~
+
+    1. ‘Practice Problems’ on Hashing
+    2. Top 20 Hashing Technique based Interview Questions
+    3. ‘Quizzes’ on Hashing
+    4. ‘Videos’ on Hashing

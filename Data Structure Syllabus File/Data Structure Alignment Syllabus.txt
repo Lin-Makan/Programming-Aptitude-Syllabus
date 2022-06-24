@@ -1,0 +1,11 @@
+
+Data Structure Alignment : How Data is Arranged and Accessed in Computer Memory?
+--------------------------------------------------------------------------------
+
+  1. What is Data alignment:
+      *
+      * 
+   
+  2. What is Data Padding:
+      *
+      *

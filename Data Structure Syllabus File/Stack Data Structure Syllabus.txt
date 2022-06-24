@@ -1,0 +1,299 @@
+ (D) \*/ Stack Data Structure :
+---------------------------------
+   
+   1. * Stack Data Structure :
+   ______________________________
+             *- 
+   2. * Stack Data Structure(Introduction and Program):
+  _______________________________________________________
+           +  Push:
+           +  Algorithm for push:
+
+   3. * Application, Advantages and Disadvantages of Stack :
+   __________________________________________________________
+
+            +  Some of its Main Operations are:
+               push(), pop(), top(), isEmpty(), size(), etc.
+            
+            + Primary Stack Operations:
+                                * void push(int data):
+                                * int pop():
+
+            + Auxiliary Stack Operations:
+                                * int top(): 
+                                * int size():
+                                * int isEmpty():
+                                * int isFull():
+            
+            + Types of Stacks: 
+                     * Register Stack: 
+                     * Memory Stack:
+             
+            + What is meant by Top of the Stack? :
+            
+            + Application of Stack Data Structure:
+                 *
+                 * 
+                 *
+                 *
+                 *
+                 * 
+                 * 
+                 *
+            
+            + Application of Stack in real life:
+                *
+                *
+                *
+                *
+                *
+                *
+         
+            + Advantages of Stack:  
+                   *
+                   *
+                   *
+                   * 
+                   * 
+                   *
+            
+            + Disadvantages of Stack: 
+                *
+                *
+                *
+                *
+                *
+                * 
+   
+ 4. * Design and Implementations of Stack :
+ _______________________________________________
+
+       * Queue using Stacks
+       * Design and Implement Special Stack Data Structure | Added Space Optimized Version : 
+          +
+          + 
+          +
+
+       * Implement Stack using Queues :
+            +
+            + 
+            +
+       * Design a stack with operations on middle element : 
+             +
+             +
+             +
+
+       * How to efficiently implement k stacks in a single array?
+             +
+             +
+             +
+
+       * Design a stack that supports getMin() in O(1) time and O(1) extra space :
+              +
+              +
+              +
+
+       * Create a customized data structure which evaluates functions in O(1) :
+              +
+              +
+              +
+              +
+
+       * Implement a stack using single queue :
+            +
+            + 
+            + 
+
+ 5. * Operations on Stack : 
+   ___________________________________
+
+         * Reverse a stack using recursion
+         * Sort a stack using recursion
+         * Sort a stack using a temporary stack
+         * Reverse a stack without using extra space in O(n) 
+         * Delete middle element of a stack
+         * Sorting array using Stacks
+         * Check if a queue can be sorted into another queue using a stack
+         * Count subarrays where second highest lie before highest
+         * Delete array elements which are smaller than next or become smaller
+
+   6. * Standard problems on Stack :
+   ____________________________________
+           * Next Greater Element
+           * Next Greater Frequency Element
+           * Number of NGEs to the right
+           * The Celebrity Problem
+           * Expression Evaluation
+           * Stack | Set 4 (Evaluation of Postfix Expression)
+           * Iterative Tower of Hanoi
+           * Print next greater number of Q queries
+           * Stack | Set 3 (Reverse a string using stack)
+
+   7. * Other interesting problems on Stack :
+   _____________________________________________
+           
+           * Largest Rectangular Area in a Histogram | Set 2
+           * Stack | Set 3 (Reverse a string using stack)
+           * Find maximum of minimum for every window size in a given array
+           * Iterative Depth First Traversal of Graph
+           * Expression contains redundant bracket or not
+           * Check if a given array can represent Preorder Traversal of Binary Search Tree
+           * Find maximum difference between nearest left and right smaller elements
+           * Tracking current Maximum Element in a Stack
+           * Spaghetti Stack
+           * Range Queries for Longest Correct Bracket Subsequence Set | 2
+---------------------------------------------------------------------------------            
+
+   5. * Operations on Stack : 
+   ___________________________________
+
+         * Reverse a stack using recursion :
+             +
+             + 
+             +
+
+         * Sort a stack using recursion :
+              +
+              +
+              +
+
+         * Sort a stack using a temporary stack :
+              +
+              +
+              +
+
+         * Reverse a stack without using extra space in O(n) :
+                  +
+                  +
+                  +
+
+         * Delete middle element of a stack :
+            +
+            +
+            +
+
+         * Sorting array using Stacks :
+            +
+            +
+            +
+
+         * Check if a queue can be sorted into another queue using a stack :
+              +
+              +
+              +
+
+         * Count subarrays where second highest lie before highest :
+                +
+                +
+                +
+
+         * Delete array elements which are smaller than next or become smaller :
+                  +
+                  +
+                  +
+                  +
+
+   6. * Standard problems on Stack :
+   ____________________________________
+           * Next Greater Element :
+                   +
+                   +
+                   +
+
+           * Next Greater Frequency Element :
+              +
+              +
+              +
+
+           * Number of NGEs to the right :
+               +
+               +
+               +
+
+           * The Celebrity Problem :
+                +
+                +
+                +
+
+           * Expression Evaluation :
+                +
+                +
+                +
+
+           * Stack | Set 4 (Evaluation of Postfix Expression) :
+               +
+               +
+               +
+
+           * Iterative Tower of Hanoi :
+                +
+                +
+                +
+
+           * Print next greater number of Q queries :
+                  +
+                  +
+                  +
+
+           * Stack | Set 3 (Reverse a string using stack) :
+                    +
+                    +
+                    +
+                      
+   7. * Other interesting problems on Stack :
+   _____________________________________________
+           
+           * Largest Rectangular Area in a Histogram | Set 2 :
+                +
+                +
+                +
+
+           * Stack | Set 3 (Reverse a string using stack) :
+                 +
+                 +
+                 +
+
+           * Find maximum of minimum for every window size in a given array :
+                +
+                +
+                +
+
+           * Iterative Depth First Traversal of Graph :
+                 +
+                 +
+                 +
+
+           * Expression contains redundant bracket or not :
+                  +
+                  +
+                  +
+                  +
+
+           * Check if a given array can represent Preorder Traversal of Binary Search Tree :
+                    +
+                    +
+                    +
+                    +
+
+           * Find maximum difference between nearest left and right smaller elements :
+                 +
+                 +
+                 +
+                 +
+
+           * Tracking current Maximum Element in a Stack :
+                  +
+                  +
+                  +
+                  +
+
+           * Spaghetti Stack :
+                   +
+                   +
+                   +
+
+           * Range Queries for Longest Correct Bracket Subsequence Set | 2 :
+                     +
+                     +
+                     +
+---------------------------------------------------------------------------------
