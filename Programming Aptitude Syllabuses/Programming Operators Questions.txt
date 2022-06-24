@@ -1,0 +1,2482 @@
+
+
+   Programming Operators Questions :
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ (A)  \*/ C Arithmetic Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       1.  * Arithmetic Operator :
+ 
+    
+ (B)   \*/ Different Types of Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+      1. *  + Addition or Unary Plus
+      2. *  - Subtraction or Unary Minus
+      3. *  * Multiplication
+      4. *  / Division
+      5. *  % Remainder After Division (Modulo Division) 
+
+ (C)   \*/ C Increment and Decrement Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+      1. * Operators Increment ++
+      2. * Operators Decrement --
+      3. * Increment and Decrement Operators work when used as Postfix : 
+   
+ (D)   \*/  C Assignment Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       1. * Assignment Operators :
+       2. * Most Common Assignment Operator is = 
+       
+ (E)  \*/ Different Types of Assignment Operators :
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      1.  *   =
+      2.  *   +=
+      3.  *   -=
+      4.  *   *=
+      5.  *   /=
+      6.  *   %=
+
+ 
+ (F)  \*/ C Relational Operators :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     1. *  == Equal to
+     2. *  > Greater than 
+     3. *  < Less than
+     4. *  != Not equal to
+     5. *  >= Greater than or equal to
+     6. *  <= Less than or equal to
+
+
+ (G)   \*/ C Logical Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~
+       1. * Logical Operators :
+
+    
+ (H)   \*/ Different Types of Logical Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       1. *  &&  Logical AND 
+
+       2. *  ||  Logical OR
+
+       3. *  !   Logical NOT
+
+
+ (I)  \*/ Explanation of Logical Operator Program :
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+       *
+       *
+
+ (J)      \*/ Explanation of Logical Operator Program :
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         1. * (a == b) && (c > 5)
+
+         2. * (a == b) && (c < b)
+
+         3. * (a == b) || (c < b)
+           
+         4. * (a != b) || (c < b)
+          
+         5. * !(a != b)
+          
+         6. * !(a == b)
+
+
+ (K)    \*/ C Bitwise Operators :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~
+         1.  * C Bitwise Operators :
+
+            
+ (L)    \*/ Different Types of C Bitwise Operators :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            * Operators :
+                   1.    *   &     Bitwise AND
+ 
+                   2.    *   |     Bitwise OR
+
+                   3.    *   ^     Bitwise exclusive OR  /   Bitwise XOR
+
+                   4.    *   -     Bitwise complement
+
+                   5.    *   <<    Shift left
+
+                   6.    *   >>    Shift right
+
+
+  (M)   \*/ Other Operators :
+        ~~~~~~~~~~~~~~~~~~~~~~~
+         1.  * Comma Operator :
+
+         2.  * The sizeof operator :
+
+         3.  * Ternary Operator :
+ 
+         4.  * Member Selection Operator :
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ (A)   \*/ C Arithmetic Operators :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 1. <<<<<<<<<< Arithmetic Operator >>>>>>>>>>
+________________________________________________
+ Arithmetic Operator                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Arithmetic Operator 
+                                                                                        
+2) Definition of Arithmetic Operator ?
+---------------------------------------
+*
+ 
+3) What is Arithmetic Operator About ?
+--------------------------------------
+*
+*
+
+4) What does Arithmetic Operator Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Arithmetic Operator :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Arithmetic Operator :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Arithmetic Operator :
+------------------------------------
+*
+*
+________________________________________________________________________________
+
+ (B)   \*/ Different Types of Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+     
+      1. *  + Addition or Unary Plus
+      2. *  - Subtraction or Unary Minus
+      3. *  * Multiplication
+      4. *  / Division
+      5. *  % Remainder After Division (Modulo Division)
+
+  <<<<<<<< Different Types of Operators >>>>>>>>
+________________________________________________
+  Different Types of Operators                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Different Types of Operators                                                                                        
+2) Definition of Different Types of Operators ?
+-----------------------------------------------
+*
+ 
+3) What is Different Types of Operators About ?
+-----------------------------------------------
+*
+*
+
+4) What does Different Types of Operators Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Different Types of Operators :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Different Types of Operators :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Different Types of Operators :
+---------------------------------------------
+*
+*
+__________________________________________________________________________
+
+ 1. <<<<<<<<<< + Addition or Unary Plus >>>>>>>>>>
+________________________________________________
+ + Addition or Unary Plus                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* + Addition or Unary Plus 
+                                                                                        
+2) Definition of + Addition or Unary Plus ?
+-------------------------------------------
+*
+ 
+3) What is + Addition or Unary Plus About ?
+-------------------------------------------
+*
+*
+
+4) What does + Addition or Unary Plus Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of + Addition or Unary Plus :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of + Addition or Unary Plus :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of + Addition or Unary Plus :
+-----------------------------------------
+*
+*
+________________________________________________________________________________
+
+ 2.  <<<<<<<<< - Subtraction or Unary Minus >>>>>>>>>>
+_____________________________________________________
+ - Subtraction or Unary Minus                        |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* - Subtraction or Unary Minus
+                                                                                        
+2) Definition of - Subtraction or Unary Minus ?
+-----------------------------------------------
+*
+ 
+3) What is - Subtraction or Unary Minus About ?
+-----------------------------------------------
+*
+*
+
+4) What does - Subtraction or Unary Minus Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of - Subtraction or Unary Minus :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of - Subtraction or Unary Minus :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of - Subtraction or Unary Minus :
+---------------------------------------------
+*
+*
+________________________________________________________________________________
+
+3. <<<<<<<<<< * Multiplication >>>>>>>>>>
+__________________________________________________
+ * Multiplication                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* * Multiplication 
+                                                                                        
+2) Definition of * Multiplication ?
+-----------------------------------
+*
+ 
+3) What is * Multiplication About ?
+-----------------------------------
+*
+*
+
+4) What does * Multiplication Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of * Multiplication :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of * Multiplication :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of * Multiplication :
+---------------------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<<< / Division >>>>>>>>>>
+__________________________________________________
+ / Division                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* / Division 
+                                                                                        
+2) Definition of / Division ?
+-----------------------------
+*
+ 
+3) What is / Division About ?
+-----------------------------
+*
+*
+
+4) What do / Division Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of / Division :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of / Division :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of / Division :
+---------------------------
+*
+*
+________________________________________________________________________________
+
+5. <<<<<<<<< % Remainder After Division (Modulo Division) >>>>>>>>>
+__________________________________________________
+ % Remainder After Division (Modulo Division)     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* % Remainder After Division (Modulo Division)
+                                                                                        
+2) Definition of % Remainder After Division (Modulo Division) ?
+---------------------------------------------------------------
+*
+ 
+3) What is % Remainder After Division (Modulo Division) About ?
+---------------------------------------------------------------
+*
+*
+
+4) What does % Remainder After Division (Modulo Division) Do ?
+--------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of % Remainder After Division (Modulo Division) :
+------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of % Remainder After Division (Modulo Division) :
+---------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of % Remainder After Division (Modulo Division) :
+-------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+
+ (C)   \*/ C Increment and Decrement Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+      1. * Operators Increment ++
+      2. * Operators Decrement --
+      3. * Increment and Decrement Operators work when used as Postfix :
+
+  <<<<<<<< C Increment and Decrement Operators >>>>>>>>
+________________________________________________
+  C Increment and Decrement Operators           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C Increment and Decrement Operators                                                                                        
+2) Definition of Different Types of Operators ?
+-----------------------------------------------
+*
+ 
+3) What is Different Types of Operators About ?
+-----------------------------------------------
+*
+*
+
+4) What does Different Types of Operators Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Different Types of Operators :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Different Types of Operators :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Different Types of Operators :
+---------------------------------------------
+*
+*
+__________________________________________________________________________
+
+ 1. <<<<<<<<<< Operators Increment ++ >>>>>>>>>>
+________________________________________________
+ Operators Increment ++                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Operators Increment ++ 
+                                                                                        
+2) Definition of Operators Increment ++ ?
+-----------------------------------------
+*
+ 
+3) What is Operators Increment ++ About ?
+-----------------------------------------
+*
+*
+
+4) What does + Addition or Unary Plus Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of + Addition or Unary Plus :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of + Addition or Unary Plus :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of + Addition or Unary Plus :
+-----------------------------------------
+*
+*
+________________________________________________________________________________
+
+ 2.  <<<<<<<<< Operators Decrement -- >>>>>>>>>>
+_____________________________________________________
+   Operators Decrement --                            |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Operators Decrement --
+                                                                                        
+2) Definition of Operators Decrement -- ?
+-----------------------------------------
+*
+ 
+3) What is Operators Decrement -- About ?
+-----------------------------------------
+*
+*
+
+4) What does Operators Decrement -- Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of - Subtraction or Unary Minus :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of - Subtraction or Unary Minus :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of - Subtraction or Unary Minus :
+---------------------------------------------
+*
+*
+________________________________________________________________________________
+
+3. <<<<<<< Increment and Decrement Operators work when used as Postfix >>>>>>>
+________________________________________________________________
+    Increment and Decrement Operators work when used as Postfix |
+                                                                |                  
+________________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Increment and Decrement Operators work when used as Postfix 
+                                                                                        
+2) Definition of Increment and Decrement Operators work when used as Postfix ?
+------------------------------------------------------------------------------
+*
+ 
+3) What is * Multiplication About ?
+-----------------------------------
+*
+*
+
+4) What does * Multiplication Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of * Multiplication :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of * Multiplication :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of * Multiplication :
+---------------------------------
+*
+*
+______________________________________________________________________________
+
+ (D)   \*/  C Assignment Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       1. * Assignment Operators :
+       2. * Most Common Assignment Operator is = 
+
+ 1. <<<<<<<< Assignment Operators >>>>>>>>
+________________________________________________
+   Assignment Operators                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Assignment Operators                                                                                        
+2) Definition of Different Types of Operators ?
+-----------------------------------------------
+*
+ 
+3) What is Different Types of Operators About ?
+-----------------------------------------------
+*
+*
+
+4) What does Different Types of Operators Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Different Types of Operators :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Different Types of Operators :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Different Types of Operators :
+---------------------------------------------
+*
+*
+__________________________________________________________________________
+
+ 2. <<<<<<<<<< Most Common Assignment Operator is =  >>>>>>>>>>
+________________________________________________
+    Most Common Assignment Operator is =        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Most Common Assignment Operator is =  
+                                                                                        
+2) Definition of Most Common Assignment Operator is =  ?
+--------------------------------------------------------
+*
+ 
+3) What is Most Common Assignment Operator is =  About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Most Common Assignment Operator is =  Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Most Common Assignment Operator is =  :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Most Common Assignment Operator is =  :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Most Common Assignment Operator is =  :
+-------------------------------------------------------
+*
+*
+_____________________________________________________________________________
+
+ (E)  \*/ Different Types of Assignment Operators :
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      1.  *   =
+      2.  *   +=
+      3.  *   -=
+      4.  *   *=
+      5.  *   /=
+      6.  *   %=
+
+  <<<<<<<< Different Types of Assignment Operators >>>>>>>>
+________________________________________________
+  Different Types of Assignment Operators       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Different Types of Assignment Operators                                                                                        
+2) Definition of Different Types of Operators ?
+-----------------------------------------------
+*
+ 
+3) What is Different Types of Operators About ?
+-----------------------------------------------
+*
+*
+
+4) What does Different Types of Operators Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Different Types of Operators :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Different Types of Operators :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Different Types of Operators :
+---------------------------------------------
+*
+*
+__________________________________________________________________________
+
+ 1. <<<<<<<<<< = >>>>>>>>>>
+________________________________________________
+      =                                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* = 
+                                                                                        
+2) Definition of = ?
+--------------------
+*
+ 
+3) What is = About ?
+--------------------
+*
+*
+
+4) What does = Do ?
+-------------------
+*
+*
+
+5) Advantages/Benefits of = :
+-----------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of = :
+--------------------------------
+*
+*
+*  
+
+7) Examples of = :
+------------------
+*
+*
+________________________________________________________________________________
+
+ 2.  <<<<<<<<< += >>>>>>>>>>
+_____________________________________________________
+         +=                                          |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* +=
+                                                                                        
+2) Definition of += ?
+---------------------
+*
+ 
+3) What is += About ?
+---------------------
+*
+*
+
+4) What does += Do ?
+--------------------
+*
+*
+
+5) Advantages/Benefits of += :
+------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of += :
+---------------------------------
+*
+*
+*  
+
+7) Examples of += :
+-------------------
+*
+*
+________________________________________________________________________________
+
+3. <<<<<<<<<< -= >>>>>>>>>>
+__________________________________________________
+              -=                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* -= 
+                                                                                        
+2) Definition of -= ?
+---------------------
+*
+ 
+3) What is -= About ?
+---------------------
+*
+*
+
+4) What does -= Do ?
+--------------------
+*
+*
+
+5) Advantages/Benefits of -= :
+------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of -= :
+---------------------------------
+*
+*
+*  
+
+7) Examples of -= :
+-------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<<< *= >>>>>>>>>>
+__________________________________________________
+        *=                                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* *= 
+                                                                                        
+2) Definition of *= ?
+---------------------
+*
+ 
+3) What is *= About ?
+---------------------
+*
+*
+
+4) What do *= Do ?
+------------------
+*
+*
+
+5) Advantages/Benefits of *= :
+------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of *= :
+---------------------------------
+*
+*
+*  
+
+7) Examples of *= :
+-------------------
+*
+*
+________________________________________________________________________________
+
+5. <<<<<<<<< /= >>>>>>>>>
+__________________________________________________
+                /=                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* /=
+                                                                                        
+2) Definition of /= ?
+---------------------
+*
+ 
+3) What is /= About ?
+---------------------
+*
+*
+
+4) What does /= Do ?
+--------------------
+*
+*
+
+5) Advantages/Benefits of /= :
+------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of /= :
+---------------------------------
+*
+*
+*  
+
+7) Examples of /= :
+-------------------
+*
+*
+_______________________________________________________________________________
+
+ 6.  <<<<<<<< %= >>>>>>>>
+________________________________________________
+           %=                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* %=                                                                                        
+2) Definition of %= ?
+---------------------
+*
+ 
+3) What is %= About ?
+---------------------
+*
+*
+
+4) What does %= Do ?
+--------------------
+*
+*
+
+5) Advantages/Benefits of %= :
+------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of %= :
+---------------------------------
+*
+*
+*  
+
+7) Examples of %= :
+-------------------
+*
+*
+_____________________________________________________________________________
+
+ (F)  \*/ C Relational Operators :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     1. *  == Equal to
+     2. *  > Greater than 
+     3. *  < Less than
+     4. *  != Not equal to
+     5. *  >= Greater than or equal to
+     6. *  <= Less than or equal to
+
+  <<<<<<<< C Relational Operators >>>>>>>>
+________________________________________________
+      C Relational Operators                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C Relational Operators                                                                                        
+2) Definition of C Relational Operators ?
+-----------------------------------------
+*
+ 
+3) What is C Relational Operators About ?
+-----------------------------------------
+*
+*
+
+4) What does C Relational Operators Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of C Relational Operators :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C Relational Operators :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of C Relational Operators :
+---------------------------------------
+*
+*
+__________________________________________________________________________
+
+ 1. <<<<<<<<<< == Equal to >>>>>>>>>>
+________________________________________________
+      == Equal to                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* == Equal to 
+                                                                                        
+2) Definition of == Equal to ?
+------------------------------
+*
+ 
+3) What is == Equal to About ?
+------------------------------
+*
+*
+
+4) What does == Equal to Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of == Equal to :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of == Equal to :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of == Equal to :
+----------------------------
+*
+*
+________________________________________________________________________________
+
+ 2.  <<<<<<<<<  > Greater than  >>>>>>>>>>
+_____________________________________________________
+         > Greater than                              |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* > Greater than
+                                                                                        
+2) Definition of > Greater than ?
+---------------------------------
+*
+ 
+3) What is > Greater than About ?
+---------------------------------
+*
+*
+
+4) What does > Greater than Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of > Greater than :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of > Greater than :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of > Greater than :
+-------------------------------
+*
+*
+________________________________________________________________________________
+
+3. <<<<<<<<<<  < Less than  >>>>>>>>>>
+__________________________________________________
+              < Less than                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* < Less than 
+                                                                                        
+2) Definition of < Less than ?
+------------------------------
+*
+ 
+3) What is < Less than About ?
+------------------------------
+*
+*
+
+4) What does < Less than Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of < Less than :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of < Less than :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of < Less than :
+----------------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<<< != Not equal to >>>>>>>>>>
+__________________________________________________
+        != Not equal to                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* != Not equal to 
+                                                                                        
+2) Definition of != Not equal to ?
+----------------------------------
+*
+ 
+3) What is != Not equal to About ?
+----------------------------------
+*
+*
+
+4) What does != Not equal to Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of != Not equal to :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of != Not equal to :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of != Not equal to :
+--------------------------------
+*
+*
+________________________________________________________________________________
+
+5. <<<<<<<<< >= Greater than or equal to >>>>>>>>>
+__________________________________________________
+           >= Greater than or equal to            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* >= Greater than or equal to
+                                                                                        
+2) Definition of >= Greater than or equal to ?
+----------------------------------------------
+*
+ 
+3) What is >= Greater than or equal to About ?
+----------------------------------------------
+*
+*
+
+4) What does >= Greater than or equal to Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of >= Greater than or equal to :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of >= Greater than or equal to :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of >= Greater than or equal to :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 6.  <<<<<<<< <= Less than or equal to >>>>>>>>
+________________________________________________
+           <= Less than or equal to             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* <= Less than or equal to                                                                                        
+2) Definition of <= Less than or equal to ?
+-------------------------------------------
+*
+ 
+3) What is <= Less than or equal to About ?
+-------------------------------------------
+*
+*
+
+4) What does <= Less than or equal to Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of <= Less than or equal to :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of <= Less than or equal to :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of <= Less than or equal to :
+-----------------------------------------
+*
+*
+_________________________________________________________________________
+
+ (G) \*/ C Logical Operators :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+     1. * Logical Operators :
+
+ 1. <<<<<<<<<< C Logical Operators >>>>>>>>>>
+________________________________________________
+       C Logical Operators                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C Logical Operators 
+                                                                                        
+2) Definition of C Logical Operators ?
+--------------------------------------
+*
+ 
+3) What is C Logical Operators About ?
+--------------------------------------
+*
+*
+
+4) What does C Logical Operators Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of C Logical Operators :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C Logical Operators :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of C Logical Operators :
+------------------------------------
+*
+*
+_____________________________________________________________________________
+
+ (H) \*/ Different Types of Logical Operators :
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    1. *  &&  Logical AND 
+
+    2. *  ||  Logical OR
+
+    3. *  !   Logical NOT
+
+
+ (H) <<<<<<<< Different Types of Logical Operators >>>>>>>>
+________________________________________________
+      Different Types of Logical Operators      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Different Types of Logical Operators                                                                                        
+2) Definition of Different Types of Logical Operators ?
+-------------------------------------------------------
+*
+ 
+3) What is Different Types of Logical Operators About ?
+-------------------------------------------------------
+*
+*
+
+4) What does Different Types of Logical Operators Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Different Types of Logical Operators :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Different Types of Logical Operators :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Different Types of Logical Operators :
+-----------------------------------------------------
+*
+*
+__________________________________________________________________________
+
+ 1. <<<<<<<<<< && Logical AND >>>>>>>>>>
+________________________________________________
+      && Logical AND                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* && Logical AND 
+                                                                                        
+2) Definition of && Logical AND ?
+---------------------------------
+*
+ 
+3) What is && Logical AND About ?
+---------------------------------
+*
+*
+
+4) What does && Logical AND Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of && Logical AND :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of &&  Logical AND to :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of && Logical AND :
+-------------------------------
+*
+*
+________________________________________________________________________________
+
+ 2.  <<<<<<<<<  ||  Logical OR  >>>>>>>>>>
+_____________________________________________________
+         ||  Logical OR                              |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* ||  Logical OR
+                                                                                        
+2) Definition of ||  Logical OR than ?
+--------------------------------------
+*
+ 
+3) What is ||  Logical OR About ?
+---------------------------------
+*
+*
+
+4) What does ||  Logical OR Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of ||  Logical OR :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of ||  Logical OR :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of ||  Logical OR :
+-------------------------------
+*
+*
+________________________________________________________________________________
+
+3. <<<<<<<<<<  !   Logical NOT  >>>>>>>>>>
+__________________________________________________
+              !   Logical NOT                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* !   Logical NOT 
+                                                                                        
+2) Definition of !   Logical NOT ?
+----------------------------------
+*
+ 
+3) What is !   Logical NOT About ?
+----------------------------------
+*
+*
+
+4) What does !   Logical NOT Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of !   Logical NOT :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of !   Logical NOT :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of !   Logical NOT :
+--------------------------------
+*
+*
+___________________________________________________________________________
+
+ (I)  \*/ Explanation of Logical Operator Program :
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(I) <<<<<<<< Explanation of Logical Operator Program >>>>>>>>
+________________________________________________
+      Explanation of Logical Operator Program   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Explanation of Logical Operator Program                                                                                        
+2) Definition of Explanation of Logical Operator Program ?
+----------------------------------------------------------
+*
+ 
+3) What is Explanation of Logical Operator Program About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Explanation of Logical Operator Program Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Explanation of Logical Operator Program :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Explanation of Logical Operator Program :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Explanation of Logical Operator Program :
+--------------------------------------------------------
+*
+*
+__________________________________________________________________________
+
+ (J)  \*/ Explanation of Logical Operator Program :
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      
+      \*/ Explanation of Logical Operator Program :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         1. * (a == b) && (c > 5)
+
+         2. * (a == b) && (c < b)
+
+         3. * (a == b) || (c < b)
+           
+         4. * (a != b) || (c < b)
+          
+         5. * !(a != b)
+          
+         6. * !(a == b)
+
+(J) <<<<<<<< Explanation of Logical Operator Program >>>>>>>>
+________________________________________________
+      Explanation of Logical Operator Program   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Explanation of Logical Operator Program                                                                                        
+2) Definition of Explanation of Logical Operator Program ?
+----------------------------------------------------------
+*
+ 
+3) What is Explanation of Logical Operator Program About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Explanation of Logical Operator Program Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Explanation of Logical Operator Program :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Explanation of Logical Operator Program :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Explanation of Logical Operator Program :
+--------------------------------------------------------
+*
+*
+_________________________________________________________________________
+
+ 1. <<<<<<<<<<  (a == b) && (c > 5)  >>>>>>>>>>
+________________________________________________
+      (a == b) && (c > 5)                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* (a == b) && (c > 5) 
+                                                                                        
+2) Definition of (a == b) && (c > 5) ?
+--------------------------------------
+*
+ 
+3) What is (a == b) && (c > 5) About ?
+--------------------------------------
+*
+*
+
+4) What does (a == b) && (c > 5) Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of (a == b) && (c > 5) :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of (a == b) && (c > 5) :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of (a == b) && (c > 5) :
+------------------------------------
+*
+*
+________________________________________________________________________________
+
+ 2.  <<<<<<<<<  (a == b) && (c < b)  >>>>>>>>>>
+_____________________________________________________
+         (a == b) && (c < b)                         |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* (a == b) && (c < b)
+                                                                                        
+2) Definition of (a == b) && (c < b) ?
+--------------------------------------
+*
+ 
+3) What is (a == b) && (c < b) About ?
+--------------------------------------
+*
+*
+
+4) What does (a == b) && (c < b) Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of (a == b) && (c < b) :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of (a == b) && (c < b) :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of (a == b) && (c < b) :
+------------------------------------
+*
+*
+________________________________________________________________________________
+
+3. <<<<<<<<<<  (a == b) || (c < b)  >>>>>>>>>>
+__________________________________________________
+              (a == b) || (c < b)                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* (a == b) || (c < b) 
+                                                                                        
+2) Definition of (a == b) || (c < b) ?
+--------------------------------------
+*
+ 
+3) What is (a == b) || (c < b) About ?
+--------------------------------------
+*
+*
+
+4) What does (a == b) || (c < b) Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of (a == b) || (c < b) :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of (a == b) || (c < b) :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of (a == b) || (c < b) :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<<<  (a != b) || (c < b)  >>>>>>>>>>
+__________________________________________________
+        (a != b) || (c < b)                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* (a != b) || (c < b) 
+                                                                                        
+2) Definition of (a != b) || (c < b) ?
+--------------------------------------
+*
+ 
+3) What is (a != b) || (c < b) About ?
+--------------------------------------
+*
+*
+
+4) What does (a != b) || (c < b) Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of (a != b) || (c < b) :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of (a != b) || (c < b) :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of (a != b) || (c < b) :
+------------------------------------
+*
+*
+________________________________________________________________________________
+
+5. <<<<<<<<<  !(a != b)  >>>>>>>>>
+__________________________________________________
+           !(a != b)                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+*  !(a != b)
+                                                                                        
+2) Definition of  !(a != b) ?
+-----------------------------
+*
+ 
+3) What is  !(a != b) About ?
+-----------------------------
+*
+*
+
+4) What does  !(a != b) Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of  !(a != b) :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of  !(a != b) :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of  !(a != b) :
+---------------------------
+*
+*
+_______________________________________________________________________________
+
+ 6.  <<<<<<<<  !(a == b)  >>>>>>>>
+________________________________________________
+         !(a == b)                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+*  !(a == b)                                                                                        
+2) Definition of  !(a == b) ?
+-----------------------------
+*
+ 
+3) What is  !(a == b) About ?
+-----------------------------
+*
+*
+
+4) What does !(a == b) Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of !(a == b) :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of  !(a == b) :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of  !(a == b) :
+---------------------------
+*
+*
+____________________________________________________________________________
+
+ (K)    \*/ C Bitwise Operators :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~
+         1.  * C Bitwise Operators :
+
+ 1. <<<<<<<<  C Bitwise Operators  >>>>>>>>
+________________________________________________
+      C Bitwise Operators                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C Bitwise Operators                                                                                        
+2) Definition of C Bitwise Operators ?
+--------------------------------------
+*
+ 
+3) What is C Bitwise Operators About ?
+--------------------------------------
+*
+*
+
+4) What does C Bitwise Operators Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of C Bitwise Operators :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C Bitwise Operators :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of C Bitwise Operators :
+------------------------------------
+*
+*
+__________________________________________________________________________
+
+ (L)    \*/ Different Types of C Bitwise Operators :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           
+                   1.    *   &     Bitwise AND
+ 
+                   2.    *   |     Bitwise OR
+
+                   3.    *   ^     Bitwise exclusive OR  /   Bitwise XOR
+
+                   4.    *   -     Bitwise complement
+
+                   5.    *   <<    Shift left
+
+                   6.    *   >>    Shift right
+
+(L) <<<<<<<< Different Types of C Bitwise Operators >>>>>>>>
+________________________________________________
+      Different Types of C Bitwise Operators    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Different Types of C Bitwise Operators                                                                                        
+2) Definition of Different Types of C Bitwise Operators ?
+---------------------------------------------------------
+*
+ 
+3) What is Different Types of C Bitwise Operators About ?
+---------------------------------------------------------
+*
+*
+
+4) What does Different Types of C Bitwise Operators Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Different Types of C Bitwise Operators :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Different Types of C Bitwise Operators :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Different Types of C Bitwise Operators :
+-------------------------------------------------------
+*
+*
+_________________________________________________________________________
+
+ 1. <<<<<<<<<<  &     Bitwise AND  >>>>>>>>>>
+________________________________________________
+      &     Bitwise AND                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* &     Bitwise AND 
+                                                                                        
+2) Definition of &     Bitwise AND ?
+------------------------------------
+*
+ 
+3) What is &     Bitwise AND About ?
+-------------------------------------
+*
+*
+
+4) What does &     Bitwise AND Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of &     Bitwise AND :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of &     Bitwise AND :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of &     Bitwise AND :
+----------------------------------
+*
+*
+________________________________________________________________________________
+
+ 2.  <<<<<<<<<  |     Bitwise OR  >>>>>>>>>>
+_____________________________________________________
+          |     Bitwise OR                           |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* |     Bitwise OR
+                                                                                        
+2) Definition of |     Bitwise OR ?
+-----------------------------------
+*
+ 
+3) What is |     Bitwise OR About ?
+-----------------------------------
+*
+*
+
+4) What does |     Bitwise OR Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of |     Bitwise OR :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of |     Bitwise OR :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of |     Bitwise OR :
+---------------------------------
+*
+*
+________________________________________________________________________________
+
+3. <<<<<<<<<<  ^     Bitwise exclusive OR  /   Bitwise XOR  >>>>>>>>>>
+__________________________________________________
+     ^     Bitwise exclusive OR  /   Bitwise XOR  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+*  ^     Bitwise exclusive OR  /   Bitwise XOR 
+                                                                                        
+2) Definition of  ^     Bitwise exclusive OR  /   Bitwise XOR ?
+---------------------------------------------------------------
+*
+ 
+3) What is  ^     Bitwise exclusive OR  /   Bitwise XOR About ?
+---------------------------------------------------------------
+*
+*
+
+4) What does  ^     Bitwise exclusive OR  /   Bitwise XOR Do ?
+--------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of  ^     Bitwise exclusive OR  /   Bitwise XOR :
+------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of  ^     Bitwise exclusive OR  /   Bitwise XOR :
+---------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of  ^     Bitwise exclusive OR  /   Bitwise XOR :
+-------------------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<<<   -     Bitwise complement   >>>>>>>>>>
+__________________________________________________
+        -     Bitwise complement                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* -     Bitwise complement 
+                                                                                        
+2) Definition of  -     Bitwise complement ?
+--------------------------------------------
+*
+ 
+3) What is  -     Bitwise complement About ?
+--------------------------------------------
+*
+*
+
+4) What does  -     Bitwise complement Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of  -     Bitwise complement :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of  -     Bitwise complement :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of  -     Bitwise complement :
+------------------------------------------
+*
+*
+________________________________________________________________________________
+
+5. <<<<<<<<<   <<    Shift left   >>>>>>>>>
+__________________________________________________
+           <<    Shift left                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+*  <<    Shift left
+                                                                                        
+2) Definition of  <<    Shift left ?
+------------------------------------
+*
+ 
+3) What is  <<    Shift left About ?
+------------------------------------
+*
+*
+
+4) What does  <<    Shift left Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of  <<    Shift left :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of  <<    Shift left :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of  <<    Shift left :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 6.  <<<<<<<<   >>    Shift right   >>>>>>>>
+________________________________________________
+         >>    Shift right                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+*  >>    Shift right                                                                                        
+2) Definition of  >>    Shift right ?
+-------------------------------------
+*
+ 
+3) What is  >>    Shift right About ?
+-------------------------------------
+*
+*
+
+4) What does  >>    Shift right Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of  >>    Shift right :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of  >>    Shift right :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of  >>    Shift right :
+-----------------------------------
+*
+*
+_________________________________________________________________________
+
+ (M)    \*/ Other Operators :
+        ~~~~~~~~~~~~~~~~~~~~~~~
+         1.  * Comma Operator :
+
+         2.  * The sizeof operator :
+
+         3.  * Ternary Operator :
+ 
+         4.  * Member Selection Operator :
+
+(M) <<<<<<<< Other Operators >>>>>>>>
+________________________________________________
+      Other Operators                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Other Operators                                                                                        
+2) Definition of Other Operators ?
+----------------------------------
+*
+ 
+3) What is Other Operators About ?
+----------------------------------
+*
+*
+
+4) What does Other Operators Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Other Operators :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Other Operators :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Other Operators :
+--------------------------------
+*
+*
+_________________________________________________________________________
+
+ 1. <<<<<<<<<<  Comma Operator  >>>>>>>>>>
+________________________________________________
+      Comma Operator                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Comma Operator 
+                                                                                        
+2) Definition of Comma Operator ?
+---------------------------------
+*
+ 
+3) What is Comma Operator About ?
+---------------------------------
+*
+*
+
+4) What does Comma Operator Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Comma Operator :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Comma Operator :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Comma Operator :
+-------------------------------
+*
+*
+________________________________________________________________________________
+
+ 2.  <<<<<<<<<  The sizeof operator  >>>>>>>>>>
+_____________________________________________________
+         The sizeof operator                         |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The sizeof operator
+                                                                                        
+2) Definition of The sizeof operator ?
+--------------------------------------
+*
+ 
+3) What is The sizeof operator About ?
+--------------------------------------
+*
+*
+
+4) What does The sizeof operator Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of The sizeof operator :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The sizeof operator :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of The sizeof operator :
+------------------------------------
+*
+*
+________________________________________________________________________________
+
+3. <<<<<<<<<<  Ternary Operator  >>>>>>>>>>
+__________________________________________________
+     Ternary Operator                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+*  Ternary Operator  
+                                                                                        
+2) Definition of Ternary Operator  ?
+------------------------------------
+*
+ 
+3) What is Ternary Operator  About ?
+------------------------------------
+*
+*
+
+4) What does Ternary Operator Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Ternary Operator  :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Ternary Operator  :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Ternary Operator  :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<<< Member Selection Operator >>>>>>>>>>
+__________________________________________________
+        Member Selection Operator                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Member Selection Operator 
+                                                                                        
+2) Definition of Member Selection Operator ?
+--------------------------------------------
+*
+ 
+3) What is Member Selection Operator About ?
+--------------------------------------------
+*
+*
+
+4) What does Member Selection Operator Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Member Selection Operator :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Member Selection Operator :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Member Selection Operator :
+------------------------------------------
+*
+*
+_____________________________________________________________________________

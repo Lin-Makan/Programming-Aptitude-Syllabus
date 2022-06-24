@@ -1,0 +1,491 @@
+
+Computer System Basics :
+----------------------------
+
+*(A) Basics of Computers – Home
+*(B) Basics of Computers – Introduction
+*(C) Basics of Computers - Classifications
+*(D) Basics of Computers – S/W Concepts
+*(E) Basics of Computers – System S/W
+*(F) Functions of Operating System
+*(G) Types of Operating System
+*(H) Basics of Computers – Utility S/W
+*(I) Open Source Software
+*(J) Basics of Computers – Office Tools
+*(K) Domain Specific Tools
+*(L) Number System
+*(M) Number System Conversion
+*(N) Microprocessor Concepts
+*(O) Evolution of Microprocessor
+*(P) Primary Memory
+*(Q) Secondary Memory
+*(R) Basics of Computers – I/O Ports
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+(A) Basics of Computers – Home
+    * What Is A Computer ?
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(B) Basics of Computers : Introduction
+    * Input-Process-Output Model
+    * Processes Applied to Data are of Two Types −
+                                           + Arithmetic Operations
+                                           + Logical operations
+   
+    * Basic Parts of a Computer are as follows −
+                                           + Input Unit
+                                           + Output Unit
+                                           + Control Unit
+                                           + Arithmetic Logic Unit
+                                           + Memory
+                                           + Second Memory
+   Characteristics of Computer :
+   * Speed
+   * Accuracy
+   * Reliability
+   * Versatility
+   * Storage Capacity
+   
+   Advantages of Using Computer :
+   *
+   *
+   *
+
+   Disadvantages of Using Computer :
+   *
+   * 
+
+  Booting :
+  *
+  * 
+  *
+
+  Two Types of Booting :
+  * Cold Booting
+  * Warm Booting
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(C) Basics of Computers : Classifications
+    * Computers are Now Classified on Basis of their Use or Size :                                         + Desktop
+                     + Laptop
+                     + Tablet
+                     + Server
+                     + Mainframe
+                     + Supercomputer
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(D) Basics of Computers : S/W Concepts
+    * There are Three Categories of Software :
+                      + System Software
+                      + Application Software
+                      + Utility Software
+
+     \+/ System Software :
+         Based on its Function, System Software is of Three Types -
+                                            - Operating System
+                                            - Language Processor
+                                            - Device Drivers
+         * Operating System
+ 
+         * Language Processor -
+           Human Machine Interactions, Languages are of Three Types −
+            + Machine-Level Language 
+            + Assembly-Level Language
+            + High Level Language
+           There are Three Types of Language Interpreters −
+            + Assembler
+            + Interpreter
+            + Compiler
+
+        * Device Drivers 
+
+     \+/ Application Software :
+         Here are Some commonly Used Application Software −
+          - Word processing
+          - Spreadsheet
+          - Presentation
+          - Database management
+          - Multimedia tools 
+
+     \+/ Utility Software :
+         Examples of Utility Software include −
+          - Antivirus software
+          - Disk management tools
+          - File management tools
+          - Compression tools
+          - Backup tools
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(E) Basics of Computers : System S/W
+    * Operating System :
+    Computer will not Work unless it has
+    an Operating System installed in it because OS −
+           - 
+           -
+           - 
+           -
+           -
+           -
+     
+    Besides Initial Booting, these are some of the
+    Functions of an Operating System −
+           -
+           -
+           -
+           -
+
+    * Assembler :
+    Advantages Provided by Assembly Level Programming −
+           -
+           -
+           - 
+
+    * Interpreter :
+
+    * Compiler :
+      Compilers compare Unfavorably with Interpreters because They −
+           -
+           -
+           -
+      
+      Steps in Compiling Source Code into Executable Code −
+           - Pre-processing
+           - Lexical analysis
+           - Parsing
+           - Compiling
+           - Linking
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(F) Functions of Operating System :
+    Operating System Three Broad Categories of Activities −
+           - Essential Functions
+           - Monitoring functions
+           - Service functions 
+
+    Some of the Most Important Functions Associated with these Activities :
+     
+    * Processor Management : 
+      Jobs must be Scheduled in such a way That −
+           -
+           -
+           -
+           -
+           - 
+
+      Two Methods of Job Scheduling done by Operating Systems − 
+           - Preemptive scheduling
+           - Non-Preemptive scheduling
+         
+       * Preemptive scheduling : 
+         Two Scheduling Techniques that use Pre-Emptive Scheduling −
+             + Round robin scheduling
+             + Response ratio scheduling
+   
+    * Memory Management :
+
+    * Contiguous Storage Allocation
+
+    * Non-contiguous Storage Allocation -
+      There are Two Approaches to Virtual Storages −
+             - Program paging
+             - Program segmentation 
+
+     * File Management -
+       File management is required to provide tools for
+       these file related activities :
+                      -
+                      -
+                      -
+                      -
+                      - 
+    
+     * Device Management -
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(G) Types of Operating System/ Types of OS :
+     \*/ GUI OS
+     \*/ Time Sharing OS
+     \*/ Real Time OS
+     \*/ Distributed OS
+     \*/ Popular Operating Systems :
+            - Windows
+            - Linux
+            - BOSS :
+              BOSS consists of − 
+                               Linux kernel
+                               Office application suite BharteeyaOO
+                               Web browser
+                               Email service Thunderbird
+                               Chat application Pidgim
+                               File sharing applications
+                               Multimedia applications
+     \*/ Mobile OS
+         Some of the most popular OS for
+         Mobile Devices includes :
+                                - Android
+                                - Windows Phone 7
+                                - Apple iOS
+                                - Blackberry OS
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(H) Basics of Computers : Utility S/W :
+                          Some of the Most Popular Utility Software:
+                          * Antivirus
+                          * File Management
+                          * Compression tools
+                          * Disk Cleanup
+                          * Disk Defragmenter
+                          * Backup
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(I) Open Source Software :
+              \*/ Advantages of Open Source Software -
+                            *  Security
+                            *  Affordability
+                            *  Transparent
+                            *  Interoperable on multiple platforms
+                            *  Flexible due to customizations
+                            *  Localization is possible
+
+             \*/ Freeware
+ 
+             \*/ Shareware
+ 
+             \*/ Proprietary Software -
+                 It can have Major Restrictions like −
+                
+                 *
+                 *
+                 *
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(J) Basics of Computers – Office Tools :
+                    Some of the Software Use Office Tools −
+                                      *  Word processors
+                                      *  Spreadsheets
+                                      *  Database systems
+                                      *  Presentation software
+                                      *  E-mail tools
+
+                  * Word processors :
+                    A word processor allows you to −
+                         -
+                         -
+                         -
+                         -
+                         -
+                  
+                  * Spreadsheets :
+                         -
+                         -
+                         -
+                         -
+                         -
+                         -
+
+                  * Database Management System :
+                   
+                  * Presentation Tool :
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(K) Domain Specific Tools :
+    Some Examples of Domain Specific Tools :
+                               * School Management System
+                               * Inventory Management
+                               * Payroll Software
+                               * Financial Accounting
+                               * Restaurant Management
+                               * Railway Reservation System
+                               * Weather Forecasting System
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(L) Number System :
+    Popular Number System -
+                      \*/ Decimal Number System
+                      \*/ Binary Number System
+                      \*/ Octal Number System
+                      \*/ Hexadecimal Number System
+                      \*/ Number System Relationship
+                      \*/ ASCII :
+                          The complete alphanumeric code typically includes −
+                                                      * 26 upper case letters 
+                                                      * 26 lower case letters
+                                                      * 10 digits
+                                                      * 7 punctuation marks
+                                                      * 20 to 40 special characters
+                     \*/ ISCII 
+                     \*/ Unicode
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(M) Number System Conversion :
+                        \*/ Decimal to Binary
+                        \*/ Decimal to Octal
+                        \*/ Decimal to Hexadecimal
+                        \*/ Binary to Octal and Vice Versa
+                        \*/ Binary to Hexadecimal
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(N) Microprocessor Concepts : 
+                       \*/ Microprocessors Characteristics :
+                           Some Defining Characteristics Common to
+                           all Microprocessors :
+                                             * Clock speed
+                                             * Word size
+                                             * Instruction Set 
+                     * Instruction Set :
+                       These Instructions do carry out
+                       these Types of Operations :
+                        - Data transfer
+                        - Arithmetic operations
+                        - Logical operations
+                        - Control flow
+                        - Input/output and machine control
+ 
+                      \*/ Microprocessor Components :
+                           basic parts right from the first model −
+                           * CPU
+                           * Bus
+                           * Memory
+
+                         * CPU :
+                           has these parts −
+                                 - Instruction register
+                                 - Decoder
+                                 - ALU
+                                 - Register
+
+                         * Bus :
+                           Three Types of Buses in a Microprocessor -
+                                 - Data Bus
+                                 - Address Bus
+                                 - Control Bus
+                          
+                         * Memory :
+                           Microprocessor has Two Types of Memory :
+                                 - RAM
+                                 - ROM
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(O) Evolution of Microprocessor :
+                 Width of Data Microprocessors can process Categories :
+                      * 8-bit
+                      * 16-bit
+                      * 32-bit
+                      * 64-bit
+
+  \*/ Three Types of Microprocessors based on their Instruction Set :
+                                   RISC :
+                                   Some Techniques used by RISC Architecture -
+                                              * Pipelining
+                                              * Single Cycle Execution
+
+                                   CISC :    
+                                   Some Characteristics of CISC Architecture -
+                                    * Larger set of instructions
+                                    * Instructions are of variable length
+                                    * Complex addressing modes
+                                    * Instructions take more than one clock cycle
+                                    * Work well with simpler compilers
+
+                                   EPIC :
+                                   Important features include − 
+           * Parallel instructions rather than fixed width
+           * Mechanism to communication compiler’s execution plan to hardware
+           * Programs must have sequential semantics
+___________________________________________________________________________________
+
+(P) Primary Memory :
+              The main features of Primary Memory -
+      * It is accessed directly by the processor
+      * It is the fastest memory available
+      * Each word is stored as well as
+      * It is volatile, i.e. its contents are lost once power is switched off
+
+   \*/ RAM :
+   
+   \*/ DRAM (Dynamic RAM) :
+ 
+   \*/ SRAM (SRAM) :
+
+   \*/ ROM :
+
+   \*/ PROM (Programmable ROM)
+
+   \*/ EPROM (Erasable Programmable ROM)
+
+   \*/ Cache Memory
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(Q) Secondary Memory :
+       Characteristics of Secondary Memory -
+         *  It is non-volatile, i.e. it retains data when power is switched off
+         *  It is large capacities to the tune of terabytes
+         *  It is cheaper as compared to primary memory 
+   
+       There are Two Types of Secondary Memory – 
+        * Fixed  
+        * Removable.  
+
+       Some of the Secondary Memory Devices Available :
+        * Hard Disk Drive
+        * CD Drive -
+          Three Types of CDs :
+                             - CD-ROM (Compact Disk – Read Only Memory)
+                             - CD-R (Compact Disk – Recordable)
+                             - CD-RW (Compact Disk – Rewritable)
+        * DVD Drive  
+        * Pen Drive
+        * Blu Ray Disk 
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+(R) Basics of Computers – I/O Ports :
+                              Ports are of two types −
+                                  * Internal Port
+                                  * External Port
+Centronics Parallel
+Parallel Port
+DVI-I
+HDMI
+Dual-link DVI
+Optical Audio Toslink
+USB 2.0
+Serial Port
+Composite audio/video
+5-Video
+Component Video
+3.0 Type B Jack
+Ethernet
+VGA
+Fire Wire 400
+
+
+    \*/ Some of the Most Commonly used Ports:
+           * Serial Port
+           * Parallel Port
+           * USB Port
+           * PS-2 Port
+           * Infrared Port
+           * Bluetooth Port -
+             Two Types of Bluetooth Ports :
+                                           - Incoming  
+                                           - Outgoing
+           * FireWire Port
+____________________________________________________________________________________
+____________________________________________________________________________

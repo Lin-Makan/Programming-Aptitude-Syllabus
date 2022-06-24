@@ -1,0 +1,2664 @@
+
+ 
+   Variables and Keywords in C Questions :
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+        Variables in C :
+        __________________________________
+       
+    (A)   * What is a Variable ? :
+         ``````````````````````````` 
+          +
+          +
+ 
+    (B)   * Variable Declaration Form :
+         ``````````````````````````````
+            + 
+            +
+
+    (C)   * Difference b/w Variable Declaration and Definition :
+         ```````````````````````````````````````````````````````
+             +
+             + 
+   
+    (D)   * Rules for Defining Variables :
+         `````````````````````````````````
+             1. 
+             2.  
+             3. 
+             4. 
+        
+    (E)   * We can’t Declare a Variable in this Form :
+         `````````````````````````````````````````````
+           1.
+           2.
+           3.
+           4.
+        
+    (F)   * Types of Variables in C :
+       ````````````````````````````
+        1. Local Variable:
+        2. Global Variable:
+        3. Static Variable:
+        4. Automatic Variable: 
+        5. External Variable:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        
+       Keywords in C :
+      _________________________________
+         
+   (G)      * What is a Keyword in C ? :
+        `````````````````````````````` 
+           +
+           +
+
+   (F)    * Variable Declaration Form :
+        ``````````````````````````````
+           +
+           +
+
+   (G)    * Difference b/w Keyword Declaration and Definition :
+        `````````````````````````````````````````````````````` 
+          +
+          + 
+        
+   (H)    * There are 32 Keywords Available in C :
+        ````````````````````````````````````````` 
+            1. auto :
+            2. break :
+            3. case :
+            4. char :
+            5. const :
+            6. continue :
+            7. default :
+            8. do :
+            9. double :
+           10. long :
+           11. return :
+           12. register :
+           13. short  :
+           14. signed :
+           15. sizeof :
+           16. static :
+           17. int :
+           18. else :
+           19. enum :
+           20. extern :
+           21. float :
+           22. for :
+           23. goto :
+           24. if :
+           25. struct :
+           26. switch :
+           27. typedef :
+           28. union :
+           29. unsigned :
+           30. void :
+           31. volatile : 
+           32. while : 
+
+  (I)    * Keywords which Allow us to Use the Basic Functionality of C :
+        `````````````````````````````````````````````````````````````````
+           + const :
+           + extern :
+           + static :
+           + void :
+           + typedef :
+_______________________________________________________________________________
+
+         Variables in C :
+        __________________________________
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ (A) <<<<<<<<<< What is a Variable ? >>>>>>>>>>
+________________________________________________
+   What is a Variable ?                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is a Variable ? 
+                                                                                        
+2) Definition What is a Variable ?
+-----------------------------------
+*
+ 
+3) What is What is a Variable ? About ?
+---------------------------------------
+*
+*
+
+4) What does What is a Variable Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of What is a Variable :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of What is a Variable ? :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of What is a Variable :
+-----------------------------------
+*
+*
+________________________________________________________________________________
+
+ (B)   \*/ Variable Declaration Form :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+  <<<<<<<< Variable Declaration Form  >>>>>>>>
+________________________________________________
+  Variable Declaration Form                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Variable Declaration Form                                                                                         
+2) Definition of Variable Declaration Form ?
+--------------------------------------------
+*
+ 
+3) What is Variable Declaration Form About ?
+--------------------------------------------
+*
+*
+
+4) What does Variable Declaration Form Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Variable Declaration Form :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Variable Declaration Form :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Variable Declaration Form :
+------------------------------------------
+*
+*
+__________________________________________________________________________
+
+ (C) <<<<<<<<<< Difference b/w Variable Declaration and Definition >>>>>>>>>>
+_________________________________________________________
+      Difference b/w Variable Declaration and Definition |
+                                                         |                  
+_________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Difference b/w Variable Declaration and Definition 
+                                                                                        
+2) Definition of Difference b/w Variable Declaration and Definition ?
+---------------------------------------------------------------------
+*
+ 
+3) What is Difference b/w Variable Declaration and Definition About ?
+---------------------------------------------------------------------
+*
+*
+
+4) What does Difference b/w Variable Declaration and Definition Do ?
+--------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Difference b/w Variable Declaration and Definition :
+------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Difference b/w Variable Declaration and Definition :
+---------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Difference b/w Variable Declaration and Definition :
+-------------------------------------------------------------------
+*
+*
+________________________________________________________________________________
+
+ (D) <<<<<<<<< Rules for Defining Variables >>>>>>>>>>
+_____________________________________________________
+        Rules for Defining Variables                 |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Rules for Defining Variables
+                                                                                        
+2) Definition of Rules for Defining Variables ?
+------------------------------------------------
+*
+ 
+3) What is Rules for Defining Variables About ?
+-----------------------------------------------
+*
+*
+
+4) What does Rules for Defining Variables Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Rules for Defining Variables :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Rules for Defining Variables :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Rules for Defining Variables :
+---------------------------------------------
+*
+*
+________________________________________________________________________________
+
+  (E) <<<<<<<<<< We can’t Declare a Variable in this Form >>>>>>>>>>
+__________________________________________________
+     We can’t Declare a Variable in this Form     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* We can’t Declare a Variable in this Form 
+                                                                                        
+2) Definition of We can’t Declare a Variable in this Form ?
+-----------------------------------------------------------
+*
+ 
+3) What is We can’t Declare a Variable in this Form About ?
+-----------------------------------------------------------
+*
+*
+
+4) What does We can’t Declare a Variable in this Form Do ?
+----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of We can’t Declare a Variable in this Form :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of We can’t Declare a Variable in this Form :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of We can’t Declare a Variable in this Form :
+---------------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+  (F) <<<<<<<<<< Types of Variables in C >>>>>>>>>>
+
+        1. Local Variable:
+        2. Global Variable:
+        3. Static Variable:
+        4. Automatic Variable: 
+        5. External Variable:
+__________________________________________________
+    Types of Variables in C                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Types of Variables in C 
+                                                                                        
+2) Definition of Types of Variables in C ?
+------------------------------------------
+*
+ 
+3) What is Types of Variables in C About ?
+------------------------------------------
+*
+*
+
+4) What do Types of Variables in C Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Types of Variables in C :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Types of Variables in C :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Types of Variables in C :
+----------------------------------------
+*
+*
+________________________________________________________________________________
+
+ 1. <<<<<<<<< Local Variable >>>>>>>>>
+__________________________________________________
+ Local Variable                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Local Variable
+                                                                                        
+2) Definition of Local Variable ?
+---------------------------------
+*
+ 
+3) What is Local Variable About ?
+---------------------------------
+*
+*
+
+4) What does Local Variable Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Local Variable :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Local Variable :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Local Variable :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Global Variable >>>>>>>>>
+__________________________________________________
+     Global Variable                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Global Variable
+                                                                                        
+2) Definition of Global Variable ?
+----------------------------------
+*
+ 
+3) What is Global Variable About ?
+----------------------------------
+*
+*
+
+4) What does Global Variable Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Global Variable :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Global Variable :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Global Variable :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Static Variable >>>>>>>>>
+__________________________________________________
+     Static Variable                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Static Variable
+                                                                                        
+2) Definition of Static Variable ?
+----------------------------------
+*
+ 
+3) What is Static Variable About ?
+----------------------------------
+*
+*
+
+4) What does Static Variable Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Static Variable :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Static Variable :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Static Variable :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Automatic Variable >>>>>>>>>
+__________________________________________________
+     Automatic Variable                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Automatic Variable
+                                                                                        
+2) Definition of Automatic Variable ?
+-------------------------------------
+*
+ 
+3) What is Automatic Variable About ?
+-------------------------------------
+*
+*
+
+4) What does Automatic Variable Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Automatic Variable :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Automatic Variable :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Automatic Variable :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< External Variable >>>>>>>>>
+__________________________________________________
+      External Variable                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* External Variable
+                                                                                        
+2) Definition of External Variable ?
+------------------------------------
+*
+ 
+3) What is External Variable About ?
+------------------------------------
+*
+*
+
+4) What does External Variable Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of External Variable :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of External Variable :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of External Variable :
+----------------------------------
+*
+*
+_____________________________________________________________________________
+
+         Keywords in C :
+        __________________________________
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ (A) <<<<<<<<<< What is a Keyword in C ? >>>>>>>>>>
+________________________________________________
+   What is a Keyword in C ?                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is a Keyword in C ? 
+                                                                                        
+2) Definition of What is a Keyword in C ?
+-----------------------------------------
+*
+ 
+3) What is Keyword in C About ?
+-------------------------------
+*
+*
+
+4) What does What is a Keyword in C Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Keywords in C :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Keywords in C :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of What is a Keyword in C :
+---------------------------------------
+*
+*
+________________________________________________________________________________
+
+ (B)   Keywords Declaration Form :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+  <<<<<<<< Keywords Declaration Form  >>>>>>>>
+________________________________________________
+    Keywords Declaration Form                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Variable Declaration Form                                                                                         
+2) Definition of Keywords Declaration Form ?
+--------------------------------------------
+*
+ 
+3) What is Keywords Declaration Form About ?
+--------------------------------------------
+*
+*
+
+4) What does Keywords Declaration Form Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Keywords Declaration Form :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Keywords Declaration Form :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Keywords Declaration Form :
+------------------------------------------
+*
+*
+__________________________________________________________________________
+
+ (C) <<<<<<<<<< Difference b/w Keyword Declaration and Definition >>>>>>>>>>
+_________________________________________________________
+      Difference b/w Keyword Declaration and Definition  |
+                                                         |                  
+_________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Difference b/w Keyword Declaration and Definition 
+                                                                                        
+2) Definition of Difference b/w Keyword Declaration and Definition ?
+--------------------------------------------------------------------
+*
+ 
+3) What is Difference b/w Keyword Declaration and Definition About ?
+--------------------------------------------------------------------
+*
+*
+
+4) What does Difference b/w Keyword Declaration and Definition Do ?
+-------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Difference b/w Keyword Declaration and Definition :
+-----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Difference b/w Keyword Declaration and Definition :
+--------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Difference b/w Keyword Declaration and Definition :
+------------------------------------------------------------------
+*
+*
+________________________________________________________________________________
+
+(D) <<<<<<<<< There are 32 Keywords Available in C >>>>>>>>>>
+_____________________________________________________
+        There are 32 Keywords Available in C         |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* There are 32 Keywords Available in C
+                                                                                        
+2) Definition of There are 32 Keywords Available in C ?
+-------------------------------------------------------
+*
+ 
+3) What is There are 32 Keywords Available in C About ?
+-------------------------------------------------------
+*
+*
+
+4) What does There are 32 Keywords Available in C Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of There are 32 Keywords Available in C :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of There are 32 Keywords Available in C :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of There are 32 Keywords Available in C :
+-----------------------------------------------------
+*
+*
+_____________________________________________________________________________
+  
+    * 32 Keywords Available in C :
+    ================================
+            1. auto :
+            2. break :
+            3. case :
+            4. char :
+            5. const :
+            6. continue :
+            7. default :
+            8. do :
+            9. double :
+           10. long :
+           11. return :
+           12. register :
+           13. short  :
+           14. signed :
+           15. sizeof :
+           16. static :
+           17. int :
+           18. else :
+           19. enum :
+           20. extern :
+           21. float :
+           22. for :
+           23. goto :
+           24. if :
+           25. struct :
+           26. switch :
+           27. typedef :
+           28. union :
+           29. unsigned :
+           30. void :
+           31. volatile : 
+           32. while :
+
+ 1. <<<<<<<<< auto >>>>>>>>>
+__________________________________________________
+         auto                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* auto
+                                                                                        
+2) Definition of auto ?
+-----------------------
+*
+ 
+3) What is auto About ?
+-----------------------
+*
+*
+
+4) What does auto Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of auto :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of auto :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of auto :
+---------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< break >>>>>>>>>
+__________________________________________________
+     break                                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* break
+                                                                                        
+2) Definition of break ?
+------------------------
+*
+ 
+3) What is break About ?
+------------------------
+*
+*
+
+4) What does break Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of break :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of break :
+------------------------------------
+*
+*
+*  
+
+7) Examples of break :
+----------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< case >>>>>>>>>
+__________________________________________________
+     case                                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* case
+                                                                                        
+2) Definition of case ?
+-----------------------
+*
+ 
+3) What is case About ?
+-----------------------
+*
+*
+
+4) What does case Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of case :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of case :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of case :
+---------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< char >>>>>>>>>
+__________________________________________________
+     char                                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* char
+                                                                                        
+2) Definition of char ?
+-----------------------
+*
+ 
+3) What is char About ?
+-----------------------
+*
+*
+
+4) What does char Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of char :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of char :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of char :
+---------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< const >>>>>>>>>
+__________________________________________________
+      const                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* const
+                                                                                        
+2) Definition of const ?
+------------------------
+*
+ 
+3) What is const About ?
+------------------------
+*
+*
+
+4) What does const Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of const :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of const :
+------------------------------------
+*
+*
+*  
+
+7) Examples of const :
+----------------------
+*
+*
+_______________________________________________________________________
+
+ 6. <<<<<<<<< continue >>>>>>>>>
+__________________________________________________
+         continue                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* continue
+                                                                                        
+2) Definition of continue ?
+---------------------------
+*
+ 
+3) What is continue About ?
+---------------------------
+*
+*
+
+4) What does continue Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of continue :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of continue :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of continue :
+-------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< default >>>>>>>>>
+__________________________________________________
+     default                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* default
+                                                                                        
+2) Definition of default ?
+--------------------------
+*
+ 
+3) What is default About ?
+--------------------------
+*
+*
+
+4) What does default Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of default :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of default :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of default :
+------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< do >>>>>>>>>
+__________________________________________________
+     do                                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* do
+                                                                                        
+2) Definition of do ?
+---------------------
+*
+ 
+3) What is do About ?
+---------------------
+*
+*
+
+4) What does do Do ?
+--------------------
+*
+*
+
+5) Advantages/Benefits of do :
+------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of do :
+---------------------------------
+*
+*
+*  
+
+7) Examples of do :
+-------------------
+*
+*
+_______________________________________________________________________________
+
+ 9. <<<<<<<<< double >>>>>>>>>
+__________________________________________________
+     double                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* double
+                                                                                        
+2) Definition of double ?
+-------------------------
+*
+ 
+3) What is double About ?
+-------------------------
+*
+*
+
+4) What does double Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of double :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of double :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of double :
+-----------------------
+*
+*
+_______________________________________________________________________________
+
+ 10. <<<<<<<<< long >>>>>>>>>
+__________________________________________________
+      long                                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* long
+                                                                                        
+2) Definition of long ?
+-----------------------
+*
+ 
+3) What is long About ?
+-----------------------
+*
+*
+
+4) What does long Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of long :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of long :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of long :
+---------------------
+*
+*
+_______________________________________________________________________
+        
+ 11. <<<<<<<<< return >>>>>>>>>
+__________________________________________________
+         return                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* return
+                                                                                        
+2) Definition of return ?
+-------------------------
+*
+ 
+3) What is return About ?
+-------------------------
+*
+*
+
+4) What does return Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of return :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of return :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of return :
+-----------------------
+*
+*
+_______________________________________________________________________________
+
+ 12. <<<<<<<<< register >>>>>>>>>
+__________________________________________________
+     register                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* register
+                                                                                        
+2) Definition of register ?
+---------------------------
+*
+ 
+3) What is register About ?
+---------------------------
+*
+*
+
+4) What does register Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of register :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of register :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of register :
+-------------------------
+*
+*
+_______________________________________________________________________________
+
+ 13. <<<<<<<<< short >>>>>>>>>
+__________________________________________________
+     short                                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* short
+                                                                                        
+2) Definition of short ?
+------------------------
+*
+ 
+3) What is short About ?
+------------------------
+*
+*
+
+4) What does short Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of short :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of short :
+------------------------------------
+*
+*
+*  
+
+7) Examples of short :
+----------------------
+*
+*
+_______________________________________________________________________________
+
+ 14. <<<<<<<<< signed >>>>>>>>>
+__________________________________________________
+     signed                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* signed
+                                                                                        
+2) Definition of signed ?
+-------------------------
+*
+ 
+3) What is signed About ?
+-------------------------
+*
+*
+
+4) What does signed Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of signed :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of signed :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of signed :
+-----------------------
+*
+*
+_______________________________________________________________________________
+
+ 15. <<<<<<<<< sizeof >>>>>>>>>
+__________________________________________________
+      sizeof                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* sizeof
+                                                                                        
+2) Definition of sizeof ?
+-------------------------
+*
+ 
+3) What is sizeof About ?
+-------------------------
+*
+*
+
+4) What does sizeof Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of sizeof :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of sizeof :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of sizeof :
+-----------------------
+*
+*
+_______________________________________________________________________
+
+ 16. <<<<<<<<< static >>>>>>>>>
+__________________________________________________
+       static                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* static
+                                                                                        
+2) Definition of static ?
+-------------------------
+*
+ 
+3) What is static About ?
+-------------------------
+*
+*
+
+4) What does static Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of static :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of static :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of static :
+-----------------------
+*
+*
+_______________________________________________________________________________
+
+ 17. <<<<<<<<< int >>>>>>>>>
+__________________________________________________
+     int                                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* int
+                                                                                        
+2) Definition of int ?
+----------------------
+*
+ 
+3) What is int About ?
+----------------------
+*
+*
+
+4) What does int Do ?
+---------------------
+*
+*
+
+5) Advantages/Benefits of int :
+-------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of int :
+----------------------------------
+*
+*
+*  
+
+7) Examples of int :
+--------------------
+*
+*
+_______________________________________________________________________________
+
+ 18. <<<<<<<<< else >>>>>>>>>
+__________________________________________________
+     else                                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* else
+                                                                                        
+2) Definition of else ?
+-----------------------
+*
+ 
+3) What is else About ?
+-----------------------
+*
+*
+
+4) What does else Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of else :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of else :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of else :
+---------------------
+*
+*
+_______________________________________________________________________________
+
+ 19. <<<<<<<<< enum >>>>>>>>>
+__________________________________________________
+     enum                                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* enum
+                                                                                        
+2) Definition of enum ?
+-----------------------
+*
+ 
+3) What is enum About ?
+-----------------------
+*
+*
+
+4) What does enum Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of enum :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of enum :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of enum :
+---------------------
+*
+*
+_______________________________________________________________________________
+
+ 20. <<<<<<<<< extern >>>>>>>>>
+__________________________________________________
+      extern                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* extern
+                                                                                        
+2) Definition of extern ?
+------------------------
+*
+ 
+3) What is extern About ?
+------------------------
+*
+*
+
+4) What does extern Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of extern :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of extern :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of extern :
+-----------------------
+*
+*
+_______________________________________________________________________
+
+ 21. <<<<<<<<< float >>>>>>>>>
+__________________________________________________
+         float                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* float
+                                                                                        
+2) Definition of float ?
+------------------------
+*
+ 
+3) What is float About ?
+------------------------
+*
+*
+
+4) What does float Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of float :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of float :
+------------------------------------
+*
+*
+*  
+
+7) Examples of float :
+----------------------
+*
+*
+_______________________________________________________________________________
+
+ 22. <<<<<<<<< for >>>>>>>>>
+__________________________________________________
+     for                                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* for
+                                                                                        
+2) Definition of for ?
+----------------------
+*
+ 
+3) What is for About ?
+----------------------
+*
+*
+
+4) What does for Do ?
+---------------------
+*
+*
+
+5) Advantages/Benefits of for :
+-------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of for :
+----------------------------------
+*
+*
+*  
+
+7) Examples of for :
+--------------------
+*
+*
+_______________________________________________________________________________
+
+ 23. <<<<<<<<< goto >>>>>>>>>
+__________________________________________________
+     goto                                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* goto
+                                                                                        
+2) Definition of goto ?
+-----------------------
+*
+ 
+3) What is goto About ?
+-----------------------
+*
+*
+
+4) What does goto Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of goto :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of goto :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of goto :
+---------------------
+*
+*
+_______________________________________________________________________________
+
+ 24. <<<<<<<<< if >>>>>>>>>
+__________________________________________________
+     if                                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* if
+                                                                                        
+2) Definition of if ?
+---------------------
+*
+ 
+3) What is if About ?
+---------------------
+*
+*
+
+4) What does if Do ?
+--------------------
+*
+*
+
+5) Advantages/Benefits of if :
+------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of if :
+---------------------------------
+*
+*
+*  
+
+7) Examples of if :
+-------------------
+*
+*
+_______________________________________________________________________________
+
+ 25. <<<<<<<<< struct >>>>>>>>>
+__________________________________________________
+      struct                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* struct
+                                                                                        
+2) Definition of struct ?
+-------------------------
+*
+ 
+3) What is struct About ?
+-------------------------
+*
+*
+
+4) What does struct Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of struct :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of struct :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of struct :
+-----------------------
+*
+*
+_______________________________________________________________________
+        
+ 26. <<<<<<<<< switch >>>>>>>>>
+__________________________________________________
+         switch                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* switch
+                                                                                        
+2) Definition of switch ?
+-------------------------
+*
+ 
+3) What is switch About ?
+-------------------------
+*
+*
+
+4) What does switch Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of switch :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of switch :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of switch :
+-----------------------
+*
+*
+_______________________________________________________________________________
+
+ 27. <<<<<<<<< typedef >>>>>>>>>
+__________________________________________________
+     typedef                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* typedef
+                                                                                        
+2) Definition of typedef ?
+--------------------------
+*
+ 
+3) What is typedef About ?
+--------------------------
+*
+*
+
+4) What does typedef Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of typedef :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of typedef :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of typedef :
+------------------------
+*
+*
+_______________________________________________________________________________
+
+ 28. <<<<<<<<< union >>>>>>>>>
+__________________________________________________
+     union                                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* union
+                                                                                        
+2) Definition of union ?
+------------------------
+*
+ 
+3) What is union About ?
+------------------------
+*
+*
+
+4) What does union Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of union :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of union :
+------------------------------------
+*
+*
+*  
+
+7) Examples of union :
+----------------------
+*
+*
+_______________________________________________________________________________
+
+ 29. <<<<<<<<< unsigned >>>>>>>>>
+__________________________________________________
+     unsigned                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* unsigned
+                                                                                        
+2) Definition of unsigned ?
+---------------------------
+*
+ 
+3) What is unsigned About ?
+---------------------------
+*
+*
+
+4) What does unsigned Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of unsigned :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of unsigned :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of unsigned :
+-------------------------
+*
+*
+_______________________________________________________________________________
+
+ 30. <<<<<<<<< void >>>>>>>>>
+__________________________________________________
+      void                                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* void
+                                                                                        
+2) Definition of void ?
+-----------------------
+*
+ 
+3) What is void About ?
+-----------------------
+*
+*
+
+4) What does void Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of void :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of void :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of void :
+---------------------
+*
+*
+_______________________________________________________________________
+        
+ 31. <<<<<<<<< volatile >>>>>>>>>
+__________________________________________________
+     volatile                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* volatile
+                                                                                        
+2) Definition of volatile ?
+---------------------------
+*
+ 
+3) What is volatile About ?
+---------------------------
+*
+*
+
+4) What does volatile Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of volatile :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of volatile :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of volatile :
+-------------------------
+*
+*
+_______________________________________________________________________________
+
+ 32. <<<<<<<<< while >>>>>>>>>
+__________________________________________________
+      while                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* while
+                                                                                        
+2) Definition of while ?
+-----------------------
+*
+ 
+3) What is while About ?
+------------------------
+*
+*
+
+4) What does while Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of while :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of while :
+------------------------------------
+*
+*
+*  
+
+7) Examples of while :
+----------------------
+*
+*
+____________________________________________________________________________
+        
+    * Keywords which Allow us to Use the Basic Functionality of C :
+   `````````````````````````````````````````````````````````````````
+           + const :
+           + extern :
+           + static :
+           + void :
+           + typedef :
+
+________________________________________________________________________________
+     
+    * How are variables scoped in C – Static or Dynamic ?
+   ```````````````````````````````````````````````````````
+
+       + Variables are always Statically (or Lexically) Scoped :
+          
+    <<<<<<<<< Variables are always Statically (or Lexically) Scoped >>>>>>>>>
+____________________________________________________________
+    Variables are always Statically (or Lexically) Scoped   |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Variables are always Statically (or Lexically) Scoped
+                                                                                        
+2) Definition of Variables are always Statically (or Lexically) Scoped ?
+------------------------------------------------------------------------
+*
+ 
+3) What is Variables are always Statically (or Lexically) Scoped About ?
+------------------------------------------------------------------------
+*
+*
+
+4) What does Variables are always Statically (or Lexically) Scoped Do ?
+-----------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Variables are always Statically (or Lexically) Scoped :
+---------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Variables are always Statically (or Lexically) Scoped : 
+-----------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Variables are always Statically (or Lexically) Scoped :
+----------------------------------------------------------------------
+*
+*
+__________________________________________________________________________
+
+    
+    * Difference between Static Variables and Register Variables in C :
+   ````````````````````````````````````````````````````````````````````` 
+       + Static Variables :
+        
+       + Register Variables :
+       
+    <<<<<<<<< Static Variables >>>>>>>>>
+____________________________________________________________
+    Static Variables                                        |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Static Variables
+                                                                                        
+2) Definition of Static Variables ?
+-----------------------------------
+*
+ 
+3) What is Static Variables About ?
+-----------------------------------
+*
+*
+
+4) What does Static Variables Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Static Variables :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Static Variables : 
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Static Variables :
+---------------------------------
+*
+*
+______________________________________________________________________________
+
+    <<<<<<<<< Register Variables >>>>>>>>>
+____________________________________________________________
+    Register Variables                                      |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Register Variables
+                                                                                        
+2) Definition of Register Variables ?
+-------------------------------------
+*
+ 
+3) What is Register Variables About ?
+-------------------------------------
+*
+*
+
+4) What does Register Variables Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Register Variables :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Register Variables : 
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Register Variables :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+    
+    * Internal Static Variable vs. External Static variable with Examples in C :
+   ``````````````````````````````````````````````````````````````````````````````
+       + Internal Static Variable :
+       
+       + External Static variable :
+         
+          <<<<<<<<< Internal Static Variable >>>>>>>>>
+____________________________________________________________
+    Internal Static Variable                                |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Internal Static Variable
+                                                                                        
+2) Definition of Internal Static Variable ?
+-------------------------------------------
+*
+ 
+3) What is Internal Static Variable About ?
+-------------------------------------------
+*
+*
+
+4) What does Internal Static Variable Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Internal Static Variable :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Internal Static Variable : 
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Internal Static Variable :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+  
+    <<<<<<<<< External Static variable >>>>>>>>>
+____________________________________________________________
+    External Static variable                                |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* External Static variable
+                                                                                        
+2) Definition of External Static variable ?
+-------------------------------------------
+*
+ 
+3) What is External Static variable About ?
+-------------------------------------------
+*
+*
+
+4) What does External Static variable Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of External Static variable :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of External Static variable : 
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of External Static variable :
+-----------------------------------------
+*
+*
+_____________________________________________________________________________
+
+    
+     * Default Values of Static Variables in C ?
+    ````````````````````````````````````````````
+       + 
+    
+     * Initialization of Static Variables in C :
+    `````````````````````````````````````````````
+       +
+    
+     * Initialization of Static Variables in C :
+     ````````````````````````````````````````````
+       +
+       +   
+   
+     * Static functions in C :
+     ```````````````````````````
+     +
+
+     * Static data members in C++ :
+    ``````````````````````````````````
+     +
+   
+     * Initialization of Global and Static Variables in C :
+    ````````````````````````````````````````````````````````
+     +
+     + 
+
+______________________________________________________________________________    
+
+     * Difference between Static and Dynamic Memory :
+    ``````````````````````````````````````````````````
+       + Static Memory :
+
+       + Dynamic Memory :
+       
+                <<<<<<<<< Static Memory >>>>>>>>>
+____________________________________________________________
+    Static Memory                                           |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Static Memory
+                                                                                        
+2) Definition of Static Memory ?
+--------------------------------
+*
+ 
+3) What is Static Memory About ?
+--------------------------------
+*
+*
+
+4) What does Static Memory Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Static Memory :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Static Memory : 
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Static Memory :
+------------------------------
+*
+*
+_______________________________________________________________________________
+  
+    <<<<<<<<< Dynamic Memory >>>>>>>>>
+____________________________________________________________
+    Dynamic Memory                                          |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Dynamic Memory
+                                                                                        
+2) Definition of Dynamic Memory ?
+---------------------------------
+*
+ 
+3) What is Dynamic Memory About ?
+---------------------------------
+*
+*
+
+4) What does Dynamic Memory Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Dynamic Memory :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Dynamic Memory : 
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Dynamic Memory :
+-------------------------------
+*
+*
+_____________________________________________________________________________
+
+    
+     * Static and Dynamic Memory Allocation in C :
+    ```````````````````````````````````````````````
+      + Static Memory Allocation :
+
+      + Dynamic Memory Allocation :
+       
+                <<<<<<<<< Static Memory Allocation >>>>>>>>>
+____________________________________________________________
+    Static Memory Allocation                                |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Static Memory Allocation
+                                                                                        
+2) Definition of Static Memory Allocation ?
+-------------------------------------------
+*
+ 
+3) What is Static Memory Allocation About ?
+-------------------------------------------
+*
+*
+
+4) What does Static Memory Allocation Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Static Memory Allocation :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Static Memory Allocation : 
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Static Memory Allocation :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+  
+    <<<<<<<<< Dynamic Memory Allocation >>>>>>>>>
+____________________________________________________________
+    Dynamic Memory Allocation                               |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Dynamic Memory Allocation
+                                                                                        
+2) Definition of Dynamic Memory Allocation ?
+-------------------------------------------
+*
+ 
+3) What is Dynamic Memory Allocation About ?
+-------------------------------------------
+*
+*
+
+4) What does Dynamic Memory Allocation Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Dynamic Memory Allocation :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Dynamic Memory Allocation : 
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Dynamic Memory Allocation :
+------------------------------------------
+*
+*
+_____________________________________________________________________________
+   
+
+    * Different ways to Declare Variable as Constant in C and C++ :
+   ``````````````````````````````````````````````````````````````````
+     1. Using const keyword :
+
+     2. Using enum keyword :
+      
+     3. Using constexpr keyword:
+     
+     4. Using Macros:
+
+    * Redeclaration of Global Variable in C :
+   ```````````````````````````````````````````
+      +
+      
+      
+   
+     * Variable Length Arguments for Macros :
+    ``````````````````````````````````````````
+        +
+
+           
+  

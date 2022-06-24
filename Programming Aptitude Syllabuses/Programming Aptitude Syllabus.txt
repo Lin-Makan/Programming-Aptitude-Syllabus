@@ -1,0 +1,1222 @@
+
+* Computer System Basics
+* Conditional Statements
+* Data Structures
+* Loops
+* Mathematical Aptitude
+* Operators
+* Variables
+____________________________________________________________________________________
+
+Computer System Basics :
+----------------------------
+
+*(A) Basics of Computers – Home
+*(B) Basics of Computers – Introduction
+*(C) Basics of Computers - Classifications
+*(D) Basics of Computers – S/W Concepts
+*(E) Basics of Computers – System S/W
+*(F) Functions of Operating System
+*(G) Types of Operating System
+*(H) Basics of Computers – Utility S/W
+*(I) Open Source Software
+*(J) Basics of Computers – Office Tools
+*(K) Domain Specific Tools
+*(L) Number System
+*(M) Number System Conversion
+*(N) Microprocessor Concepts
+*(O) Evolution of Microprocessor
+*(P) Primary Memory
+*(Q) Secondary Memory
+*(R) Basics of Computers – I/O Ports
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+(A) Basics of Computers – Home
+    * What Is A Computer ?
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(B) Basics of Computers : Introduction
+    * Input-Process-Output Model
+    * Processes Applied to Data are of Two Types −
+                                           + Arithmetic Operations
+                                           + Logical operations
+   
+    * Basic Parts of a Computer are as follows −
+                                           + Input Unit
+                                           + Output Unit
+                                           + Control Unit
+                                           + Arithmetic Logic Unit
+                                           + Memory
+                                           + Second Memory
+   Characteristics of Computer :
+   * Speed
+   * Accuracy
+   * Reliability
+   * Versatility
+   * Storage Capacity
+   
+   Advantages of Using Computer :
+   *
+   *
+   *
+
+   Disadvantages of Using Computer :
+   *
+   * 
+
+  Booting :
+  *
+  * 
+  *
+
+  Two Types of Booting :
+  * Cold Booting
+  * Warm Booting
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(C) Basics of Computers : Classifications
+    * Computers are Now Classified on Basis of their Use or Size :                                         + Desktop
+                     + Laptop
+                     + Tablet
+                     + Server
+                     + Mainframe
+                     + Supercomputer
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(D) Basics of Computers : S/W Concepts
+    * There are Three Categories of Software :
+                      + System Software
+                      + Application Software
+                      + Utility Software
+
+     \+/ System Software :
+         Based on its Function, System Software is of Three Types -
+                                            - Operating System
+                                            - Language Processor
+                                            - Device Drivers
+         * Operating System
+ 
+         * Language Processor -
+           Human Machine Interactions, Languages are of Three Types −
+            + Machine-Level Language 
+            + Assembly-Level Language
+            + High Level Language
+           There are Three Types of Language Interpreters −
+            + Assembler
+            + Interpreter
+            + Compiler
+
+        * Device Drivers 
+
+     \+/ Application Software :
+         Here are Some commonly Used Application Software −
+          - Word processing
+          - Spreadsheet
+          - Presentation
+          - Database management
+          - Multimedia tools 
+
+     \+/ Utility Software :
+         Examples of Utility Software include −
+          - Antivirus software
+          - Disk management tools
+          - File management tools
+          - Compression tools
+          - Backup tools
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(E) Basics of Computers : System S/W
+    * Operating System :
+    Computer will not Work unless it has
+    an Operating System installed in it because OS −
+           - 
+           -
+           - 
+           -
+           -
+           -
+     
+    Besides Initial Booting, these are some of the
+    Functions of an Operating System −
+           -
+           -
+           -
+           -
+
+    * Assembler :
+    Advantages Provided by Assembly Level Programming −
+           -
+           -
+           - 
+
+    * Interpreter :
+
+    * Compiler :
+      Compilers compare Unfavorably with Interpreters because They −
+           -
+           -
+           -
+      
+      Steps in Compiling Source Code into Executable Code −
+           - Pre-processing
+           - Lexical analysis
+           - Parsing
+           - Compiling
+           - Linking
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(F) Functions of Operating System :
+    Operating System Three Broad Categories of Activities −
+           - Essential Functions
+           - Monitoring functions
+           - Service functions 
+
+    Some of the Most Important Functions Associated with these Activities :
+     
+    * Processor Management : 
+      Jobs must be Scheduled in such a way That −
+           -
+           -
+           -
+           -
+           - 
+
+      Two Methods of Job Scheduling done by Operating Systems − 
+           - Preemptive scheduling
+           - Non-Preemptive scheduling
+         
+       * Preemptive scheduling : 
+         Two Scheduling Techniques that use Pre-Emptive Scheduling −
+             + Round robin scheduling
+             + Response ratio scheduling
+   
+    * Memory Management :
+
+    * Contiguous Storage Allocation
+
+    * Non-contiguous Storage Allocation -
+      There are Two Approaches to Virtual Storages −
+             - Program paging
+             - Program segmentation 
+
+     * File Management -
+       File management is required to provide tools for
+       these file related activities :
+                      -
+                      -
+                      -
+                      -
+                      - 
+    
+     * Device Management -
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(G) Types of Operating System/ Types of OS :
+     \*/ GUI OS
+     \*/ Time Sharing OS
+     \*/ Real Time OS
+     \*/ Distributed OS
+     \*/ Popular Operating Systems :
+            - Windows
+            - Linux
+            - BOSS :
+              BOSS consists of − 
+                               Linux kernel
+                               Office application suite BharteeyaOO
+                               Web browser
+                               Email service Thunderbird
+                               Chat application Pidgim
+                               File sharing applications
+                               Multimedia applications
+     \*/ Mobile OS
+         Some of the most popular OS for
+         Mobile Devices includes :
+                                - Android
+                                - Windows Phone 7
+                                - Apple iOS
+                                - Blackberry OS
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(H) Basics of Computers : Utility S/W :
+                          Some of the Most Popular Utility Software:
+                          * Antivirus
+                          * File Management
+                          * Compression tools
+                          * Disk Cleanup
+                          * Disk Defragmenter
+                          * Backup
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(I) Open Source Software :
+              \*/ Advantages of Open Source Software -
+                            *  Security
+                            *  Affordability
+                            *  Transparent
+                            *  Interoperable on multiple platforms
+                            *  Flexible due to customizations
+                            *  Localization is possible
+
+             \*/ Freeware
+ 
+             \*/ Shareware
+ 
+             \*/ Proprietary Software -
+                 It can have Major Restrictions like −
+                
+                 *
+                 *
+                 *
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(J) Basics of Computers – Office Tools :
+                    Some of the Software Use Office Tools −
+                                      *  Word processors
+                                      *  Spreadsheets
+                                      *  Database systems
+                                      *  Presentation software
+                                      *  E-mail tools
+
+                  * Word processors :
+                    A word processor allows you to −
+                         -
+                         -
+                         -
+                         -
+                         -
+                  
+                  * Spreadsheets :
+                         -
+                         -
+                         -
+                         -
+                         -
+                         -
+
+                  * Database Management System :
+                   
+                  * Presentation Tool :
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(K) Domain Specific Tools :
+    Some Examples of Domain Specific Tools :
+                               * School Management System
+                               * Inventory Management
+                               * Payroll Software
+                               * Financial Accounting
+                               * Restaurant Management
+                               * Railway Reservation System
+                               * Weather Forecasting System
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(L) Number System :
+    Popular Number System -
+                      \*/ Decimal Number System
+                      \*/ Binary Number System
+                      \*/ Octal Number System
+                      \*/ Hexadecimal Number System
+                      \*/ Number System Relationship
+                      \*/ ASCII :
+                          The complete alphanumeric code typically includes −
+                                                      * 26 upper case letters 
+                                                      * 26 lower case letters
+                                                      * 10 digits
+                                                      * 7 punctuation marks
+                                                      * 20 to 40 special characters
+                     \*/ ISCII 
+                     \*/ Unicode
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(M) Number System Conversion :
+                        \*/ Decimal to Binary
+                        \*/ Decimal to Octal
+                        \*/ Decimal to Hexadecimal
+                        \*/ Binary to Octal and Vice Versa
+                        \*/ Binary to Hexadecimal
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(N) Microprocessor Concepts : 
+                       \*/ Microprocessors Characteristics :
+                           Some Defining Characteristics Common to
+                           all Microprocessors :
+                                             * Clock speed
+                                             * Word size
+                                             * Instruction Set 
+                     * Instruction Set :
+                       These Instructions do carry out
+                       these Types of Operations :
+                        - Data transfer
+                        - Arithmetic operations
+                        - Logical operations
+                        - Control flow
+                        - Input/output and machine control
+ 
+                      \*/ Microprocessor Components :
+                           basic parts right from the first model −
+                           * CPU
+                           * Bus
+                           * Memory
+
+                         * CPU :
+                           has these parts −
+                                 - Instruction register
+                                 - Decoder
+                                 - ALU
+                                 - Register
+
+                         * Bus :
+                           Three Types of Buses in a Microprocessor -
+                                 - Data Bus
+                                 - Address Bus
+                                 - Control Bus
+                          
+                         * Memory :
+                           Microprocessor has Two Types of Memory :
+                                 - RAM
+                                 - ROM
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+(O) Evolution of Microprocessor :
+                 Width of Data Microprocessors can process Categories :
+                      * 8-bit
+                      * 16-bit
+                      * 32-bit
+                      * 64-bit
+
+  \*/ Three Types of Microprocessors based on their Instruction Set :
+                                   RISC :
+                                   Some Techniques used by RISC Architecture -
+                                              * Pipelining
+                                              * Single Cycle Execution
+
+                                   CISC :    
+                                   Some Characteristics of CISC Architecture -
+                                    * Larger set of instructions
+                                    * Instructions are of variable length
+                                    * Complex addressing modes
+                                    * Instructions take more than one clock cycle
+                                    * Work well with simpler compilers
+
+                                   EPIC :
+                                   Important features include − 
+           * Parallel instructions rather than fixed width
+           * Mechanism to communication compiler’s execution plan to hardware
+           * Programs must have sequential semantics
+___________________________________________________________________________________
+
+(P) Primary Memory :
+              The main features of Primary Memory -
+      * It is accessed directly by the processor
+      * It is the fastest memory available
+      * Each word is stored as well as
+      * It is volatile, i.e. its contents are lost once power is switched off
+
+   \*/ RAM :
+   
+   \*/ DRAM (Dynamic RAM) :
+ 
+   \*/ SRAM (SRAM) :
+
+   \*/ ROM :
+
+   \*/ PROM (Programmable ROM)
+
+   \*/ EPROM (Erasable Programmable ROM)
+
+   \*/ Cache Memory
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(Q) Secondary Memory :
+       Characteristics of Secondary Memory -
+         *  It is non-volatile, i.e. it retains data when power is switched off
+         *  It is large capacities to the tune of terabytes
+         *  It is cheaper as compared to primary memory 
+   
+       There are Two Types of Secondary Memory – 
+        * Fixed  
+        * Removable.  
+
+       Some of the Secondary Memory Devices Available :
+        * Hard Disk Drive
+        * CD Drive -
+          Three Types of CDs :
+                             - CD-ROM (Compact Disk – Read Only Memory)
+                             - CD-R (Compact Disk – Recordable)
+                             - CD-RW (Compact Disk – Rewritable)
+        * DVD Drive  
+        * Pen Drive
+        * Blu Ray Disk 
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+(R) Basics of Computers – I/O Ports :
+                              Ports are of two types −
+                                  * Internal Port
+                                  * External Port
+Centronics Parallel
+Parallel Port
+DVI-I
+HDMI
+Dual-link DVI
+Optical Audio Toslink
+USB 2.0
+Serial Port
+Composite audio/video
+5-Video
+Component Video
+3.0 Type B Jack
+Ethernet
+VGA
+Fire Wire 400
+
+
+    \*/ Some of the Most Commonly used Ports:
+           * Serial Port
+           * Parallel Port
+           * USB Port
+           * PS-2 Port
+           * Infrared Port
+           * Bluetooth Port -
+             Two Types of Bluetooth Ports :
+                                           - Incoming  
+                                           - Outgoing
+           * FireWire Port
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+  Conditional Statements :       (guru99.com)
+--------------------------
+          \*/ Conditional (Computer Programming) -
+          \*/ What is a Conditional Statement in C ?
+
+          \*/ Relational Operators :-
+     C has 6 Relational Operators used to Formulate a Boolean Expression:-
+                                               *      < less than
+
+                                               *       <= less than or equal to
+
+                                               *       > greater than
+
+                                               *       >= greater than or equal to
+
+                                               *       == equal to
+
+                                               *       != not equal to        
+
+          \*/ Conditional Expressions :-
+
+    The Following Types of Conditional Statements in C :-
+                                                  * If statement
+                                                  * The If-Else statement
+                                                  * Switch statement
+                                                  * Nested If-else Statements
+                                                  * Nested Else-if statements
+____________________________________________________________________________________
+____________________________________________________________________________________
+        
+ Data Structures :
+---------------------
+
+     \*/ Data Structures
+     \*/ Introduction to Data Structures
+     \*/ What is Data Structure: Types, Classifications and Applications
+     \*/ Overview of Data Structures
+     \*/ Different Types of Data Structures
+     \*/ Data Structure Alignment : How Data is Arranged and Accessed in 
+         Computer Memory
+
+\*/ Introduction to Data Structures :
+                             * What Is Data ?
+                             * What Is Data Structure ?
+                             * Abstract Data Type (ADT)
+                             * Types of Data Structure :
+                                    1. Linear Data Structure
+                                    2. Non-Linear Data Structure
+     1. Linear Data Structure :
+                 *
+                 *
+ 
+     2. Non-Linear Data Structure :
+                 *
+                 *
+
+                  * Data Structures are used in Various Fields such as:
+                        - Operating system
+                        - Graphics
+                        - Computer Design
+                        - Blockchain
+                        - Genetics
+                        - Image Processing
+                        - Simulation etc.
+        
+                  * Below is an Overview of Some Popular Data Structures:
+                         1. Array:
+                         2. Linked Lists:
+                         3. Stack:
+
+                  * Basic Operations are Performed in the Stack:
+                         + Initialize
+                         + Push
+                         + Pop
+                         + Peek or Top
+                         + isEmpty
+  
+                         4. Queue:
+
+                  * Four Basic Operations are Performed on Queue:
+                         + Enqueue
+                         + Dequeue
+                         + Front
+                         + Rear
+
+                         5. Binary Tree:
+                            A Binary Tree Node contains the Following Parts :
+                               1. Data
+                               2. Pointer to left child
+                               3. Pointer to the right child
+                        
+                         6. Binary Search Tree:
+                            Binary Search Tree is a Binary Tree Following
+                            Additional Properties :
+                              *
+                              *
+                              *
+
+                         7. Heap: 
+                            Heaps can be of Two Types:
+                              + Max-Heap:
+                              + Min-Heap:
+
+                         8. Hashing Data Structure:
+         
+                         9. Matrix:
+
+                         10. Trie:
+
+SUMMARY OF Popular Data Structures :
+                         1. Array:
+                         2. Linked Lists:
+                         3. Stack:
+                         4. Queue:
+                         5. Binary Tree:
+                         6. Binary Search Tree:
+                         7. Heap:
+                         8. Hashing Data Structure:
+                         9. Matrix:
+                         10. Trie:
+
+  *********************************************************************************
+  \*/ What is Data Structure: Types, Classifications and Applications :
+        *  Data structures -
+        *  What is Data Structure: -
+        *  How Data Structure varies from Data type:
+           Few Differences Between Data Type and Data Structure - 
+               Data Type :
+                   +
+                   +
+                   +
+                   +
+                   +
+                   +
+               
+               Data Structure :
+                   +
+                   +
+                   +
+                   +
+                   +
+                   +
+
+       * Classification of Data Structure: -
+         Different Data Structure used in Different Situations :  
+               + Linear data structure -
+                 Examples of linear data structures are -
+                                                - Array
+                                                - Stack
+                                                - Queue    
+                                                - Linked List, etc
+               + Static data structure:
+               + Dynamic data structure:
+               + Non-linear data structure:
+
+       * Arrays:
+         Different Operations possible in Array:
+                                               - Searching
+                                               - Sorting
+                                               - Inserting
+                                               - Traversing
+                                               - Reserving
+                                               - Deleting
+ 
+            + Characteristics of an Array:
+                       *
+                       *
+                       *
+                       *
+                       *
+                       *
+
+            + Applications of Array: 
+                      *
+                      *
+                      *
+                      *
+                      *
+                      *
+                      *
+
+            + Real-Life Applications of Array:
+                      *
+                      *
+                      *
+                      *
+                      *
+                  
+      * Stack:    
+        Operations possible in Stack like Reversing a Stack Using:
+                                            - Recursion
+                                            - Sorting
+                                            - Deleting middle element of the stack
+      
+      + Characteristics of an Stack:
+                     *
+                     *
+                     *
+                     *
+                     *
+    
+      + Applications of Stack:
+                    *
+                    *
+                    *
+                    *
+                    *
+
+      + Real Life Applications of Stack:
+                   *
+                   *
+                   *
+
+       * Queue:
+         Basic Operations performed in Queue are:
+                                               - Enqueue
+                                               - Dequeue
+                                               - Front
+                                               - Rear etc. 
+     
+     + Characteristics of a Queue:
+                  *
+                  *
+                  * 
+
+     + Applications of Queue:
+                *
+                *
+                *
+                *
+                * 
+
+     + Real-Life Applications of Queue: 
+                *
+                *
+                *
+                * 
+ 
+      * Tree:
+        Tree has various Terminologies:
+                                       - Node
+                                       - Root
+                                       - Edge
+                                       - Height of the Tree
+                                       - Degree of the Tree, etc
+
+     + There are Different Types of Tree:
+                                - Binary Tree,
+                                - Binary Search Tree,
+                                - AVL Tree,
+                                - B-Tree, etc.
+
+     
+      + Characteristics of an Tree:
+               *
+               *
+               * 
+
+      + Applications of Tree:
+              *
+              *
+              *
+              *
+              * 
+
+     + Real Life Applications of Tree:
+                 *
+                 *
+                 *
+                 * 
+                 *
+                 *
+
+     * Graph:
+       Graph has different Terminologies which Are :
+                                                  - Path
+                                                  - Degree
+                                                  - Adjacent Vertices
+                                                  - Connected Components, etc.
+
+    + Characteristics of Graph:
+             *
+             *
+             * 
+      
+    + Applications of Graph:
+           *
+           *
+           *
+           * 
+
+    + Real-Life Applications of Graph:
+             *
+             *
+             *
+             
+  \*/ Conclusion :
+
+  *****************************************************************************
+   \*/ Overview of Data Structures :
+
+       Overview of Data Structures | Set 1
+       (Linear Data Structures)
+ 
+       Overview of some Popular "Linear Data Structures":
+       1. Array 
+       2. Linked List 
+       3. Stack  
+       4. Queue 
+ 
+      1. Array - 
+      Size of an Array must be Provided before Storing Data:
+ ----------------------------------------------------------------------
+|     Let size of array be n.                                          |
+|     Accessing Time: O(1) [This is possible because elements          |
+|                           are stored at contiguous locations]        |
+|                                                                      |   
+|     Search Time:   O(n) for Sequential Search:                       |
+|                    O(log n) for Binary Search [If Array is sorted]   |
+|                                                                      |
+|     Insertion Time: O(n) [The worst case occurs when insertion       |
+|                           happens at the Beginning of an array and   |
+|                           requires shifting all of the elements]     |
+|                                                                      |
+|     Deletion Time: O(n) [The worst case occurs when deletion         |
+|                          happens at the Beginning of an array and    |
+|                          requires shifting all of the elements]      |
+|                                                                      |
+|______________________________________________________________________|
+
+   Example: *
+            *
+  
+    2. Linked List :
+       Types of Linked List :-
+                             1. Singly Linked List:
+                             2. Doubly Linked List:
+                             3. Circular Linked List:
+                             4. Circular Doubly Linked List:
+ _____________________________________________________________________
+|    Accessing time of an element : O(n)                              |
+|                                                                     |
+|    Search time of an element : O(n)                                 |
+|                                                                     |
+|    Insertion of an Element : O(1) [If we are at the position        |
+|                                    where we have to insert          |
+|                                    an element]                      |
+|                                                                     |
+|    Deletion of an Element : O(1) [If we know address of node        |
+|                                   previous the node to be           |
+|                                   deleted]                          |
+|_____________________________________________________________________|
+
+    Example: 
+            *
+            * 
+
+   3. Stack :
+    _____________________________________________________  
+   |   Insertion : O(1)                                  |
+   |                                                     |
+   |   Deletion :  O(1)                                  |
+   |                                                     |
+   |   Access Time : O(n) [Worst Case]                   |
+   |                                                     |
+   |   Insertion and Deletion are allowed on one end.    |
+   |_____________________________________________________|
+
+      Example:
+              *
+              * 
+
+     Primary Stack Operations:
+            * void push(int data) :-
+            * int pop():
+      
+     Auxiliary Stack Operations:
+            * int top()
+            * int size():
+            * int isEmpty():
+            * int isFull():
+
+     Types of Stacks:
+            * Register Stack:
+            * Memory Stack:
+    
+  4. Queue : 
+     
+  ________________________________________
+ |     Insertion : O(1)                   |
+ |                                        |
+ |     Deletion  : O(1)                   |    
+ |                                        |
+ |     Access Time : O(n) [Worst Case]    |  
+ |________________________________________|
+   
+     Example:
+             *
+             *
+
+   Basic Operations on Queue:
+         * void enqueue(int data):
+         * int dequeue():
+  
+   Auxiliary Operations on Queue:
+         * int front():
+         * int rear():
+         * int isEmpty():
+         * int size():
+
+  Types of Queues:
+       * Simple Queue:
+       * Circular Queue:
+       * Priority Queue:
+       * Dequeue:
+
+   ******************************************************************
+       Overview of Data Structures | Set 2
+       (Binary Tree, BST, Heap and Hash)
+      
+      Following Data Structures are discussed :
+            \*/ Binary Tree
+            \*/ Binary Search Tree
+            \*/ Binary Heap
+            \*/ Hashing
+ 
+     \*/ Binary Tree :
+      
+       * Binary Tree Representation:
+         A "Binary Tree node" contains the following parts :
+            1. Data 
+            2. Pointer to left child 
+            3. Pointer to the right child 
+
+         A "Binary Tree can be traversed" in Two Ways:
+                           -
+                           - 
+
+       * Binary Tree Properties:
+  ___________________________________________________________________
+ |     The maximum number of nodes at level ‘l’ = 2l.               | 
+ |                                                                  |
+ |     Maximum number of nodes = 2h + 1 – 1.                        |
+ |     Here h is height of a tree. Height is considered             |
+ |     as the maximum number of edges on a path from root to leaf.  |
+ |                                                                  | 
+ |     Minimum possible height =  ceil(Log2(n+1)) - 1               |
+ |                                                                  |
+ |     In Binary tree, number of leaf nodes is always one           |
+ |     more than nodes with two children.                           |
+ |                                                                  |
+ |     Time Complexity of Tree Traversal: O(n)                      |
+ |__________________________________________________________________|
+
+        * Basic Operation On Binary Tree:
+                * Inserting an element.
+                * Removing an element
+                * Searching for an element
+                * Traversing an element
+         
+        * Auxiliary Operation On Binary Tree:
+                * Finding the height of the tree.
+                * Find the level of the tree.
+                * Finding the size of the entire tree.
+         
+        * Applications of Binary Tree: 
+                  *
+                  *
+                  * 
+        
+        * Binary Tree Traversals:
+               * Preorder Traversal:
+               * Inorder Traversal:
+               * Postorder Traversal: 
+      
+       Examples:
+           *
+           * 
+
+        \*/ Binary Search Tree : 
+
+            Binary Search Tree is a Binary Tree with following Additional                         Properties :
+                        1.
+                        2.
+                        3. 
+
+           * Binary Search Tree Declaration:
+             _________________________________________                                            |   struct BinarySearchTree{              | 
+            |                                         |
+            |   int data;                             |
+            |                                         | 
+            |   struct BinarySearchTree* left;        |
+            |                                         |
+            |   struct BinarySearchTree* right;       |
+            |   };                                    |
+            |_________________________________________|
+          
+          * Primary BST Operations:
+                    *
+                    *
+                    *
+
+          * Auxiliary BST Operations:
+                  *
+                  *
+                 
+               Time Complexities: 
+             ______________________________________________________
+            |    Search :  O(h)                                    |
+            |    Insertion : O(h)                                  |
+            |    Deletion : O(h)                                   |
+            |    Extra Space : O(n) for pointers                   | 
+            |                                                      |
+            |    h: Height of BST                                  |
+            |    n: Number of nodes in BST                         |
+            |                                                      |
+            |    If Binary Search Tree is Height Balanced,         | 
+            |    then h = O(Log n)                                 |
+            |                                                      |
+            |   Self-Balancing BSTs such as AVL Tree, Red-Black    |
+            |   Tree and Splay Tree make sure that height of BST   |
+            |   remains O(Log n)                                   |
+            |______________________________________________________|
+
+              Examples: 
+                  *
+                  *
+
+  \*/ Binary Heap :
+      A Binary Heap is a Binary Tree with Following Properties :
+                       *
+                       *
+          _____________________________________________________________________
+         |  Get Minimum in Min Heap: O(1) [Or Get Max in Max Heap]             |  
+         |                                                                     |
+         |  Extract Minimum Min Heap: O(Log n) [Or Extract Max in Max Heap]    |
+         |                                                                     | 
+         |  Decrease Key in Min Heap: O(Log n)  [Or Decrease Key in Max Heap]  |
+         |  Insert: O(Log n)                                                   |
+         |  Delete: O(Log n)                                                   |
+         |_____________________________________________________________________|
+
+            Example :-
+                      *
+                      *  
+
+            Hashing :-
+                      *
+                      *
+            
+            Why to use Hashing? : 
+                               *
+                               *  
+            
+            Hash Function: 
+                          *
+                          *
+
+           A Good Hash Function should have following Properties:
+                       1)
+                       2)
+                       3)
+                       4)
+
+           Hash Table: 
+                     *
+                     * 
+
+          Collision Handling:
+                             *
+                             *
+
+          Chaining:
+                   *
+                   * 
+      _____________________________________________________
+     |     Space : O(n)                                    |
+     |                                                     |
+     |     Search    : O(1) [Average]    O(n) [Worst case] |
+     |                                                     | 
+     |     Insertion : O(1) [Average]    O(n) [Worst Case] |
+     |                                                     | 
+     |     Deletion  : O(1) [Average]    O(n) [Worst Case] |
+     |_____________________________________________________|
+
+         Example:
+                 *
+                 *
+
+   **********************************************************************
+     Overview of Data Structures | Set 3 
+     (Graph, Trie, Segment Tree and Suffix Tree)
+     
+  \*/ Graph:
+      Graph is a Data Structure consists of the Following Two Components:
+      1.
+      2.
+
+      Graph can be Classified on Basis of many things,
+      Below are the Most Common Classifications :
+                   1. Direction:
+                   2. Weight:
+
+       Time Complexities in case of Adjacency Matrix :
+       Traversal :(By BFS or DFS) O(V^2)
+       Space : O(V^2)
+
+       Time Complexities in case of Adjacency List :
+       Traversal :(By BFS or DFS) O(V + E)
+       Space : O(V+E)
+
+       Examples :
+                 *
+                 *
+
+  \*/ Trie :
+      Tries also known as "Radix Trees" or "Prefix Trees" 
+      
+      The Trie structure can be defined as follows :
+ _________________________________________________________________
+|                                                                 |
+|      struct trie_node                                           |
+|      {                                                          |
+|      int value; /* Used to mark leaf nodes */                   |
+|      trie_node_t *children[ALPHABET_SIZE];                      |
+|      };                                                         |
+|                                                                 |
+|                      root                                       |
+|                   /   \    \                                    | 
+|                   t   a     b                                   |
+|                   |   |     |                                   |
+|                   h   n     y                                   |
+|                   |   |  \  |                                   |
+|                   e   s  y  e                                   | 
+|                /  |   |                                         |
+|                i  r   w                                         |
+|                |  |   |                                         |
+|                r  e   e                                         | 
+|                       |                                         |
+|                       r                                         |
+|                                                                 | 
+|    The leaf nodes are in blue.                                  | 
+|                                                                 |
+|    Insert time : O(M) where M is the length of the string.      |
+|    Search time : O(M) where M is the length of the string.      |
+|    Space : O(ALPHABET_SIZE * M * N) where N is number of        |
+|            keys in trie, ALPHABET_SIZE is 26 if we are          |
+|            only considering upper case Latin characters.        |  
+|    Deletion time: O(M)                                          |
+|_________________________________________________________________|
+
+     Example :
+              *
+              *       
+              
+              \*/  Segment Tree :
+                   Segment Trees are implemented using an array.
+                  __________________________________________
+                 |  Construction of segment tree : O(N)     | 
+                 |                                          |
+                 |  Query : O(log N)                        |
+                 |                                          |
+                 |  Update : O(log N)                       |
+                 |                                          |
+                 |  Space : O(N) [Exact space = 2*N-1]      |
+                 |__________________________________________|
+
+                   Example:
+                           *
+                           * 
+               
+             \*/ Suffix Tree :
+
+                 Abstract Steps to Build a Suffix Tree from given Text :
+                   1.)
+                   2.)
+
+                   Example :
+                            *
+                            *
+
+      ***************************************************************************
+         DATA STRUCTURES SUMMARY :
+                           - Array
+                           - Matrix
+                           - Strings
+                           - Hashing
+                           - Linked List
+                           - Stack
+                           - Queue
+                           - Binary Tree
+                           - Binary Search Tree
+                           - Heap
+                           - Graph
+                           - Searching
+                           - Sorting
+                           - Divide & Conquer
+                           - Mathematical
+                           - Geometric
+                           - Bitwise
+                           - Greedy
+                           - Backtracking
+                           - Branch and Bound
+                           - Dynamic Programming
+                           - Pattern Searching
+                           - Randomized
+     *****************************************************************************
+         Different Types of Data Structures :
+                               * Array Data Structure
+                               * String Data Structure
+                               * Linked List Data Structure
+                               * Stack Data Structure
+                               * Queue Data Structure
+                               * Binary Tree Data Structure
+                               * Binary Search Tree
+                               * Heap Data Structure
+                               * Hashing Data Structure
+                               * Graph Data Structure and Algorithms
+                               * Matrix Data Structure
+                               * Advanced Data Structures
+

@@ -1,0 +1,157 @@
+
+
+   Programming Operators Syllabus :
+  ___________________________________ 
+
+ (A)   \*/ C Arithmetic Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       1.  * Arithmetic Operator :
+ 
+    
+ (B)   \*/ Different Types of Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+      1. *  + Addition or Unary Plus
+      2. *  - Subtraction or Unary Minus
+      3. *  * Multiplication
+      4. *  / Division
+      5. *  % Remainder After Division (Modulo Division) 
+
+ (C)   \*/ C Increment and Decrement Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+      1. * Operators Increment ++
+      2. * Operators Decrement --
+      3. * Increment and Decrement Operators work when used as Postfix : 
+   
+ (D)   \*/  C Assignment Operators :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       1. * Assignment Operators :
+       2. * Most Common Assignment Operator is = 
+       
+ (E)  \*/ Different Types of Assignment Operators :
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      1.  *   =
+      2.  *   +=
+      3.  *   -=
+      4.  *   *=
+      5.  *   /=
+      6.  *   %=
+
+ 
+ (F)  \*/ C Relational Operators :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     1. *  == Equal to
+     2. *  > Greater than 
+     3. *  < Less than
+     4. *  != Not equal to
+     5. *  >= Greater than or equal to
+     6. *  <= Less than or equal to
+
+
+ (G) \*/ C Logical Operators :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+     1. * Logical Operators :
+
+    
+ (H) \*/ Different Types of Logical Operators :
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    1. *  &&  Logical AND 
+
+    2. *  ||  Logical OR
+
+    3. *  !   Logical NOT
+
+   
+ (I)  \*/ Explanation of Logical Operator Program :
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ---------------------------------------------------------
+ |       // Working of logical operators                   |
+ |                                                         |
+ | #include <stdio.h>                                      |
+ | int main()                                              |
+ | {                                                       |
+ |     int a = 5, b = 5, c = 10, result;                   |
+ |                                                         |
+ |     result = (a == b) && (c > b);                       |
+ |     printf("(a == b) && (c > b) is %d \n", result);     |
+ |                                                         |
+ |     result = (a == b) && (c < b);                       |
+ |     printf("(a == b) && (c < b) is %d \n", result);     |  
+ |                                                         |
+ |     result = (a == b) || (c < b);                       |
+ |     printf("(a == b) || (c < b) is %d \n", result);     |
+ |                                                         |
+ |     result = (a != b) || (c < b);                       |
+ |     printf("(a != b) || (c < b) is %d \n", result);     |
+ |                                                         |
+ |     result = !(a != b);                                 |
+ |     printf("!(a != b) is %d \n", result);               |
+ |                                                         |
+ |     result = !(a == b);                                 |
+ |     printf("!(a == b) is %d \n", result);               |
+ |                                                         |
+ |     return 0;                                           |
+ |  }                                                      |
+ |_________________________________________________________| 
+     
+     * Run The Code :
+    
+     * Output :
+         _______________________________ 
+        |  (a == b) && (c > b) is 1     |
+        |  (a == b) && (c < b) is 0     | 
+        |  (a == b) || (c < b) is 1     |
+        |  (a != b) || (c < b) is 0     |
+        |  !(a != b) is 1               |
+        |  !(a == b) is 0               |    
+        |_______________________________|
+
+ (J)    \*/ Explanation of Logical Operator Program :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         1. * (a == b) && (c > 5)
+
+         2. * (a == b) && (c < b)
+
+         3. * (a == b) || (c < b)
+           
+         4. * (a != b) || (c < b)
+          
+         5. * !(a != b)
+          
+         6. * !(a == b)
+
+
+ (K)    \*/ C Bitwise Operators :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~
+         1.  * C Bitwise Operators :
+
+            
+ (L)    \*/ Different Types of C Bitwise Operators :
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           
+                   1.    *   &     Bitwise AND
+ 
+                   2.    *   |     Bitwise OR
+
+                   3.    *   ^     Bitwise exclusive OR  /   Bitwise XOR
+
+                   4.    *   -     Bitwise complement
+
+                   5.    *   <<    Shift left
+
+                   6.    *   >>    Shift right
+
+
+ (M)    \*/ Other Operators :
+        ~~~~~~~~~~~~~~~~~~~~~~~
+         1.  * Comma Operator :
+
+         2.  * The sizeof operator :
+
+         3.  * Ternary Operator :
+ 
+         4.  * Member Selection Operator :
+           
+            
+           
+ 
+            

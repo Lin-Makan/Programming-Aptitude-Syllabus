@@ -1,0 +1,107 @@
+
+     * Variables and Keywords in C :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         Variables in C :
+        __________________________________
+       
+        * What is a Variable ? :
+        ``````````````````````````` 
+          +
+          +
+ 
+        * Variable Declaration Form :
+        ``````````````````````````````
+            + 
+            +
+
+        * Difference b/w Variable Declaration and Definition :
+        ```````````````````````````````````````````````````````
+             +
+             + 
+   
+        * Rules for Defining Variables :
+        `````````````````````````````````
+             1. 
+             2.  
+             3. 
+             4. 
+        
+        * We can’t Declare a Variable in this Form :
+        `````````````````````````````````````````````
+           1.
+           2.
+           3.
+           4.
+        
+       * Types of Variables in C :
+       ````````````````````````````
+        1. Local Variable:
+        2. Global Variable:
+        3. Static Variable:
+        4. Automatic Variable: 
+        5. External Variable:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        
+       Keywords in C :
+      _________________________________
+         
+         * What is a Keyword in C ? :
+        `````````````````````````````` 
+           +
+           +
+
+        * Keywords Declaration Form :
+        ``````````````````````````````
+           +
+           +
+
+        * Difference b/w Keyword Declaration and Definition :
+        `````````````````````````````````````````````````````` 
+          +
+          + 
+        
+        * There are 32 Keywords Available in C :
+        ````````````````````````````````````````` 
+            1. auto :
+            2. break :
+            3. case :
+            4. char :
+            5. const :
+            6. continue :
+            7. default :
+            8. do :
+            9. double :
+           10. long :
+           11. return :
+           12. register :
+           13. short  :
+           14. signed :
+           15. sizeof :
+           16. static :
+           17. int :
+           18. else :
+           19. enum :
+           20. extern :
+           21. float :
+           22. for :
+           23. goto :
+           24. if :
+           25. struct :
+           26. switch :
+           27. typedef :
+           28. union :
+           29. unsigned :
+           30. void :
+           31. volatile : 
+           32. while : 
+
+        * Keywords which Allow us to Use the Basic Functionality of C :
+        `````````````````````````````````````````````````````````````````
+           + const :
+           + extern :
+           + static :
+           + void :
+           + typedef :
+_______________________________________________________________________________
+

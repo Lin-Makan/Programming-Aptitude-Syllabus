@@ -1,0 +1,400 @@
+
+     * Loops in Programming :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+       
+      (A)  * The While Loop
+      (B)  * The do...while Loop
+      (C)  * The break statement
+      (D)  * The continue statement
+      (E)  * Entry Controlled Loop
+      (F)  * Exit Controlled Loop
+      (G)  * For Loop
+      (H)  * Foreach Loop
+___________________________________________________________________________________
+
+   <<<<<<<<<< Loops in Programming >>>>>>>>>>
+________________________________________________
+ Loops in Programming                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Loops in Programming 
+                                                                                        
+2) Definition of Loops in Programming ?
+---------------------------------------
+*
+ 
+3) What is Loops in Programming About ?
+---------------------------------------
+*
+*
+
+4) What does Loops in Programming Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Loops in Programming :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Loops in Programming :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Loops in Programming :
+-------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(A) <<<<<<<<<< The While Loop >>>>>>>>>>
+________________________________________________
+ The While Loop                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The While Loop 
+                                                                                        
+2) Definition of The While Loop ?
+---------------------------------
+*
+ 
+3) What is The While Loop About ?
+---------------------------------
+*
+*
+
+4) What does The While Loop Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of The While Loop :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The While Loop :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of The While Loop :
+-------------------------------
+*
+*
+___________________________________________________________________________________
+
+(B) <<<<<<<<< The do...while Loop >>>>>>>>>>
+_____________________________________________________
+ The do...while Loop                                 |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The do...while Loop
+                                                                                        
+2) Definition of The do...while Loop ?
+--------------------------------------
+*
+ 
+3) What is The do...while Loop About ?
+--------------------------------------
+*
+*
+
+4) What does The do...while Loop Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of The do...while Loop :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The do...while Loop :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of The do...while Loop :
+------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(C) <<<<<<<<<< The break statement >>>>>>>>>>>>
+__________________________________________________
+ The break statement                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The break statement 
+                                                                                        
+2) Definition of The break statement ?
+--------------------------------------
+*
+ 
+3) What is The break statement About ?
+--------------------------------------
+*
+*
+
+4) What does The break statement Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of The break statement :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The break statement :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of The break statement :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+(D) <<<<<<<<<< The continue statement >>>>>>>>>>>>
+__________________________________________________
+ The continue statement                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The continue statement 
+                                                                                        
+2) Definition of The continue statement ?
+-----------------------------------------
+*
+ 
+3) What is The continue statement About ?
+-----------------------------------------
+*
+*
+
+4) What does The continue statement Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of The continue statement :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The continue statement :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of The continue statement :
+---------------------------------------
+*
+*
+_____________________________________________________________________________
+
+(E) <<<<<<<<< Entry Controlled Loop >>>>>>>>>>
+_____________________________________________________
+ Entry Controlled Loop                               |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Entry Controlled Loop
+                                                                                        
+2) Definition of Entry Controlled Loop ?
+----------------------------------------
+*
+ 
+3) What is Entry Controlled Loop About ?
+----------------------------------------
+*
+*
+
+4) What does Entry Controlled Loop Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Entry Controlled Loop :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Entry Controlled Loop :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Entry Controlled Loop :
+--------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(F) <<<<<<<<<< Exit Controlled Loop >>>>>>>>>>>>
+__________________________________________________
+ Exit Controlled Loop                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Exit Controlled Loop 
+                                                                                        
+2) Definition of Exit Controlled Loop ?
+---------------------------------------
+*
+ 
+3) What is Exit Controlled Loop About ?
+---------------------------------------
+*
+*
+
+4) What does Exit Controlled Loop Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Exit Controlled Loop :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Exit Controlled Loop :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Exit Controlled Loop :
+-------------------------------------
+*
+*
+__________________________________________________________________________________
+
+(G) <<<<<<<<<< For Loop >>>>>>>>>>>>
+__________________________________________________
+ For Loop                                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* For Loop 
+                                                                                        
+2) Definition of For Loop ?
+---------------------------
+*
+ 
+3) What is For Loop About ?
+---------------------------
+*
+*
+
+4) What does For Loop Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of For Loop :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of For Loop :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of For Loop :
+-------------------------
+*
+*
+_______________________________________________________________________________
+
+(H) <<<<<<<<<< Foreach Loop >>>>>>>>>>>>
+__________________________________________________
+ Foreach Loop                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Foreach Loop 
+                                                                                        
+2) Definition of Foreach Loop ?
+-------------------------------
+*
+ 
+3) What is Foreach Loop About ?
+-------------------------------
+*
+*
+
+4) What does Foreach Loop Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Foreach Loop :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Foreach Loop :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Foreach Loop :
+-----------------------------
+*
+*
+_______________________________________________________________________________

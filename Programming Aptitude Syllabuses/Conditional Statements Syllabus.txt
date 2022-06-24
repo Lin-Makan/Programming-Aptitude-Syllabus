@@ -1,0 +1,32 @@
+ 
+ Conditional Statements :       (guru99.com)
+ --------------------------
+          \*/ Conditional (Computer Programming) -
+          \*/ What is a Conditional Statement in C ?
+
+          \*/ Relational Operators :-
+     C has 6 Relational Operators used to Formulate a Boolean Expression:-
+                                               *      < less than
+
+                                               *       <= less than or equal to
+
+                                               *       > greater than
+
+                                               *       >= greater than or equal to
+
+                                               *       == equal to
+
+                                               *       != not equal to        
+
+          \*/ Conditional Expressions :-
+
+    The Following Types of Conditional Statements in C :-
+                                                  * If statement
+                                                  * The If-Else statement
+                                                  * Switch statement
+                                                  * Nested If-else Statements
+                                                  * Nested Else-if statements
+                                                  * Do Statement
+                                                  * While Statement
+                                                  * Do-While Statement
+____________________________________________________________________________

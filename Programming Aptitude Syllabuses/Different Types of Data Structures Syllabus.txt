@@ -1,0 +1,172 @@
+
+ DIFFERENT TYPES OF DATA STRUCTURES :
+---------------------------------------
+       (A)  * Array Data Structure
+       (B)  * String Data Structure
+       (C)  * Linked List Data Structure
+       (D)  * Stack Data Structure
+       (E)  * Queue Data Structure
+       (F)  * Binary Tree Data Structure
+       (G)  * Binary Search Tree
+       (H)  * Heap Data Structure
+       (I)  * Hashing Data Structure
+       (J)  * Graph Data Structure and Algorithms
+       (K)  * Matrix Data Structure
+       (L)  * Advanced Data Structures
+-----------------------------------------------------------------------------------
+
+ (A) \*/ Array Data Structure :
+--------------------------------
+     * Array Data Structure
+     * Introduction to Arrays
+     * Searching
+     * Sorting
+     * Rotation
+     * Arrangement and Rearrangement
+     * Order Statistics
+     * Range Queries
+     * Optimization 
+---------------------------------------------------------------------------------
+
+ (B) \*/ String Data Structure :
+---------------------------------
+     * String Data Structure
+     * Applications, Advantages and Disadvantages of String
+     * Traversal on Strings
+     * Sorting and Searching on Strings
+     * Reverse and Rotation on String
+     * Character Counting on String
+     * Substrings and Subsequences
+     * Arithmetic Operations on Strings
+     * Binary String
+     * Lexicographic Pattern of String
+     * Palindromic String
+     * Pattern Searching in String
+     * Occurence based problems on Strings
+     * Spacing based Problem on String
+     * String Anagrams
+     * Conversion of String
+     * Balanced Parenthesis and Bracket evaluation
+---------------------------------------------------------------------------------
+
+ (C) \*/ Linked List Data Structure :
+--------------------------------------
+
+     * Linked List Data Structure
+     * Introduction to Linked List
+     * Traversal in Linked List
+     * Circular Linked List
+     * Doubly Linked List
+     * Some other types of Linked List
+     * Searching in Linked List
+     * Reversal and Rotation in Linked List
+     * Deletion in Linked list
+--------------------------------------------------------------------------------
+   
+ (D) \*/ Stack Data Structure :
+---------------------------------
+   
+      * Stack Data Structure
+      * Stack Data Structure(Introduction and Program)
+      * Application, Advantages and Disadvantages of Stack
+      * Operations on Stack
+      * Standard problems on Stack
+      * Other interesting problems on Stack
+---------------------------------------------------------------------------------
+
+  (E) \*/ Queue Data Structure :
+----------------------------------
+
+      * Queue Data Structure
+      * Queue | Set 1 (Introduction and Array Implementation)
+      * Array implementation of queue (Simple)
+      * Queue – Linked List Implementation
+      * Applications, Advantages and Disadvantages of Queue
+      * Implementations of Queue
+      * Operations on Queue
+      * Standard problems on Queue
+      * Circular Queue
+---------------------------------------------------------------------------------
+
+  (F) \*/ Binary Tree Data Structure :
+---------------------------------------
+      * Binary Tree Data Structure
+      * Tutorial on Binary Tree
+      * Basics of Binary Tree
+      * Types of Binary Trees
+      * Tree Traversals
+      * Construction and conversion
+      * Binary tree checking and printing
+      * Summation
+      * Lowest Common ancestor
+-------------------------------------------------------------------------------
+
+  (G) \*/ Binary Search Tree :
+-------------------------------
+
+     * Binary Search Tree
+     * Tutorial on Binary Search Tree
+     * Introduction
+     * Construction and conversion
+     * Checking and Searching
+     * Balanced BST
+     * Red-black and threaded binary tree
+     * Some Other Interesting Problems
+-----------------------------------------------------------------------------
+
+  (H) \*/ Heap Data Structure :
+--------------------------------
+     * -
+-----------------------------------------------------------------------------
+
+ (I)  \*/ Hashing Data Structure :
+-----------------------------------
+     * -
+-------------------------------------------------------------------------------
+    
+(J) \*/ Graph Data Structure And Algorithms :
+----------------------------------------------
+
+    * Graph Data Structure And Algorithms
+    * Introduction
+    * BFS and DFS on Graph
+    * Cycle in a Graph
+    * Shortest Paths in Graph
+    * Topological Sorting in Graph
+    * Minimum Spanning Tree in Graph
+    * Connectivity of Graph
+    * Maximum flow in a Graph
+-----------------------------------------------------------------------------
+ 
+ (K) \*/ Matrix Data Structure :
+---------------------------------
+
+    * Matrix Data Structure
+    * Traversal in Matrix
+    * Standard Operations in Matrix
+    * Types of Matrix
+    * Searching in Matrix
+    * Sorting in Matrix
+    * Rotation and Arrangement in Matrix
+    * Arithmetic Operation in Matrix
+    * Path and Distance in Matrix
+-----------------------------------------------------------------------------
+
+ (L) \*/ Advanced Data Structures :
+------------------------------------
+
+    * Advanced Data Structures
+    * Advance Lists
+    * Segment Tree
+    * Trie
+    * Binary Indexed Tree
+    * Suffix Array and Suffix Tree
+    * Self balancing BST
+    * K Dimensional Tree
+    * Disjoint Set
+---------------------------------------------------------------------------------
+
+   
+ 
+
+ 

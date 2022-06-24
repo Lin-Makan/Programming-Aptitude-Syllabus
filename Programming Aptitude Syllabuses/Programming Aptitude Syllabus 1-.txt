@@ -1,0 +1,11 @@
+
+  PROGRAMMING APTITUDE SYLLABUS :
+-------------------------------------
+* Computer System Basics
+* Conditional Statements
+* Data Structures
+* Loops
+* Mathematical Aptitude
+* Operators
+* Variables
+_______________________________________________________________________________
