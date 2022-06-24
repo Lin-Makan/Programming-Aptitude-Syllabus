@@ -1,0 +1,106 @@
+
+
+  * MATHEMATICAL APTITUDE :
+  ___________________________
+
+   Topics In Mathematics :
+   ~~~~~~~~~~~~~~~~~~~~~~~~~
+            1. * Addition :
+            2. * Subtraction :
+            3. * Multiplication :
+            4. * Division :
+            5. * Fraction :
+            6. * Algebra :
+            7. * Geometry :
+            8. * Coordinate Geometry :
+            9. * Introduction to Euclids Geometry :
+           10. * Calculus :
+           11. * Logic :
+           12. * Number Theory :
+           13. * Probability :
+           14. * Probability and Statistics :
+           15. * Topology :
+           16. * Analysis :
+           17. * Combinatorics :
+           18. * Number Systems : 
+           19. * Triangles :
+           20. * Parallelograms :
+           21. * Chain Rule :
+           22. * Areas of Parallelograms and Triangles :
+           23. * Constructions :
+           24. * Areas :
+           25. * Volumes :
+           26. * Surface :
+           27. * Surface Volumes :
+           28. * Surface Areas and Volumes : 
+           29. * Polynomials :
+           30. * Linear Equations :
+           31. * Variables :
+           32. * Linear Equations in Two Variables :
+           33. * Quadrilaterals : 
+           34. * Circles :
+           35. * Heron's Formula :
+           36. * Statistics :
+           37. * Percentage :
+           38. * Ratio :
+           39. * Proportion :
+           40. * Time :
+           41. * Speed :
+           42. * Distance :
+           43. * Average :
+           44. * Trigonometry :
+      
+      Mathematical Ability (Foundation) :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      * Area
+      * Calculations
+      * Chain Rule
+      * Numbers
+      * Ratio
+      * Simple Interest
+      * Speed and Distance
+
+      Mathematical Ability (Advanced) :
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       * Age and Calendar
+       * Area
+       * Average
+       * Interest
+       * Numbers
+       * Partnership and Percentage
+       * Probability
+       * Problems on H.C.F and L.C.M
+       * Profit and loss analysis
+       * Ratio and Proportion
+       * Simplification
+       * Time and Distance
+       * Time and Work
+       * Volume and area
+       * Volume and Surface Area
+
+   Pure Mathematics :
+   ~~~~~~~~~~~~~~~~~~~~~~~
+      * 
+      *
+      *
+      *
+      *
+      *
+      * 
+
+   Applied Mathematics :
+  ~~~~~~~~~~~~~~~~~~~~~~~~
+       * Statistics
+       * Computational Sciences
+       * Mathematical Physics
+       * Operations Research
+       * Mathematical Optimization 
+       * Computational Biology
+       * Computational Linguistics
+   
+    * Grade 8 Mathematics :
+    * Grade 9 Mathematics :
+    * Grade 10 Mathematics :
+    * Grade 11 Mathematics :
+    * Grade 12 Mathematics :
+  
