@@ -1,0 +1,504 @@
+
+14. <<<<<<<<< C - Functions >>>>>>>>>
+          
+     A.  Defining a Function -
+        ```````````````````````
+         General Form of a Function Definition in C Programming Language :
+         ==================================================================
+        ____________________________________________________
+       |    return_type function_name( parameter list ) {   |
+       |       body of the function                         |
+       |    }                                               |
+       |____________________________________________________| 
+              
+              +  Function Definition : 
+                ````````````````````````````
+                  
+                                                                                                 +  All The Parts Of a Function :
+                ```````````````````````````````
+                * Return Type -
+                * Function Name -
+                * Parameters -
+                * Function Body -
+              
+    B.  Function Declarations :
+       `````````````````````````
+              *  A Function Declaration has the following Parts −
+                ______________________________________________
+               | return_type function_name( parameter list ); |
+               |______________________________________________|
+                
+ *  For the above defined function max(), the function declaration is as follows −
+               ________________________________
+              |  int max(int num1, int num2);  |    
+              |________________________________|
+
+   * Parameter Names are not important in Function Declaration only their
+     Type is required, so the following is also a Valid Declaration −
+              _____________________
+             |  int max(int, int); |
+             |_____________________|
+
+              Example Of Function :
+             -----------------------  
+        ____________________________________________________
+       |    return_type function_name( parameter list ) {   |
+       |       body of the function                         |
+       |    }                                               |
+       |____________________________________________________| 
+      
+     C.  Calling a Function :
+        `````````````````````` 
+
+     D.  Function Arguments :
+        ``````````````````````
+        While calling a Function, there are Two Ways in 
+        which Arguments can be Passed to a Function − 
+             * Call by Value
+             * Call by Reference  
+        
+        By default, C uses "call by value" to pass arguments.
+__________________________________________________
+     C - Functions                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Functions
+                                                                                        
+2) Definition of C - Functions ?
+--------------------------------
+*
+ 
+3) What is C - Functions About ?
+--------------------------------
+*
+*
+
+4) What does C - Functions Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Functions :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Functions :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Functions :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+              +  Function Definition : 
+                ``````````````````````````
+
+   +  <<<<<<<<< Function Definition >>>>>>>>>
+__________________________________________________
+         Function Definition                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Function Definition
+                                                                                        
+2) Definition of Function Definition ?
+--------------------------------------
+*
+ 
+3) What is Function Definition About ?
+--------------------------------------
+*
+*
+
+4) What does Function Definition Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Function Definition :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Function Definition :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Function Definition :
+------------------------------------
+*
+*
+________________________________________________________________________________
+
+              +  All The Parts Of a Function :
+                ```````````````````````````````
+                * Return Type -
+                * Function Name -
+                * Parameters -
+                * Function Body -
+
+        +  <<<<<<<<< All The Parts Of a Function >>>>>>>>>
+__________________________________________________
+         All The Parts Of a Function              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* All The Parts Of a Function
+                                                                                        
+2) Definition of All The Parts Of a Function ?
+----------------------------------------------
+*
+ 
+3) What is All The Parts Of a Function About ?
+----------------------------------------------
+*
+*
+
+4) What does All The Parts Of a Function Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of All The Parts Of a Function :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of All The Parts Of a Function :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of All The Parts Of a Function :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+           *  <<<<<<<<< Return Type >>>>>>>>>
+__________________________________________________
+     Return Type                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Return Type
+                                                                                        
+2) Definition of Return Type ?
+------------------------------
+*
+ 
+3) What is Return Type About ?
+------------------------------
+*
+*
+
+4) What does Return Type Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Return Type :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Return Type :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Return Type :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+                *  <<<<<<<<< Function Name >>>>>>>>>
+__________________________________________________
+     Function Name                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Function Name
+                                                                                        
+2) Definition of Function Name ?
+--------------------------------
+*
+ 
+3) What is Function Name About ?
+--------------------------------
+*
+*
+
+4) What does Function Name Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Function Name :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Function Name :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Function Name :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+              * <<<<<<<<< Parameters  >>>>>>>>>
+__________________________________________________
+     Parameters                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Parameters 
+                                                                                        
+2) Definition of Parameters ?
+-----------------------------
+*
+ 
+3) What is Parameters About ?
+-----------------------------
+*
+*
+
+4) What does Parameters Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Parameters :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Parameters :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Parameters :
+---------------------------
+*
+*
+_______________________________________________________________________________
+
+                * <<<<<<<<< Function Body >>>>>>>>>
+__________________________________________________
+       Function Body                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Function Body
+                                                                                        
+2) Definition of Function Body ?
+--------------------------------
+*
+ 
+3) What is Function Body About ?
+--------------------------------
+*
+*
+
+4) What does Function Body Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Function Body :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Function Body :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Function Body :
+------------------------------
+*
+*
+____________________________________________________________________________
+
+ B.  <<<<<<<<< Function Declarations >>>>>>>>>
+
+__________________________________________________
+       Function Declarations                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Function Declarations
+                                                                                        
+2) Definition of Function Declarations ?
+----------------------------------------
+*
+ 
+3) What is Function Declarations About ?
+----------------------------------------
+*
+*
+
+4) What does Function Declarations Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Function Declarations :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Function Declarations :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Function Declarations :
+--------------------------------------
+*
+*
+________________________________________________________________________________
+
+              Example Of Function :
+             -----------------------
+    <<<<<<<<< Example Of Function >>>>>>>>>
+__________________________________________________
+       Example Of Function                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Function Declarations
+                                                                                        
+2) Definition of Example Of Function ?
+--------------------------------------
+*
+ 
+3) What is Example Of Function About ?
+--------------------------------------
+*
+*
+
+4) What does Example Of Function Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Example Of Function :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Example Of Function :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Example Of Function :
+------------------------------------
+*
+*
+______________________________________________________________________________
+
+     D.  Function Arguments :
+        ``````````````````````
+    
+          <<<<<<<<< Function Arguments >>>>>>>>>
+__________________________________________________
+       Function Arguments                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Function Arguments
+                                                                                        
+2) Definition of Function Arguments ?
+-------------------------------------
+*
+ 
+3) What is Function Arguments About ?
+-------------------------------------
+*
+*
+
+4) What does Function Arguments Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Function Arguments :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Function Arguments :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Function Arguments :
+-----------------------------------
+*
+*
+______________________________________________________________________________

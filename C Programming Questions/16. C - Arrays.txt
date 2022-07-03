@@ -1,0 +1,422 @@
+
+ 16. <<<<<<<<< C - Arrays >>>>>>>>>
+         
+      A.  Declaring Arrays :
+          ```````````````````
+
+      B.  Initializing Arrays :
+          ``````````````````````
+
+      C.  Accessing Array Elements :
+          ``````````````````````````
+
+      D.  Arrays in Detail :
+          ```````````````````
+            *  Multi-dimensional arrays :
+            *  Passing arrays to functions :
+            *  Return array from a function :
+            *  Pointer to an array :
+__________________________________________________
+       C - Arrays                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Arrays
+                                                                                        
+2) Definition of C - Arrays ?
+-----------------------------
+*
+ 
+3) What is C - Arrays About ?
+------------------------------
+*
+*
+
+4) What does C - Arrays Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of C - Arrays :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Arrays :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of C - Arrays :
+---------------------------
+*
+*
+_______________________________________________________________________________
+
+      A.  Declaring Arrays :
+          ```````````````````
+
+  <<<<<<<<< Declaring Arrays >>>>>>>>>
+__________________________________________________
+         Declaring Arrays                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Declaring Arrays
+                                                                                        
+2) Definition of Declaring Arrays ?
+-----------------------------------
+*
+ 
+3) What is Declaring Arrays About ?
+-----------------------------------
+*
+*
+
+4) What does Declaring Arrays Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Declaring Arrays :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Declaring Arrays :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Declaring Arrays :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+      B.  Initializing Arrays :
+          ``````````````````````
+           <<<<<<<<< Initializing Arrays >>>>>>>>>
+__________________________________________________
+     Initializing Arrays                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Initializing Arrays
+                                                                                        
+2) Definition of Initializing Arrays ?
+--------------------------------------
+*
+ 
+3) What is Initializing Arrays About ?
+--------------------------------------
+*
+*
+
+4) What does Initializing Arrays Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Initializing Arrays :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Initializing Arrays :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Initializing Arrays :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+      C.  Accessing Array Elements :
+          ``````````````````````````
+           <<<<<<<<< Accessing Array Elements >>>>>>>>>
+__________________________________________________
+     Accessing Array Elements                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Accessing Array Elements
+                                                                                        
+2) Definition of Accessing Array Elements ?
+-------------------------------------------
+*
+ 
+3) What is Accessing Array Elements About ?
+-------------------------------------------
+*
+*
+
+4) What does Accessing Array Elements Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Accessing Array Elements :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Accessing Array Elements :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Accessing Array Elements :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+      D.  Arrays in Detail :
+          ```````````````````
+            *  Multi-dimensional arrays :
+            *  Passing arrays to functions :
+            *  Return array from a function :
+            *  Pointer to an array :
+
+          <<<<<<<<< Arrays in Detail >>>>>>>>>
+__________________________________________________
+     Arrays in Detail                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Arrays in Detail
+                                                                                        
+2) Definition of Arrays in Detail ?
+-----------------------------------
+*
+ 
+3) What is Arrays in Detail About ?
+-----------------------------------
+*
+*
+
+4) What does Arrays in Detail Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Arrays in Detail :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Arrays in Detail :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Arrays in Detail :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+            *  Multi-dimensional arrays :
+            *  Passing arrays to functions :
+            *  Return array from a function :
+            *  Pointer to an array :
+
+        * <<<<<<<<< Multi-dimensional arrays >>>>>>>>>
+__________________________________________________
+         Multi-dimensional arrays                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Multi-dimensional arrays
+                                                                                        
+2) Definition of Multi-dimensional arrays ?
+-------------------------------------------
+*
+ 
+3) What is Multi-dimensional arrays About ?
+-------------------------------------------
+*
+*
+
+4) What does Multi-dimensional arrays Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Multi-dimensional arrays :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multi-dimensional arrays :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Multi-dimensional arrays :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+           * <<<<<<<<<  Passing arrays to functions  >>>>>>>>>
+__________________________________________________
+     Passing arrays to functions                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Passing arrays to functions
+                                                                                        
+2) Definition of Passing arrays to functions ?
+----------------------------------------------
+*
+ 
+3) What is Passing arrays to functions About ?
+----------------------------------------------
+*
+*
+
+4) What does Passing arrays to functions Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Passing arrays to functions :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Passing arrays to functions :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Passing arrays to functions :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+          * <<<<<<<<< Return array from a function >>>>>>>>>
+__________________________________________________
+     Return array from a function                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Return array from a function
+                                                                                        
+2) Definition of Return array from a function ?
+-----------------------------------------------
+*
+ 
+3) What is Return array from a function About ?
+-----------------------------------------------
+*
+*
+
+4) What does Return array from a function Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Return array from a function :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Return array from a function :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Return array from a function :
+---------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+           *  <<<<<<<<< Pointer to an array >>>>>>>>>
+__________________________________________________
+     Pointer to an array                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pointer to an array
+                                                                                        
+2) Definition of Pointer to an array ?
+--------------------------------------
+*
+ 
+3) What is Pointer to an array About ?
+--------------------------------------
+*
+*
+
+4) What does Pointer to an array Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pointer to an array :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pointer to an array :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pointer to an array :
+------------------------------------
+*
+*
+_______________________________________________________________________________

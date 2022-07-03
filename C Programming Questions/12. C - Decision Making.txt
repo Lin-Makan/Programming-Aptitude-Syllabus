@@ -1,0 +1,328 @@
+ 
+
+12. <<<<<<<<< C - Decision Making >>>>>>>>>
+          
+       A.  if statement
+ 
+       B.  if...else statement
+
+       C.  nested if statement
+
+       D.  switch statement
+
+       E.  nested switch statements
+
+       F.  The ? : Operator
+     
+    
+__________________________________________________
+     C - Decision Making                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Decision Making
+                                                                                        
+2) Definition of C - Decision Making ?
+--------------------------------------
+*
+ 
+3) What is C - Decision Making About ?
+--------------------------------------
+*
+*
+
+4) What does C - Decision Making Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Decision Making :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Decision Making :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Decision Making :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+       A.  if statement
+ 
+       B.  if...else statement
+
+       C.  nested if statement
+
+       D.  switch statement
+
+       E.  nested switch statements
+
+       F.  The ? : Operator
+
+      A. <<<<<<<<< if statement >>>>>>>>>
+__________________________________________________
+        if statement                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* if statement
+                                                                                        
+2) Definition of if statement ?
+-------------------------------
+*
+ 
+3) What is if statement About ?
+-------------------------------
+*
+*
+
+4) What does if statement Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of if statement :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of if statement :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of if statement :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+            B. <<<<<<<<< if...else statement >>>>>>>>>
+__________________________________________________
+       if...else statement                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* if...else statement
+                                                                                        
+2) Definition of if...else statement ?
+--------------------------------------
+*
+ 
+3) What is if...else statement About ?
+--------------------------------------
+*
+*
+
+4) What does if...else statement Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of if...else statement :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of if...else statement :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of if...else statement :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+          C. <<<<<<<<< nested if statement >>>>>>>>>
+__________________________________________________
+     nested if statement                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* nested if statement
+                                                                                        
+2) Definition of nested if statement ?
+--------------------------------------
+*
+ 
+3) What is nested if statement About ?
+--------------------------------------
+*
+*
+
+4) What does nested if statement Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of nested if statement :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of nested if statement :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of nested if statement :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+           D. <<<<<<<<< switch statement >>>>>>>>>
+__________________________________________________
+     switch statement                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* switch statement
+                                                                                        
+2) Definition of switch statement ?
+-----------------------------------
+*
+ 
+3) What is switch statement About ?
+-----------------------------------
+*
+*
+
+4) What does switch statement Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of switch statement :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of switch statement :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of switch statement :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+            E. <<<<<<<<< nested switch statements >>>>>>>>>
+__________________________________________________
+      nested switch statements                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* nested switch statements
+                                                                                        
+2) Definition of nested switch statements ?
+-------------------------------------------
+*
+ 
+3) What is nested switch statements About ?
+-------------------------------------------
+*
+*
+
+4) What does nested switch statements Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of nested switch statements :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of nested switch statements :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of nested switch statements :
+-----------------------------------------
+*
+*
+_______________________________________________________________________
+
+            F. <<<<<<<<< The ? : Operator >>>>>>>>>
+__________________________________________________
+         The ? : Operator                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The ? : Operator 
+                                                                                        
+2) Definition of The ? : Operator Do ?
+--------------------------------------
+*
+ 
+3) What is ? : About ?
+----------------------
+*
+*
+
+4) What does The ? : Operator Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of ? : Operator :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of ? : Operator :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of The ? : Operator -
+---------------------------------
+*
+*
+_________________________________________________________________________________

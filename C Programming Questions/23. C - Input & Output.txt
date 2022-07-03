@@ -1,0 +1,424 @@
+
+ 23. <<<<<<<<< C - Input & Output >>>>>>>>>
+         
+      A.  Input :
+          `````````
+      B.  Output :
+          `````````
+      C.  The Standard Files :
+          `````````````````````
+      D.  The getchar() and putchar() Functions :
+          `````````````````````````````````````````
+             * int getchar(void)
+             * int putchar(int c)
+     
+      E.  The gets() and puts() Functions :
+          ``````````````````````````````````
+             * char *gets(char *s)
+             * int puts(const char *s)
+      
+      F.  The scanf() and printf() Functions :
+          `````````````````````````````````````
+             * int scanf(const char *format, ...) 
+             * int printf(const char *format, ...)
+__________________________________________________
+       C - Input & Output                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Input & Output
+                                                                                        
+2) Definition of C - Input & Output ?
+-------------------------------------
+*
+ 
+3) What is C - Input & Output About ?
+-------------------------------------
+*
+*
+
+4) What does C - Input & Output Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Input & Output :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Input & Output :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Input & Output :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+      A.  Input :
+          `````````
+      B.  Output :
+          `````````
+      C.  The Standard Files :
+          `````````````````````
+
+            A. <<<<<<<<< Input >>>>>>>>>
+__________________________________________________
+         Input                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Input
+                                                                                        
+2) Definition of Input ?
+------------------------
+*
+ 
+3) What is Input About ?
+------------------------
+*
+*
+
+4) What does Input Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of Input :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Input :
+------------------------------------
+*
+*
+*  
+
+7) Examples of Input :
+----------------------
+*
+*
+_______________________________________________________________________________
+
+            B. <<<<<<<<< Output >>>>>>>>>
+__________________________________________________
+     Output                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Output
+                                                                                        
+2) Definition of Output ?
+-------------------------
+*
+ 
+3) What is Output About ?
+-------------------------
+*
+*
+
+4) What does Output Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of Output :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Output :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of Output :
+-----------------------
+*
+*
+_______________________________________________________________________________
+
+             C. <<<<<<<<< The Standard Files >>>>>>>>>
+__________________________________________________
+     The Standard Files                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Standard Files
+                                                                                        
+2) Definition of The Standard Files ?
+-------------------------------------
+*
+ 
+3) What is The Standard Files About ?
+-------------------------------------
+*
+*
+
+4) What does The Standard Files Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Standard Files :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Standard Files :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Standard Files :
+-----------------------------------
+*
+*
+_______________________________________________________________________________ 
+
+      D.  The getchar() and putchar() Functions :
+          `````````````````````````````````````````
+             * int getchar(void)
+             * int putchar(int c)
+
+            D. <<<<<<<<< The getchar() and putchar() Functions >>>>>>>>>
+__________________________________________________
+         getchar() and putchar() Functions        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* getchar() and putchar() Functions
+                                                                                        
+2) Definition of getchar() and putchar() Functions ?
+----------------------------------------------------
+*
+ 
+3) What is getchar() and putchar() Functions About ?
+----------------------------------------------------
+*
+*
+
+4) What does getchar() and putchar() Functions Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of getchar() and putchar() Functions :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of getchar() and putchar() Functions :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of getchar() and putchar() Functions :
+--------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+            <<<<<<<<< getchar() Function >>>>>>>>>
+__________________________________________________
+     getchar() Function                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* getchar() Function
+                                                                                        
+2) Definition of getchar() ?
+----------------------------
+*
+ 
+3) What is getchar() About ?
+----------------------------
+*
+*
+
+4) What does getchar() Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of getchar() :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of getchar() :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of getchar() :
+--------------------------
+*
+*
+_______________________________________________________________________________
+
+        <<<<<<<<< putchar() Function >>>>>>>>>
+__________________________________________________
+     putchar() Function                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* putchar() Function
+                                                                                        
+2) Definition of putchar() Function ?
+-------------------------------------
+*
+ 
+3) What is putchar() Function About ?
+-------------------------------------
+*
+*
+
+4) What does putchar() Function Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of putchar() Function :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of putchar() Function :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of putchar() Function :
+-----------------------------------
+*
+*
+_____________________________________________________________________________
+
+
+             * int getchar(void)
+             * int putchar(int c)
+
+        * <<<<<<<<< int getchar(void) >>>>>>>>>
+__________________________________________________
+     int getchar(void)                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* int getchar(void)
+                                                                                        
+2) Definition of int getchar(void) ?
+------------------------------------
+*
+ 
+3) What is int getchar(void) About ?
+------------------------------------
+*
+*
+
+4) What does int getchar(void) Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of int getchar(void) :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of int getchar(void) :
+------------------------------------------------
+*
+* 
+*  
+
+7) Examples of int getchar(void) :
+----------------------------------
+*
+*
+_______________________________________________________________________________ 
+
+           * <<<<<<<<< int putchar(int c) >>>>>>>>>
+__________________________________________________
+     int putchar(int c)                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* int putchar(int c)
+                                                                                        
+2) Definition of int putchar(int c) ?
+-------------------------------------
+*
+ 
+3) What is int putchar(int c) About ?
+-------------------------------------
+*
+*
+
+4) What does int putchar(int c) Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of int putchar(int c) :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of int putchar(int c) :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of int putchar(int c) :
+-----------------------------------
+*
+*
+_______________________________________________________________________________

@@ -1,0 +1,291 @@
+
+4.  C - Environment Setup :
+    ~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 4. <<<<<<<<< C - Environment Setup >>>>>>>>>
+     
+     A. Text Editor :
+     `````````````````
+       *
+       *
+       *
+     
+     B. The C Compiler : 
+     ```````````````````` 
+       *
+       *  
+       *
+     
+     C. Installation on UNIX/Linux :
+     ````````````````````````````````
+      *
+      *
+      *
+      
+     D. Installation on Mac OS :
+     ````````````````````````````
+      *
+      *
+      *
+
+     E. Installation on Windows :
+     `````````````````````````````
+       *
+       *
+       *
+__________________________________________________
+     C - Environment Setup                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Environment Setup
+                                                                                        
+2) Definition of C - Environment Setup ?
+----------------------------------------
+*
+ 
+3) What is C - Environment Setup About ?
+----------------------------------------
+*
+*
+
+4) What does C - Environment Setup Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Environment Setup :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Environment Setup :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Environment Setup :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ A. <<<<<<<<< Text Editor >>>>>>>>>
+__________________________________________________
+        Text Editor                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Text Editor
+                                                                                        
+2) Definition of Text Editor ?
+------------------------------
+*
+ 
+3) What is Text Editor About ?
+------------------------------
+*
+*
+
+4) What does Text Editor Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Text Editor :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Text Editor :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Text Editor :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+ B. <<<<<<<<< The C Compiler >>>>>>>>>
+__________________________________________________
+     The C Compiler                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The C Compiler
+                                                                                        
+2) Definition of The C Compiler ?
+---------------------------------
+*
+ 
+3) What is The C Compiler About ?
+---------------------------------
+*
+*
+
+4) What does The C Compiler Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of The C Compiler :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The C Compiler :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of The C Compiler :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+
+ C. <<<<<<<<<  Installation on UNIX/Linux  >>>>>>>>>
+__________________________________________________
+     Installation on UNIX/Linux                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Installation on UNIX/Linux
+                                                                                        
+2) Definition of Installation on UNIX/Linux ?
+---------------------------------------------
+*
+ 
+3) What is Installation on UNIX/Linux About ?
+---------------------------------------------
+*
+*
+
+4) What does Installation on UNIX/Linux Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Installation on UNIX/Linux :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Installation on UNIX/Linux :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Installation on UNIX/Linux :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ D. <<<<<<<<< Installation on Mac OS >>>>>>>>>
+__________________________________________________
+     Installation on Mac OS                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Installation on Mac OS
+                                                                                        
+2) Definition of Installation on Mac OS ?
+-----------------------------------------
+*
+ 
+3) What is Installation on Mac OS About ?
+-----------------------------------------
+*
+*
+
+4) What does Installation on Mac OS Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Installation on Mac OS :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Installation on Mac OS :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Installation on Mac OS :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+  E. <<<<<<<<< Installation on Windows >>>>>>>>>
+__________________________________________________
+      Installation on Windows                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Installation on Windows
+                                                                                        
+2) Definition of Installation on Windows ?
+------------------------------------------
+*
+ 
+3) What is Installation on Windows About ?
+------------------------------------------
+*
+*
+
+4) What does Installation on Windows Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Installation on Windows :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Installation on Windows :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Installation on Windows :
+----------------------------------------
+*
+*
+_________________________________________________________________________________

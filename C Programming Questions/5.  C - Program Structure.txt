@@ -1,0 +1,583 @@
+
+5.  C - Program Structure :
+    ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 5. <<<<<<<<< C - Program Structure >>>>>>>>>
+       
+  A.  Hello World Example :
+     `````````````````````````
+       ______________________________________
+      |                                      | 
+      |    #include <stdio.h>                |
+      |                                      |
+      |    int main() {                      |
+      |      /* my first program in C */     |  
+      |      printf("Hello, World! \n");     |
+      |                                      |
+      |      return 0;                       |
+      |   }                                  |
+      |______________________________________|
+       
+  B.  C Program Basically Consists of the Following Parts :
+     ````````````````````````````````````````````````````````
+       + Preprocessor Commands :
+       + Functions :
+       + Variables :
+       + Statements & Expressions :
+       + Comments :
+     
+  C.  Various Parts of the Above Program :
+     ```````````````````````````````````````
+       +  #include <stdio.h>   First Line is a Preprocessor Command 
+       +  int main()           Next Line is the Main Function
+       +  /*...*/              Next Line ignored by the Compiler
+       +  printf(...)          Next line is a Function for Message Display
+       +  return 0;            Next line, Terminates the main() Function
+   
+  D.  Compile and Execute C Program :
+     `````````````````````````````````
+      * How to Save the Source Code in a file, Compile and Run it :
+      ``````````````````````````````````````````````````````````````
+        +
+        +
+        +
+        +
+        + 
+        + 
+        + 
+     
+     * The Output :
+     ```````````````
+      + 
+__________________________________________________
+      C - Program Structure                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Program Structure
+                                                                                        
+2) Definition of C - Program Structure ?
+----------------------------------------
+*
+ 
+3) What is C - Program Structure About ?
+----------------------------------------
+*
+*
+
+4) What does C - Program Structure Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Program Structure :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Program Structure :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Program Structure :
+--------------------------------------
+*
+*
+____________________________________________________________________________
+
+  B.  C Program Basically Consists of the Following Parts :
+     ````````````````````````````````````````````````````````
+       + Preprocessor Commands :
+       + Functions :
+       + Variables :
+       + Statements & Expressions :
+       + Comments :
+
+   \\\\\\\ Preprocessor Commands /////////
+__________________________________________________
+         Preprocessor Commands                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Preprocessor Commands
+                                                                                        
+2) Definition of Preprocessor Commands ?
+----------------------------------------
+*
+ 
+3) What is Preprocessor Commands About ?
+----------------------------------------
+*
+*
+
+4) What does Preprocessor Commands Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Preprocessor Commands :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Preprocessor Commands :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Preprocessor Commands :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+  \\\\\\\\  Functions  /////////
+__________________________________________________
+     Functions                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Functions
+                                                                                        
+2) Definition of Functions ?
+----------------------------
+*
+ 
+3) What is Functions About ?
+----------------------------
+*
+*
+
+4) What does Functions Do ?
+---------------------------
+* 
+*
+
+5) Advantages/Benefits of Functions :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Functions :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Functions :
+--------------------------
+*
+*
+_______________________________________________________________________________
+
+   \\\\\\\ Variables ///////
+__________________________________________________
+     Variables                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Variables
+                                                                                        
+2) Definition of Variables ?
+----------------------------
+*
+ 
+3) What is Variables About ?
+----------------------------
+*
+*
+
+4) What does Variables Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Variables :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Variables :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Variables :
+--------------------------
+*
+*
+_______________________________________________________________________________
+
+   \\\\\\ Statements & Expressions ///////
+__________________________________________________
+     Statements & Expressions                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Statements & Expressions
+                                                                                        
+2) Definition of Statements & Expressions ?
+-------------------------------------------
+*
+ 
+3) What is Statements & Expressions About ?
+-------------------------------------------
+*
+*
+
+4) What does Statements & Expressions Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Statements & Expressions :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Statements & Expressions :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Statements & Expressions :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+   \\\\\\ Comments ///////
+__________________________________________________
+      Comments                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Comments
+                                                                                        
+2) Definition of Comments ?
+---------------------------
+*
+ 
+3) What is Comments About ?
+---------------------------
+*
+*
+
+4) What does Comments Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Comments :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Comments :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Comments :
+-------------------------
+*
+*
+______________________________________________________________________________
+
+   C.  Various Parts of the Above Program :
+     ```````````````````````````````````````
+       +  #include <stdio.h>   First Line is a Preprocessor Command 
+       +  int main()           Next Line is the Main Function
+       +  /*...*/              Next Line ignored by the Compiler
+       +  printf(...)          Next line is a Function for Message Display
+       +  return 0;            Next line, Terminates the main() Function
+
+   \\\\\\\ #include <stdio.h> /////////
+__________________________________________________
+         #include <stdio.h>                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* #include <stdio.h>
+                                                                                        
+2) Definition of #include <stdio.h> ?
+-------------------------------------
+*
+ 
+3) What is #include <stdio.h> About ?
+-------------------------------------
+*
+*
+
+4) What does #include <stdio.h> Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of #include <stdio.h> :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of #include <stdio.h> :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of #include <stdio.h> :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+  \\\\\\\\  int main()  /////////
+__________________________________________________
+     int main()                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* int main()
+                                                                                        
+2) Definition of int main() ?
+-----------------------------
+*
+ 
+3) What is int main() About ?
+-----------------------------
+*
+*
+
+4) What does int main() Do ?
+----------------------------
+* 
+*
+
+5) Advantages/Benefits of int main() :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of int main() :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of int main() :
+---------------------------
+*
+*
+_______________________________________________________________________________
+
+   \\\\\\\ /*...*/ ///////
+__________________________________________________
+     /*...*/                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* /*...*/
+                                                                                        
+2) Definition of /*...*/ ?
+--------------------------
+*
+ 
+3) What is /*...*/ About ?
+--------------------------
+*
+*
+
+4) What does /*...*/ Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of /*...*/ :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of /*...*/ :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of /*...*/ :
+------------------------
+*
+*
+_______________________________________________________________________________
+
+   \\\\\\ printf(...) ///////
+__________________________________________________
+     printf(...)                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* printf(...)
+                                                                                        
+2) Definition of printf(...) ?
+------------------------------
+*
+ 
+3) What is printf(...) About ?
+------------------------------
+*
+*
+
+4) What does printf(...) Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of printf(...) :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of printf(...) :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of printf(...) :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+   \\\\\\ return 0; ///////
+__________________________________________________
+      return 0;                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* return 0;
+                                                                                        
+2) Definition of return 0; ?
+----------------------------
+*
+ 
+3) What is return 0; About ?
+----------------------------
+*
+*
+
+4) What does return 0; Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of return 0; :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of return 0; :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of return 0; :
+--------------------------
+*
+*
+______________________________________________________________________________
+         
+  D.  Compile and Execute C Program :
+     ```````````````````````````````````
+  \\\\\\ Compile and Execute C Program //////
+__________________________________________________
+     Compile and Execute C Program                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Compile and Execute C Program
+                                                                                        
+2) Definition of Compile and Execute C Program ?
+------------------------------------------------
+*
+ 
+3) What is Compile and Execute C Program About ?
+------------------------------------------------
+*
+*
+
+4) What does Compile and Execute C Program Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Compile and Execute C Program :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Compile and Execute C Program :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Compile and Execute C Program :
+----------------------------------------------
+*
+*
+__________________________________________________________________________________

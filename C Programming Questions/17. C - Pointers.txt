@@ -1,0 +1,473 @@
+
+ 17. <<<<<<<<< C - Pointers >>>>>>>>>
+         
+      A.  What are Pointers ?
+          ````````````````````
+           - Valid Pointer Declarations -
+      
+      B.  How to Use Pointers ?
+          ``````````````````````
+      
+      C.  NULL Pointers :
+          ````````````````
+
+      D.  Pointers in Detail :
+          `````````````````````
+            * Pointer arithmetic :                
+            * Array of pointers :
+            * Pointer to pointer :
+            * Passing pointers to functions in C :
+            * Return pointer from functions in C :
+__________________________________________________
+     C - Pointers                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Pointers
+                                                                                        
+2) Definition of C - Pointers ?
+-------------------------------
+*
+ 
+3) What is C - Pointers About ?
+-------------------------------
+*
+*
+
+4) What does C - Pointers Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Pointers :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Pointers :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Pointers :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+      A.  What are Pointers ?
+          ````````````````````
+           - Valid Pointer Declarations -
+
+        <<<<<<<<< Valid Pointer Declarations >>>>>>>>>
+__________________________________________________
+         Valid Pointer Declarations               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Valid Pointer Declarations
+                                                                                        
+2) Definition of Valid Pointer Declarations ?
+---------------------------------------------
+*
+ 
+3) What is Valid Pointer Declarations About ?
+---------------------------------------------
+*
+*
+
+4) What does Valid Pointer Declarations Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Valid Pointer Declarations :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Valid Pointer Declarations :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Valid Pointer Declarations :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+      B.  How to Use Pointers ?
+          ``````````````````````
+
+       <<<<<<<<< How to Use Pointers >>>>>>>>>
+__________________________________________________
+         How to Use Pointers                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* How to Use Pointers
+                                                                                        
+2) Definition of How to Use Pointers ?
+--------------------------------------
+*
+ 
+3) What is How to Use Pointers About ?
+--------------------------------------
+*
+*
+
+4) What does How to Use Pointers Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of How to Use Pointers :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of How to Use Pointers :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of How to Use Pointers :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+      C.  NULL Pointers :
+          ````````````````
+       <<<<<<<<< NULL Pointers >>>>>>>>>
+__________________________________________________
+         NULL Pointers                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* NULL Pointers
+                                                                                        
+2) Definition of NULL Pointers ?
+--------------------------------
+*
+ 
+3) What is NULL Pointers About ?
+--------------------------------
+*
+*
+
+4) What does NULL Pointers Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of NULL Pointers :
+-----------------------------------------
+*
+* 
+*
+
+6) Disadvantages/Drawback of NULL Pointers :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of NULL Pointers :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+      D.  Pointers in Detail :
+          `````````````````````
+            * Pointer arithmetic :                
+            * Array of pointers :
+            * Pointer to pointer :
+            * Passing pointers to functions in C :
+            * Return pointer from functions in C :
+
+         D. <<<<<<<<< Pointers in Detail >>>>>>>>>
+__________________________________________________
+         Pointers in Detail                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pointers in Detail
+                                                                                        
+2) Definition of Pointers in Detail ?
+-------------------------------------
+*
+ 
+3) What is Pointers in Detail About ?
+-------------------------------------
+*
+*
+
+4) What does Pointers in Detail Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pointers in Detail :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pointers in Detail :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pointers in Detail :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+         * <<<<<<<<< Pointer arithmetic >>>>>>>>>
+__________________________________________________
+     Pointer arithmetic                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pointer arithmetic
+                                                                                        
+2) Definition of Pointer arithmetic ?
+-------------------------------------
+*
+ 
+3) What is Pointer arithmetic About ?
+-------------------------------------
+*
+*
+
+4) What does Pointer arithmetic Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pointer arithmetic :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pointer arithmetic :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pointer arithmetic :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+             * <<<<<<<<< Array of pointers >>>>>>>>>
+__________________________________________________
+     Array of pointers                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Array of pointers
+                                                                                        
+2) Definition of Array of pointers ?
+------------------------------------
+*
+ 
+3) What is Array of pointers About ?
+------------------------------------
+*
+*
+
+4) What does Array of pointers Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Array of pointers :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Array of pointers :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Array of pointers :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+              *  <<<<<<<<< Pointer to pointer >>>>>>>>>
+__________________________________________________
+     Pointer to pointer                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pointer to pointer
+                                                                                        
+2) Definition of Pointer to pointer ?
+-------------------------------------
+*
+ 
+3) What is Pointer to pointer About ?
+-------------------------------------
+*
+*
+
+4) What does Pointer to pointer Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pointer to pointer :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pointer to pointer :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pointer to pointer :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+          * <<<<<<<<< Passing pointers to functions in C >>>>>>>>>
+__________________________________________________
+      Passing pointers to functions in C          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Passing pointers to functions in C
+                                                                                        
+2) Definition of Passing pointers to functions in C ?
+-----------------------------------------------------
+*
+ 
+3) What is Passing pointers to functions in C About ?
+-----------------------------------------------------
+*
+*
+
+4) What does Passing pointers to functions in C Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Passing pointers to functions in C :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Passing pointers to functions in C :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Passing pointers to functions in C :
+---------------------------------------------------
+*
+*
+______________________________________________________________________________
+
+          * <<<<<<<<< Return pointer from functions in C >>>>>>>>>
+__________________________________________________
+      Return pointer from functions in C          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Return pointer from functions in C
+                                                                                        
+2) Definition of Return pointer from functions in C ?
+-----------------------------------------------------
+*
+ 
+3) What is Return pointer from functions in C About ?
+-----------------------------------------------------
+*
+*
+
+4) What does Return pointer from functions in C Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Return pointer from functions in C :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Return pointer from functions in C :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Return pointer from functions in C :
+---------------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+D.  Pointers in Detail :
+    `````````````````````
+            * Pointer arithmetic :                
+            * Array of pointers :
+            * Pointer to pointer :
+            * Passing pointers to functions in C :
+            * Return pointer from functions in C :

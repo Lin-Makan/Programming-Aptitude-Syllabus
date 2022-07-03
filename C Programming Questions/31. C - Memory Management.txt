@@ -1,0 +1,325 @@
+
+ 31. <<<<<<<<< C - Memory Management >>>>>>>>>
+         
+     A.  These Functions can be found in the <stdlib.h> Header File :
+         `````````````````````````````````````````````````````````````
+          * void *calloc(int num, int size);
+          * void free(void *address);
+          * void *malloc(size_t size);
+          * void *realloc(void *address, int newsize);
+     
+     B.  Allocating Memory Dynamically :
+         ````````````````````````````````
+ 
+     C.  Resizing and Releasing Memory :
+         ````````````````````````````````
+__________________________________________________
+     C - Memory Management                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Memory Management
+                                                                                        
+2) Definition of C - Memory Management ?
+----------------------------------------
+*
+ 
+3) What is C - Memory Management About ?
+----------------------------------------
+*
+*
+
+4) What does C - Memory Management Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Memory Management :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Memory Management :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Memory Management :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ A.  These Functions can be found in the <stdlib.h> Header File :
+     ``````````````````````````````````````````````````````````````
+          * void *calloc(int num, int size);
+          * void free(void *address);
+          * void *malloc(size_t size);
+          * void *realloc(void *address, int newsize);
+
+     * <<<<<<<<< void *calloc(int num, int size); >>>>>>>>>
+__________________________________________________
+      void *calloc(int num, int size)             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* void *calloc(int num, int size);
+                                                                                        
+2) Definition of void *calloc(int num, int size); ?
+---------------------------------------------------
+*
+ 
+3) What is void *calloc(int num, int size); About ?
+---------------------------------------------------
+*
+*
+
+4) What does void *calloc(int num, int size); Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of void *calloc(int num, int size); :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of void *calloc(int num, int size); :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of void *calloc(int num, int size); :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+          *  <<<<<<<<< void free(void *address); >>>>>>>>>
+__________________________________________________
+     void free(void *address);                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* void free(void *address);
+                                                                                        
+2) Definition of void free(void *address); ?
+--------------------------------------------
+*
+ 
+3) What is void free(void *address); About ?
+--------------------------------------------
+*
+*
+
+4) What does void free(void *address); Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of void free(void *address); :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of void free(void *address); :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of void free(void *address); :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+       *  <<<<<<<<< void *malloc(size_t size); >>>>>>>>>
+__________________________________________________
+     void *malloc(size_t size);                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* void *malloc(size_t size);
+                                                                                        
+2) Definition of void *malloc(size_t size); ?
+---------------------------------------------
+*
+ 
+3) What is void *malloc(size_t size); About ?
+---------------------------------------------
+*
+*
+
+4) What does void *malloc(size_t size); Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of void *malloc(size_t size); :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of void *malloc(size_t size); :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of void *malloc(size_t size); :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+     * <<<<<<<<< void *realloc(void *address, int newsize); >>>>>>>>>
+__________________________________________________
+     void *realloc(void *address, int newsize);   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* void *realloc(void *address, int newsize);
+                                                                                        
+2) Definition of void *realloc(void *address, int newsize); ?
+-------------------------------------------------------------
+*
+ 
+3) What is void *realloc(void *address, int newsize); About ?
+-------------------------------------------------------------
+*
+*
+
+4) What does void *realloc(void *address, int newsize); Do ?
+------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of void *realloc(void *address, int newsize); :
+----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of void *realloc(void *address, int newsize); :
+-------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of void *realloc(void *address, int newsize); :
+-----------------------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+     B.  Allocating Memory Dynamically :
+         ````````````````````````````````
+          B. <<<<<<<<< Allocating Memory Dynamically >>>>>>>>>
+__________________________________________________
+     Allocating Memory Dynamically                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Allocating Memory Dynamically
+                                                                                        
+2) Definition of Allocating Memory Dynamically ?
+------------------------------------------------
+*
+ 
+3) What is Allocating Memory Dynamically About ?
+------------------------------------------------
+*
+*
+
+4) What does Allocating Memory Dynamically Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Allocating Memory Dynamically :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Allocating Memory Dynamically :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Allocating Memory Dynamically :
+----------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+     C.  Resizing and Releasing Memory :
+         ````````````````````````````````
+         C. <<<<<<<<< Resizing and Releasing Memory >>>>>>>>>
+__________________________________________________
+     Resizing and Releasing Memory                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Resizing and Releasing Memory
+                                                                                        
+2) Definition of Resizing and Releasing Memory ?
+------------------------------------------------
+*
+ 
+3) What is Resizing and Releasing Memory About ?
+------------------------------------------------
+*
+*
+
+4) What does Resizing and Releasing Memory Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Resizing and Releasing Memory :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Resizing and Releasing Memory :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Resizing and Releasing Memory :
+----------------------------------------------
+*
+*
+________________________________________________________________________________

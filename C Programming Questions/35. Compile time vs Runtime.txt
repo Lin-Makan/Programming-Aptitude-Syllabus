@@ -1,0 +1,42 @@
+ 35. <<<<<<<<< Compile time vs Runtime >>>>>>>>>
+__________________________________________________
+      Compile time vs Runtime                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Compile time vs Runtime
+                                                                                        
+2) Definition of Compile time vs Runtime ?
+------------------------------------------
+*
+ 
+3) What is Compile time vs Runtime About ?
+------------------------------------------
+*
+*
+
+4) What does Compile time vs Runtime Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Compile time vs Runtime :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Compile time vs Runtime :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Compile time vs Runtime :
+----------------------------------------
+*
+*
+__________________________________________________________________________________

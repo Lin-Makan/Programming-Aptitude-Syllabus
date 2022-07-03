@@ -1,0 +1,382 @@
+
+ 9. <<<<<<<<< C - Constants >>>>>>>>>
+    <<<<<<<<< C - Constants and Literals >>>>>>>>
+
+      A.  Integer Literals :
+          ```````````````````
+      B.  Floating-point Literals :
+          `````````````````````````` 
+      C.  Character Constants :
+          ``````````````````````
+      D.  String Literals :
+          ``````````````````
+      E.  Defining Constants :
+          `````````````````````
+      F.  The #define Preprocessor :
+          ```````````````````````````
+      G.  The const Keyword :
+          ````````````````````
+__________________________________________________
+     C - Constants and Literals                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Constants
+                                                                                        
+2) Definition of C - Constants ?
+--------------------------------
+*
+ 
+3) What is C - Constants About ?
+--------------------------------
+*
+*
+
+4) What does C - Constants Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Constants :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Constants :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Constants :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+      A.  Integer Literals :
+          ```````````````````
+
+      <<<<<<<<< Integer Literals >>>>>>>>>
+__________________________________________________
+         Integer Literals                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Integer Literals
+                                                                                        
+2) Definition of Integer Literals ?
+-----------------------------------
+*
+ 
+3) What is Integer Literals About ?
+-----------------------------------
+*
+*
+
+4) What does Integer Literals Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Integer Literals :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Integer Literals :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Integer Literals :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+      B.  Floating-point Literals :
+          ``````````````````````````
+
+        <<<<<<<<< Floating-point Literals >>>>>>>>>
+__________________________________________________
+     Floating-point Literals                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Floating-point Literals
+                                                                                        
+2) Definition of Floating-point Literals ?
+------------------------------------------
+*
+ 
+3) What is Floating-point Literals About ?
+------------------------------------------
+*
+*
+
+4) What does Floating-point Literals Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Floating-point Literals :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Floating-point Literals :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Floating-point Literals :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+      C.  Character Constants :
+          ``````````````````````
+
+         <<<<<<<<< Character Constants >>>>>>>>>
+__________________________________________________
+     Character Constants                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Character Constants
+                                                                                        
+2) Definition of Character Constants ?
+--------------------------------------
+*
+ 
+3) What is Character Constants About ?
+--------------------------------------
+*
+*
+
+4) What does Character Constants Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Character Constants :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Character Constants :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Character Constants :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+       D.  String Literals :
+          ``````````````````
+
+     <<<<<<<<< String Literals >>>>>>>>>
+__________________________________________________
+     String Literals                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* String Literals
+                                                                                        
+2) Definition of String Literals ?
+----------------------------------
+*
+ 
+3) What is String Literals About ?
+----------------------------------
+*
+*
+
+4) What does String Literals Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of String Literals :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of String Literals :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of String Literals :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+      E.  Defining Constants :
+          `````````````````````
+
+       <<<<<<<<< Defining Constants >>>>>>>>>
+__________________________________________________
+      Defining Constants                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Defining Constants
+                                                                                        
+2) Definition of Defining Constants ?
+-------------------------------------
+*
+ 
+3) What is Defining Constants About ?
+-------------------------------------
+*
+*
+
+4) What does Defining Constants Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Defining Constants :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Defining Constants :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Defining Constants :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+      F.  The #define Preprocessor :
+          ```````````````````````````
+
+        <<<<<<<<< The #define Preprocessor >>>>>>>>>
+__________________________________________________
+        The #define Preprocessor                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The #define Preprocessor
+                                                                                        
+2) Definition of The #define Preprocessor ?
+-------------------------------------------
+*
+ 
+3) What is The #define Preprocessor About ?
+-------------------------------------------
+*
+*
+
+4) What does The #define Preprocessor Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The #define Preprocessor :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The #define Preprocessor :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The #define Preprocessor :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+
+      G.  The const Keyword :
+          ````````````````````
+
+        <<<<<<<<< The const Keyword >>>>>>>>>
+__________________________________________________
+     The const Keyword                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The const Keyword
+                                                                                        
+2) Definition of The const Keyword ?
+------------------------------------
+*
+ 
+3) What is The const Keyword About ?
+------------------------------------
+*
+*
+
+4) What does The const Keyword Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of The const Keyword :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The const Keyword :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of The const Keyword :
+----------------------------------
+*
+*
+_________________________________________________________________________________

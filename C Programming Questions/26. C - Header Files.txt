@@ -1,0 +1,339 @@
+
+ 26. <<<<<<<<< C - Header Files >>>>>>>>>
+
+      A.  Include Syntax :
+          `````````````````
+           The Preprocessing Directive #include has the following Two Forms −
+             *  #include <file>
+             *  #include "file"
+      
+      B.  Include Operation :
+          ```````````````````` 
+      
+      C.  Once-Only Headers :
+          ````````````````````
+
+      D.  Computed Includes :
+          ````````````````````
+__________________________________________________
+         C - Header Files                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Header Files
+                                                                                        
+2) Definition of C - Header Files ?
+-----------------------------------
+*
+ 
+3) What is C - Header Files About ?
+-----------------------------------
+*
+*
+
+4) What does C - Header Files Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Header Files :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Header Files :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Header Files :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+      A.  Include Syntax :
+          `````````````````
+           The Preprocessing Directive #include has the following Two Forms −
+             *  #include <file>
+             *  #include "file"
+
+         A. <<<<<<<<< Include Syntax >>>>>>>>>
+__________________________________________________
+         Include Syntax                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Include Syntax
+                                                                                        
+2) Definition of Include Syntax ?
+---------------------------------
+*
+ 
+3) What is Include Syntax About ?
+---------------------------------
+*
+*
+
+4) What does Include Syntax Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Include Syntax :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Include Syntax :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Include Syntax :
+-------------------------------
+*
+*
+_________________________________________________________________________________
+
+      Preprocessing Directive #include has the following Two Forms −
+             *  #include <file>
+             *  #include "file"
+
+      *  <<<<<<<<< #include <file> >>>>>>>>>
+__________________________________________________
+     #include <file>                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* #include <file>
+                                                                                        
+2) Definition of #include <file> ?
+----------------------------------
+*
+ 
+3) What is #include <file> About ?
+----------------------------------
+*
+*
+
+4) What does #include <file> Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of #include <file> :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of #include <file> :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of #include <file> :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+         *  <<<<<<<<< #include "file" >>>>>>>>>
+__________________________________________________
+     #include "file"                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* #include "file"
+                                                                                        
+2) Definition of #include "file" ?
+----------------------------------
+*
+ 
+3) What is #include "file" About ?
+----------------------------------
+*
+*
+
+4) What does #include "file" Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of #include "file" :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of #include "file" :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of #include "file" :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+      B.  Include Operation :
+          ```````````````````` 
+      
+      C.  Once-Only Headers :
+          ````````````````````
+
+      D.  Computed Includes :
+          ````````````````````
+
+             B. <<<<<<<<< Include Operation >>>>>>>>>
+__________________________________________________
+         Include Operation                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Include Operation
+                                                                                        
+2) Definition of Include Operation ?
+------------------------------------
+*
+ 
+3) What is Include Operation About ?
+------------------------------------
+*
+*
+
+4) What does Include Operation Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Include Operation :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Include Operation :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Include Operation :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+      C.  Once-Only Headers :
+          ````````````````````
+ C. <<<<<<<<< Once-Only Headers >>>>>>>>>
+__________________________________________________
+     Once-Only Headers                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Once-Only Headers
+                                                                                        
+2) Definition of Once-Only Headers ?
+------------------------------------
+*
+ 
+3) What is Once-Only Headers About ?
+------------------------------------
+*
+*
+
+4) What does Once-Only Headers Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Once-Only Headers :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Once-Only Headers :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Once-Only Headers :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+      D.  Computed Includes :
+          ````````````````````
+          D. <<<<<<<<< Computed Includes >>>>>>>>>
+__________________________________________________
+     Computed Includes                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Computed Includes
+                                                                                        
+2) Definition of Computed Includes ?
+------------------------------------
+*
+ 
+3) What is Computed Includes About ?
+------------------------------------
+*
+*
+
+4) What does Computed Includes Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Computed Includes :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Computed Includes :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Computed Includes :
+----------------------------------
+*
+*
+_______________________________________________________________________________

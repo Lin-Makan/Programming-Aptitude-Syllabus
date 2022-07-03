@@ -1,0 +1,256 @@
+
+10.  C - Storage Classes :
+     ~~~~~~~~~~~~~~~~~~~~~~
+
+      <<<<<<<<< C - Storage Classes >>>>>>>>>
+     
+     A.  Four Different Storage Classes in a C Program −
+         ```````````````````````````````````````````````` 
+          + auto
+          + register
+          + static
+          + extern
+          
+         *  The auto Storage Class :
+            `````````````````````````
+
+         *  The register Storage Class :
+            `````````````````````````````
+
+         *  The static Storage Class :
+            ```````````````````````````
+          
+         *  The extern Storage Class :
+            ````````````````````````````
+__________________________________________________
+      C - Storage Classes                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Storage Classes
+                                                                                        
+2) Definition of C - Storage Classes ?
+--------------------------------------
+*
+ 
+3) What is C - Storage Classes About ?
+--------------------------------------
+*
+*
+
+4) What does C - Storage Classes Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Storage Classes :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Storage Classes :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Storage Classes :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+     A.  Four Different Storage Classes in a C Program −
+         ```````````````````````````````````````````````` 
+          + auto
+          + register
+          + static
+          + extern
+          
+         *  The auto Storage Class :
+            `````````````````````````
+
+         *  The register Storage Class :
+            `````````````````````````````
+
+         *  The static Storage Class :
+            ```````````````````````````
+          
+         *  The extern Storage Class :
+            ````````````````````````````
+
+     <<<<<<<<< auto Storage Class >>>>>>>>>
+__________________________________________________
+         auto Storage Class                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* auto Storage Class
+                                                                                        
+2) Definition of auto Storage Class ?
+-------------------------------------
+*
+ 
+3) What is auto Storage Class About ?
+-------------------------------------
+*
+*
+
+4) What does auto Storage Class Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of auto Storage Class :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of auto Storage Class :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of auto Storage Class :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+       <<<<<<<<< register Storage Class >>>>>>>>>
+__________________________________________________
+     register Storage Class                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* register Storage Class
+                                                                                        
+2) Definition of register Storage Class ?
+-----------------------------------------
+*
+ 
+3) What is register Storage Class About ?
+-----------------------------------------
+*
+*
+
+4) What does register Storage Class Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of register Storage Class :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of register Storage Class :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of register Storage Class :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+        <<<<<<<<< static Storage Class >>>>>>>>>
+__________________________________________________
+     static Storage Class                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* static Storage Class
+                                                                                        
+2) Definition of static Storage Class ?
+---------------------------------------
+*
+ 
+3) What is static Storage Class About ?
+---------------------------------------
+*
+*
+
+4) What does static Storage Class Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of static Storage Class :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of static Storage Class :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of static Storage Class :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+         <<<<<<<<< extern Storage Class >>>>>>>>>
+__________________________________________________
+     extern Storage Class                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* extern Storage Class
+                                                                                        
+2) Definition of extern Storage Class ?
+---------------------------------------
+*
+ 
+3) What is extern Storage Class About ?
+---------------------------------------
+*
+*
+
+4) What does extern Storage Class Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of extern Storage Class :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of extern Storage Class :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of extern Storage Class :
+-------------------------------------
+*
+*
+_______________________________________________________________________________

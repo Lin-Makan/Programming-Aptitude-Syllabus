@@ -1,0 +1,228 @@
+
+
+ 27. <<<<<<<<< C - Type Casting >>>>>>>>>
+      
+      A. cast operator :
+         ````````````````
+
+      B. Integer Promotion :
+         ```````````````````` 
+
+      C. Usual Arithmetic Conversion :
+         ``````````````````````````````
+        + Compiler first Performs Integer Promotion -
+        + If the Operands still have different Types,
+        + then they are Converted to the Type that
+          appears highest in the following hierarchy :
+         __________________________           
+        |      long double         |
+        |           ^              |
+        |         double           |
+        |           ^              |
+        |         float            |
+        |           ^              |
+        |    unsigned long long    |
+        |           ^              |
+        |         long             |
+        |           ^              |
+        |       unsigned int       |
+        |           ^              |
+        |          int             |
+        |__________________________|          
+__________________________________________________
+     C - Type Casting                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Type Casting
+                                                                                        
+2) Definition of C - Type Casting ?
+-----------------------------------
+*
+ 
+3) What is C - Type Casting About ?
+-----------------------------------
+*
+*
+
+4) What does C - Type Casting Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Type Casting :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Type Casting :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Type Casting :
+---------------------------------
+*
+*
+_________________________________________________________________________________
+
+      A. cast operator :
+         ````````````````
+             A. <<<<<<<<< cast operator >>>>>>>>>
+__________________________________________________
+         cast operator                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* cast operator
+                                                                                        
+2) Definition of cast operator ?
+--------------------------------
+*
+ 
+3) What is cast operator About ?
+--------------------------------
+*
+*
+
+4) What does cast operator Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of cast operator :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of cast operator :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of cast operator :
+------------------------------
+*
+*
+__________________________________________________________________________________
+
+          B. Integer Promotion :
+         ```````````````````````` 
+    B. <<<<<<<<< Integer Promotion >>>>>>>>>
+__________________________________________________
+     Integer Promotion                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Integer Promotion
+                                                                                        
+2) Definition of Integer Promotion ?
+------------------------------------
+*
+ 
+3) What is Integer Promotion About ?
+------------------------------------
+*
+*
+
+4) What does Integer Promotion Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Integer Promotion :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Integer Promotion :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Integer Promotion :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+   C. Usual Arithmetic Conversion :
+      ``````````````````````````````
+        + Compiler first Performs Integer Promotion -
+        + If the Operands still have different Types,
+        + then they are Converted to the Type that
+          appears highest in the following hierarchy :
+         __________________________           
+        |      long double         |
+        |           ^              |
+        |         double           |
+        |           ^              |
+        |         float            |
+        |           ^              |
+        |    unsigned long long    |
+        |           ^              |
+        |         long             |
+        |           ^              |
+        |       unsigned int       |
+        |           ^              |
+        |          int             |
+        |__________________________|  
+
+      C. <<<<<<<<< Usual Arithmetic Conversion >>>>>>>>>
+__________________________________________________
+         Usual Arithmetic Conversion              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Usual Arithmetic Conversion
+                                                                                        
+2) Definition of Arithmetic Conversion ?
+----------------------------------------
+*
+ 
+3) What is Arithmetic Conversion About ?
+----------------------------------------
+*
+*
+
+4) What does Arithmetic Conversion Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Arithmetic Conversion :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Arithmetic Conversion :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Arithmetic Conversion :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+        

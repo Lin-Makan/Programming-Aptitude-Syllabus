@@ -1,0 +1,195 @@
+
+ 20. <<<<<<<<< C - Unions >>>>>>>>>
+      
+     A.  Defining a Union :
+         ```````````````````
+         +  Format of the Union Statement :
+            ================================
+
+         +  Union Tag :
+            ============
+         
+     B.  Accessing Union Members :
+         ``````````````````````````    
+__________________________________________________
+      C - Unions                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Unions
+                                                                                        
+2) Definition of C - Unions ?
+-----------------------------
+*
+ 
+3) What is C - Unions About ?
+-----------------------------
+*
+*
+
+4) What does C - Unions Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of C - Unions :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Unions :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of C - Unions :
+---------------------------
+*
+*
+_______________________________________________________________________________
+
+     A.  Defining a Union :
+         ```````````````````
+         +  Format of the Union Statement :
+            ================================
+
+         +  Union Tag :
+            ============
+
+           + <<<<<<<<< Format of the Union Statement >>>>>>>>>
+                       =============================
+__________________________________________________
+         Format of the Union Statement            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Format of the Union Statement
+                                                                                        
+2) Definition of Format of the Union Statement ?
+------------------------------------------------
+*
+ 
+3) What is Format of the Union Statement About ?
+------------------------------------------------
+*
+*
+
+4) What does Format of the Union Statement Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Format of the Union Statement :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Format of the Union Statement :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Format of the Union Statement :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+            *  <<<<<<<<< Union Tag >>>>>>>>>
+                         =========
+__________________________________________________
+     Union Tag                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Union Tag
+                                                                                        
+2) Definition of Union Tag ?
+----------------------------
+*
+ 
+3) What is Union Tag About ?
+----------------------------
+*
+*
+
+4) What does Union Tag Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Union Tag :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Union Tag :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Union Tag :
+--------------------------
+*
+*
+_________________________________________________________________________________
+
+     B.  Accessing Union Members :
+         ``````````````````````````
+             <<<<<<<<< Accessing Union Members >>>>>>>>>
+__________________________________________________
+     Accessing Union Members                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Accessing Union Members
+                                                                                        
+2) Definition of Accessing Union Members ?
+------------------------------------------
+*
+ 
+3) What is Accessing Union Members About ?
+------------------------------------------
+*
+*
+
+4) What does Accessing Union Members Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Accessing Union Members :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Accessing Union Members :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Accessing Union Members :
+----------------------------------------
+*
+*
+_________________________________________________________________________________

@@ -1,0 +1,472 @@
+
+       7.  C - Data Types :
+
+ 7. <<<<<<<<< C - Data Types >>>>>>>>>
+      
+      A. Different Types / Types in C can be Classified as :
+         ````````````````````````````````````````````````````
+             * Basic Types :
+               --------------
+                 1. Integer Types :
+                 2. Floating-Point Types :
+    
+            
+             * Enumerated Types :
+               -------------------
+                
+             * The Void Type :
+               ----------------
+              
+             * Derived Types :
+               ----------------
+                 1. Pointer Types :
+                 2. Array Types :
+                 3. Structure Types :
+                 4. Union Types :
+                 5. Function Types :
+__________________________________________________
+     C - Data Types                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Data Types
+                                                                                        
+2) Definition of C - Data Types ?
+---------------------------------
+*
+ 
+3) What is C - Data Types About ?
+---------------------------------
+*
+*
+
+4) What does C - Data Types Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Data Types :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Data Types :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Data Types :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+      
+               * Basic Types :
+               ----------------
+                 1. Integer Types :
+                 2. Floating-Point Types :
+ 
+   1. <<<<<<<<< Integer Types >>>>>>>>>
+__________________________________________________
+         Integer Types                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Integer Types
+                                                                                        
+2) Definition of Integer Types ?
+--------------------------------
+*
+ 
+3) What is Integer Types About ?
+--------------------------------
+*
+*
+
+4) What does Integer Types Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Integer Types :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Integer Types :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Integer Types :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Floating-Point Types >>>>>>>>>
+__________________________________________________
+     Floating-Point Types                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Floating-Point Types
+                                                                                        
+2) Definition of Floating-Point Types ?
+---------------------------------------
+*
+ 
+3) What is Floating-Point Types About ?
+---------------------------------------
+*
+*
+
+4) What does Floating-Point Types Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Floating-Point Types :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Floating-Point Types :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Floating-Point Types :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+             * Enumerated Types :
+              --------------------
+
+   <<<<<<<<< Enumerated Types >>>>>>>>>
+__________________________________________________
+         Enumerated Types                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Enumerated Types
+                                                                                        
+2) Definition of Enumerated Types ?
+-----------------------------------
+*
+ 
+3) What is Enumerated Types About ?
+-----------------------------------
+*
+*
+
+4) What does Enumerated Types Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Enumerated Types :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Enumerated Types :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Enumerated Types :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+             * The Void Type :
+               ----------------
+       <<<<<<<<< The Void Type >>>>>>>>>
+__________________________________________________
+         The Void Type                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Void Type
+                                                                                        
+2) Definition of The Void Type ?
+--------------------------------
+*
+ 
+3) What is The Void Type About ?
+--------------------------------
+*
+*
+
+4) What does The Void Type Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of The Void Type :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Void Type :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of The Void Type :
+------------------------------
+*
+*
+______________________________________________________________________________
+
+             * Derived Types :
+               ----------------
+                 1. Pointer Types :
+                 2. Array Types :
+                 3. Structure Types :
+                 4. Union Types :
+                 5. Function Types :
+ 
+     1. <<<<<<<<< Pointer Types >>>>>>>>>
+__________________________________________________
+         Pointer Types                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pointer Types
+                                                                                        
+2) Definition of Pointer Types ?
+--------------------------------
+*
+ 
+3) What is Pointer Types About ?
+--------------------------------
+*
+*
+
+4) What does Pointer Types Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Pointer Types :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pointer Types :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Pointer Types :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+        2. <<<<<<<<< Array Types >>>>>>>>>
+__________________________________________________
+     Array Types                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Array Types
+                                                                                        
+2) Definition of Array Types ?
+------------------------------
+*
+ 
+3) What is Array Types About ?
+------------------------------
+*
+*
+
+4) What does Array Types Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Array Types :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Array Types :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Array Types :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+           3. <<<<<<<<< Structure Types >>>>>>>>>
+__________________________________________________
+     Structure Types                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Structure Types
+                                                                                        
+2) Definition of Structure Types ?
+----------------------------------
+*
+ 
+3) What is Structure Types About ?
+----------------------------------
+*
+*
+
+4) What does Structure Types Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Structure Types :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Structure Types :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Structure Types :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+         4. <<<<<<<<< Union Types >>>>>>>>>
+__________________________________________________
+     Union Types                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Union Types
+                                                                                        
+2) Definition of Union Types ?
+------------------------------
+*
+ 
+3) What is Union Types About ?
+------------------------------
+*
+*
+
+4) What does Union Types Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Union Types :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Union Types :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Union Types :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+           5. <<<<<<<<< Function Types >>>>>>>>>
+__________________________________________________
+      Function Types                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Function Types
+                                                                                        
+2) Definition of Function Types ?
+---------------------------------
+*
+ 
+3) What is Function Types About ?
+---------------------------------
+*
+*
+
+4) What does Function Types Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Function Types :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Function Types :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Function Types :
+-------------------------------
+*
+*
+_______________________________________________________________________________

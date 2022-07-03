@@ -1,0 +1,327 @@
+
+ 28. <<<<<<<<< C - Error Handling >>>>>>>>>
+        
+      A.  errno, perror(). and strerror() :
+          ```````````````````````````````````
+           * errno
+           * perror() function
+           * strerror() function
+           
+           * stderr file stream
+    
+      B.  Divide by Zero Errors :
+          ````````````````````````
+      
+      C.  Program Exit Status :
+          ``````````````````````
+__________________________________________________
+        C - Error Handling                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Error Handling
+                                                                                        
+2) Definition of C - Error Handling ?
+-------------------------------------
+*
+ 
+3) What is C - Error Handling About ?
+-------------------------------------
+*
+*
+
+4) What does C - Error Handling Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Error Handling :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Error Handling :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Error Handling :
+-----------------------------------
+*
+*
+_______________________________________________________________________________ 
+
+      A.  errno, perror(). and strerror() :
+          ```````````````````````````````````
+           * errno
+           * perror() function
+           * strerror() function
+
+    * <<<<<<<<< errno function >>>>>>>>>
+__________________________________________________
+         errno function                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* errno function
+                                                                                        
+2) Definition of errno ?
+------------------------
+*
+ 
+3) What is errno About ?
+------------------------
+*
+*
+
+4) What does errno Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of errno :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of errno :
+------------------------------------
+*
+*
+*  
+
+7) Examples of errno :
+----------------------
+*
+*
+_______________________________________________________________________________
+
+         * <<<<<<<<< perror() function >>>>>>>>>
+__________________________________________________
+     perror() function                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* perror() function
+                                                                                        
+2) Definition of perror() function ?
+-------------------------------------
+*
+ 
+3) What is perror() function About ?
+------------------------------------
+*
+*
+
+4) What does perror() function Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of perror() function :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of perror() function :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of perror() function :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+         * <<<<<<<<< strerror() function >>>>>>>>>
+__________________________________________________
+     strerror() function                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* strerror() function
+                                                                                        
+2) Definition of strerror() function ?
+--------------------------------------
+*
+ 
+3) What is strerror() function About ?
+--------------------------------------
+*
+*
+
+4) What does strerror() function Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of strerror() function :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of strerror() function :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of strerror() function :
+------------------------------------
+*
+*
+________________________________________________________________________________
+
+    * <<<<<<<<< stderr file stream >>>>>>>>>
+__________________________________________________
+         stderr file stream                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* stderr file stream
+                                                                                        
+2) Definition of stderr file stream ?
+-------------------------------------
+*
+ 
+3) What is stderr file stream About ?
+-------------------------------------
+*
+*
+
+4) What does stderr file stream Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of stderr file stream :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of stderr file stream :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of stderr file stream :
+-----------------------------------
+*
+*
+__________________________________________________________________________________
+
+      B.  Divide by Zero Errors :
+          `````````````````````````
+
+   B. <<<<<<<<< Divide by Zero Errors >>>>>>>>>
+__________________________________________________
+         Divide by Zero Errors                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Divide by Zero Errors
+                                                                                        
+2) Definition of Divide by Zero Errors ?
+----------------------------------------
+*
+ 
+3) What is Divide by Zero Errors About ?
+----------------------------------------
+*
+*
+
+4) What does Divide by Zero Errors Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Divide by Zero Errors :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Divide by Zero Errors :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Divide by Zero Errors :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+      C.  Program Exit Status :
+          ``````````````````````
+
+        C. <<<<<<<<< Program Exit Status >>>>>>>>>
+__________________________________________________
+     Program Exit Status                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Program Exit Status
+                                                                                        
+2) Definition of Program Exit Status ?
+--------------------------------------
+*
+ 
+3) What is Program Exit Status About ?
+--------------------------------------
+*
+*
+
+4) What does Program Exit Status Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Program Exit Status :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Program Exit Status :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Program Exit Status :
+------------------------------------
+*
+*
+_______________________________________________________________________________

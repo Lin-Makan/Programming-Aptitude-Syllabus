@@ -1,0 +1,99 @@
+
+ 30. <<<<<<<<< C - Variable Arguments >>>>>>>>>
+      
+       A.  function func() :
+           ``````````````````
+ To Implement Functionality of Variable Arguments and follow the given steps −
+ ------------------------------------------------------------------------------
+        * int
+        * va_list
+        * int parameter and "va_start" macro to intialize the "va_list"
+        * "va_arg" macro and "va_list" variable
+        * macro "va_end" to clean up memory assigned to "va_list" variable
+__________________________________________________
+      C - Variable Arguments                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Variable Arguments
+                                                                                        
+2) Definition of C - Variable Arguments ?
+-----------------------------------------
+*
+ 
+3) What is C - Variable Arguments About ?
+-----------------------------------------
+*
+*
+
+4) What does C - Variable Arguments Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Variable Arguments :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Variable Arguments :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Variable Arguments :
+---------------------------------------
+*
+*
+_________________________________________________________________________________
+
+
+       A.  function func() :
+           ``````````````````
+     A. <<<<<<<<< function func() >>>>>>>>>
+__________________________________________________
+                                                  |
+    function func()                               |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* function func()
+                                                                                        
+2) Definition of function func() ?
+----------------------------------
+*
+ 
+3) What is function func() About ?
+----------------------------------
+*
+*
+
+4) What does function func() Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of function func() :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of function func() :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of function func() :
+--------------------------------
+*
+*
+________________________________________________________________________________

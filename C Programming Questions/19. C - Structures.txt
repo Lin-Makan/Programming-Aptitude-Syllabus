@@ -1,0 +1,432 @@
+
+ 19. <<<<<<<<< C - Structures >>>>>>>>>
+      
+     A.  Defining a Structure :
+         ```````````````````````
+          * Format of the Struct Statement :
+          * Structure Tag :
+
+     
+     B.  Accessing Structure Members :
+         ``````````````````````````````
+          * How to use a Structure in a Program −
+
+ 
+     C.  Structures as Function Arguments :
+         ```````````````````````````````````
+          * Pass a Structure as a Function Argument -
+
+     
+     D.  Pointers to Structures :
+         `````````````````````````
+          
+     E.  Bit Fields :
+         `````````````
+           *
+           * 
+__________________________________________________
+     C - Structures                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Structures
+                                                                                        
+2) Definition of C - Structures ?
+---------------------------------
+*
+ 
+3) What is C - Structures About ?
+---------------------------------
+*
+*
+
+4) What does C - Structures Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Structures :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Structures :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Structures :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+
+     A.  Defining a Structure :
+         ```````````````````````
+          * Format of the Struct Statement :
+          * Structure Tag :
+
+              * <<<<<<<<< Format of the Struct Statement >>>>>>>>>
+__________________________________________________
+         Format of the Struct Statement           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Format of the Struct Statement
+                                                                                        
+2) Definition of Format of the Struct Statement ?
+-------------------------------------------------
+*
+ 
+3) What is Format of the Struct Statement About ?
+-------------------------------------------------
+*
+*
+
+4) What does Format of the Struct Statement Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Format of the Struct Statement :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Format of the Struct Statement :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Format of the Struct Statement :
+-----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+               * <<<<<<<<< Structure Tag >>>>>>>>>
+__________________________________________________
+     Structure Tag                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Structure Tag
+                                                                                        
+2) Definition of Structure Tag ?
+--------------------------------
+*
+ 
+3) What is Structure Tag About ?
+--------------------------------
+*
+*
+
+4) What does Structure Tag Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Structure Tag :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Structure Tag :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Structure Tag :
+------------------------------
+*
+*
+________________________________________________________________________________
+
+     B.  Accessing Structure Members :
+         ``````````````````````````````
+          * How to use a Structure in a Program −
+
+              * <<<<<<<<< Accessing Structure Members >>>>>>>>>
+__________________________________________________
+         Accessing Structure Members              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Accessing Structure Members
+                                                                                        
+2) Definition of Accessing Structure Members ?
+----------------------------------------------
+*
+ 
+3) What is Accessing Structure Members About ?
+----------------------------------------------
+*
+*
+
+4) What does Accessing Structure Members Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Accessing Structure Members :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Accessing Structure Members :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Accessing Structure Members :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+               * <<<<<<<<< How to use a Structure in a Program >>>>>>>>>
+__________________________________________________
+     How to use a Structure in a Program          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* How to use a Structure in a Program
+                                                                                        
+2) Definition of How to use a Structure in a Program ?
+------------------------------------------------------
+*
+ 
+3) What is How to use a Structure in a Program About ?
+------------------------------------------------------
+*
+*
+
+4) What does How to use a Structure in a Program Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of How to use a Structure in a Program :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of How to use a Structure in a Program :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of How to use a Structure in a Program :
+----------------------------------------------------
+*
+*
+________________________________________________________________________________
+
+     C.  Structures as Function Arguments :
+         ```````````````````````````````````
+          * Pass a Structure as a Function Argument -
+
+             * <<<<<<<<< Structures as Function Arguments >>>>>>>>>
+__________________________________________________
+         Structures as Function Arguments         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Structures as Function Arguments
+                                                                                        
+2) Definition of Structures as Function Arguments ?
+---------------------------------------------------
+*
+ 
+3) What is Structures as Function Arguments About ?
+---------------------------------------------------
+*
+*
+
+4) What does Structures as Function Arguments Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Structures as Function Arguments :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Structures as Function Arguments :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Structures as Function Arguments :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+               * <<<<<<<<< Pass a Structure as a Function Argument >>>>>>>>>
+__________________________________________________
+     Pass a Structure as a Function Argument      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pass a Structure as a Function Argument
+                                                                                        
+2) Definition of Pass a Structure as a Function Argument ?
+----------------------------------------------------------
+*
+ 
+3) What is Pass a Structure as a Function Argument About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Pass a Structure as a Function Argument Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pass a Structure as a Function Argument :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pass a Structure as a Function Argument :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pass a Structure as a Function Argument :
+--------------------------------------------------------
+*
+*
+________________________________________________________________________________
+
+     D.  Pointers to Structures :
+         `````````````````````````
+      * <<<<<<<<< Pointers to Structures >>>>>>>>>  
+__________________________________________________
+     Pointers to Structures                       |
+                                                  |                    
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pointers to Structures
+                                                                                        
+2) Definition of Pointers to Structures ?
+-----------------------------------------
+*
+ 
+3) What is Pointers to Structures About ?
+-----------------------------------------
+*
+*
+
+4) What does Pointers to Structures Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pointers to Structures :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pointers to Structures :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pointers to Structures :
+---------------------------------------
+*
+*
+________________________________________________________________________________
+
+          
+     E.  Bit Fields :
+         `````````````
+           *
+           * 
+
+      * <<<<<<<<< Bit Fields >>>>>>>>>  
+__________________________________________________
+     Bit Fields                                   |
+                                                  |                    
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Bit Fields
+                                                                                        
+2) Definition of Bit Fields ?
+-----------------------------
+*
+ 
+3) What is Bit Fields About ?
+-----------------------------
+*
+*
+
+4) What does Bit Fields Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Bit Fields :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bit Fields :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Bit Fields :
+---------------------------
+*
+*
+________________________________________________________________________________

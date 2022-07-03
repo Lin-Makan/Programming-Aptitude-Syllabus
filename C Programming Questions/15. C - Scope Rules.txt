@@ -1,0 +1,281 @@
+
+15.  <<<<<<<<<<< Scope Rules >>>>>>>>>>>>>
+    
+     A. Three Places where Variables can be Declared in C Programming :
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         * Local Variables
+         * Global Variables
+         * Formal Parameters
+        
+     B. Initializing Local and Global Variables : 
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         - Local Variable you Initialize by yourself -
+         - Global Variable are Initialized automatically by the System -
+__________________________________________________
+      C - Scope Rules                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* C - Scope Rules
+                                                                                        
+2) Definition of C - Scope Rules ?
+----------------------------------
+*
+ 
+3) What is C - Scope Rules About ?
+----------------------------------
+*
+*
+
+4) What does C - Scope Rules Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of C - Scope Rules :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of C - Scope Rules :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of C - Scope Rules :
+--------------------------------
+*
+*
+________________________________________________________________________________
+
+     A. Three Places where Variables can be Declared in C Programming :
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         * Local Variables
+         * Global Variables
+         * Formal Parameters
+
+     *  <<<<<<<<< Local Variables >>>>>>>>>
+__________________________________________________
+         Local Variables                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Local Variables
+                                                                                        
+2) Definition of Local Variables ?
+----------------------------------
+*
+ 
+3) What is Local Variables About ?
+----------------------------------
+*
+*
+
+4) What does Local Variables Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Local Variables :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Local Variables :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Local Variables :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+           * <<<<<<<<< Global Variables >>>>>>>>>
+__________________________________________________
+     Global Variables                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Global Variables
+                                                                                        
+2) Definition of Global Variables ?
+-----------------------------------
+*
+ 
+3) What is Global Variables About ?
+-----------------------------------
+*
+*
+
+4) What does Global Variables Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Global Variables :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Global Variables :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Global Variables :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+          * <<<<<<<<< Formal Parameters >>>>>>>>>
+__________________________________________________
+     Formal Parameters                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Formal Parameters
+                                                                                        
+2) Definition of Formal Parameters ?
+------------------------------------
+*
+ 
+3) What is Formal Parameters About ?
+------------------------------------
+*
+*
+
+4) What does Formal Parameters Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Formal Parameters :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Formal Parameters :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Formal Parameters :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+
+     B. Initializing Local and Global Variables : 
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         - Local Variable you Initialize by yourself -
+         - Global Variable are Initialized automatically by the System -
+
+     *  <<<<<<<<< Local Variables Initialized >>>>>>>>>
+__________________________________________________
+       Local Variables Initialized                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Local Variables Initialized
+                                                                                        
+2) Definition of Local Variables Initialized ?
+----------------------------------------------
+*
+ 
+3) What is Local Variables Initialized About ?
+----------------------------------------------
+*
+*
+
+4) What does Local Variables Initialized Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Local Variables Initialized :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Local Variables Initialized :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Local Variables Initialized :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+           * <<<<<<<<< Global Variables Initialized >>>>>>>>>
+__________________________________________________
+     Global Variables Initialized                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Global Variables Initialized
+                                                                                        
+2) Definition of Global Variables Initialized ?
+-----------------------------------------------
+*
+ 
+3) What is Global Variables Initialized About ?
+-----------------------------------------------
+*
+*
+
+4) What does Global Variables Initialized Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Global Variables Initialized :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Global Variables Initialized :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Global Variables Initialized :
+---------------------------------------------
+* 
+*
+_______________________________________________________________________________
